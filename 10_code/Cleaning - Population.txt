@@ -1,0 +1,62 @@
+import pandas as pd
+import numpy as np
+import glob
+import os
+
+# Set working directory
+os.chdir('E:\Jose_Moscoso\Duke\IDS 690 Tools for DS\Team Project\Code')
+path = os.getcwd()
+print(path)
+
+#Data structuring for population
+population = pd.read_csv('population_aggregate.csv')
+population.head()
+population.shape
+
+# For the population data frame we exclude the columns Unnamed:0, Textbox1, textbox77, ruc_code, and replace the column labels
+# for years as integer numbers 
+
+population = population[['fips', 'name','estBase040190', 'April2000', 'ESTIMATESBASE2010', 'current_year']].copy()
+population = population.rename(columns = {'name':'County/State','estBase040190':'1990', 'April2000':'2000', 'ESTIMATESBASE2010':'2010', 'current_year':'2019'})
+population.head()
+
+#To calculate the estimate population per year, we need to convert the string values per year in integer numbers.
+
+year_to_int = ['1990','2000','2010','2019']
+
+for i in year_to_int:
+    population[i] = population[i].str.replace(',','').astype(int)
+
+population.head()
+
+#Calculate annual population estimate between 2006 and 2016, and insert those estimates in the table.
+
+population_inter = population.copy()
+
+year_range = range(2006,2017,1)
+print(year_range)
+for i in year_range:
+    if i<=2009:
+        population_inter[i] = population['2000']+((population['2010']-population['2000'])/10)*(i-2000)
+    else:
+        population_inter[i] = population['2010']+((population['2019']-population['2010'])/9)*(i-2010)
+
+#Converting all values to integers
+population_inter.head()
+ 
+year_range = range(2006,2017,1)
+print(year_range)
+for i in year_range:
+    population_inter[i] = population_inter[i].astype(int)
+
+population_inter.head()
+
+#Reshape years as rows to proceed with the merge of population and mortality dataframes.
+population_inter = population_inter.drop(columns = ['1990','2000','2010','2019'])
+population_inter
+
+stack1 = list(range(2006,2017,1))
+
+population_inter_reshape = population_inter.melt(id_vars = ['fips','County/State'], value_vars = stack1)
+population_inter_reshape.head()
+population_inter_reshape.shape

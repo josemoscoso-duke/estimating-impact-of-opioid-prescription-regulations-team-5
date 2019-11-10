@@ -1,0 +1,121 @@
+import pandas as pd
+import numpy as np
+import glob
+import os
+
+# Set working directory
+os.chdir('E:\Jose_Moscoso\Duke\IDS 690 Tools for DS\Team Project\Code')
+path = os.getcwd()
+print(path)
+
+#Explore main column names amd data structure
+mortality = pd.read_csv('mortality_aggregate.csv')
+mortality.head()
+mortality.shape
+
+#We observe 'Missing' values in Deaths column, but not for states that are part of our analysis : AK(Alaska), VA(Virginia)
+mortality[mortality['Deaths']=='Missing']
+mortality[mortality['Deaths']=='Missing']['Deaths'].value_counts()
+
+#Evaluate content of other columns, to define its relevance. Notes seem to be put between recorder for explanatory purposes.
+#We will remove those rows.
+mortality[~mortality['Notes'].isnull()]['Notes'].value_counts()
+
+#identify missing values in Deaths column (195).
+mortality['Deaths'].isna().value_counts()
+
+#Lets drop missing values from Deaths column:
+mortality_notna = mortality[~mortality['Deaths'].isnull()]
+mortality_notna.shape
+
+#We already droped missing values in Drug/Alcohol Induced Cause, when dropped 'NA' values from Death column
+mortality_notna['Drug/Alcohol Induced Cause'].isnull().value_counts()
+
+mortality_notna['Drug/Alcohol Induced Cause'].value_counts()
+
+mortality_notna['Drug/Alcohol Induced Cause Code'].value_counts()
+
+#Convert deaths to integer value.
+mortality_notna.head()
+
+mortality_notna['Deaths'] = mortality_notna['Deaths'].map(lambda x: x.replace('.0','')).copy()
+mortality_notna.head()
+
+#Eliminate 'Missing' values in Deaths column and convert it to an integer. Also, convert columns County Code and Year from floating numbers to integers.
+mortality_notna[mortality_notna['Deaths']=='Missing']
+mortality_notna = mortality_notna[mortality_notna['Deaths']!='Missing']
+mortality_notna[['County Code','Year','Deaths']] = mortality_notna[['County Code','Year','Deaths']].astype(int)
+
+
+#We are dropping from the mortality data frame the columns : Unnamed:0, Notes, Year Code.
+subset = ['County', 'County Code', 'Year','Drug/Alcohol Induced Cause Code', 'Deaths']
+mortality_subset = mortality_notna[subset]
+
+#For the purpose of the analysis we are considering drug poisoning (overdose) unintentional (X40-X44), 7573 cases, Code D1
+#suicide (X60-X64), 1465 cases, Code D2, and Undetermined (Y10-Y14), 761 cases, Code D4. 
+overdose_code = ['D1', 'D2', 'D4']
+mortality_subset = mortality_subset[mortality_subset['Drug/Alcohol Induced Cause Code'].isin(overdose_code)]
+
+#Checking update data structure for mortality, and duplicated 
+mortality_subset.head()
+mortality_subset.shape
+
+#Identify duplicate values in County Codes column due to different categories of drug poisoning (overdose). We pretend to 
+#aggregate those values, and get total overdose cases (included in overdose code list) per county.
+
+mortality_subset[['County Code']].duplicated().any()
+mortality_subset.head()
+
+mortality_overdose = mortality_subset.groupby(['County', 'County Code', 'Year'], as_index = False).sum()
+mortality_overdose.head()
+
+mortality_overdose.shape
+
+#Split the content of column County into a list of two values, one containing County and the second the State code.
+mortality_overdose_new = mortality_overdose.copy()
+for i in range(len(mortality_overdose['County'])):
+    mortality_overdose_new['County'][i] = mortality_overdose['County'][i].split(',').copy()
+
+#County column now has a list with 2 values, one contains County and the second the State code.
+mortality_overdose_new.head()
+
+#Create a new column for State values.
+mortality_overdose['State'] = 0
+
+#Fill in values of County and State accordingly.
+for i in range(len(mortality_overdose['County'])):
+    mortality_overdose['County'][i] = mortality_overdose_new['County'][i][0]
+    mortality_overdose['State'][i] = mortality_overdose_new['County'][i][1].strip()
+
+#Review output from adjusted mortality_overdose data set.
+mortality_overdose.head()
+
+#Review out of new column 'State' in the dataframe
+mortality_overdose['State'].value_counts()
+
+# Check quantity of observations per State:
+TX = mortality_overdose.loc[mortality_overdose['State']=='TX']
+TX['Deaths'].value_counts().to_list()
+TX.head()
+TX.shape
+
+#Subsetting only states of interest : Florida (FL), Washington (WS) and Texas (TX)
+States_subset = ['FL','WA','TX']
+mortality_final = mortality_overdose.loc[mortality_overdose['State'].isin(States_subset)]
+mortality_final.head()
+mortality_final.shape
+
+#Then, check sum all in categories of deaths related to drug poissoning (except for homicide)
+#Washington
+mortality_final[mortality_final['State']=='WA'].shape
+mortality_final[mortality_final['State']=='WA']['Deaths'].sum()
+
+#Texas
+mortality_final[mortality_final['State']=='TX'].shape
+mortality_final[mortality_final['State']=='TX']['Deaths'].sum()
+
+#Florida
+mortality_final[mortality_final['State']=='FL'].shape
+mortality_final[mortality_final['State']=='FL']['Deaths'].sum()
+
+
