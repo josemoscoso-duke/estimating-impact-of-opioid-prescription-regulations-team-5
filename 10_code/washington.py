@@ -5,7 +5,7 @@ from plotnine import *
 
 
 # Import Washington population data
-wa = pd.read_csv("../00_source/Population/WashingtonPopReportCleaned.csv", sep = ',')
+wa = pd.read_csv("../00_source/Population/WashingtonPopulationReportCleaned.csv", sep = ',')
 wa.head()
 
 # Drop extra column and recheck dataframe
@@ -58,6 +58,7 @@ wa_fips
 wa_pop_reshaped = pd.melt(wa_pop, id_vars = ['FIPS','County name'],
 value_vars = ['2000','2001','2002','2003','2004','2005','2006','2007','2008','2009','2010',
 '2011','2012','2013','2014','2015','2016','2017','2018'], var_name = 'Year', value_name = 'Population')
+wa_pop_reshaped
 
 # Convert to proper types
 wa_pop_reshaped['Year'] = wa_pop_reshaped['Year'].astype(int)
@@ -80,9 +81,13 @@ wa_pop_reshaped2
 # Merge with total state popluation dataframe
 wa_pop_merged = wa_pop_reshaped2.merge(wa_total, left_on = ['Year'], right_on = ['Year'])
 wa_pop_merged = wa_pop_merged.rename(columns = {'FIPS_x':'FIPS','County name_y':'State',
-'County name_x':'County'})
+'County name_x':'County Name'})
 wa_pop_merged.columns
 wa_pop_merged = wa_pop_merged.drop(columns = ['FIPS_y'])
+# Add state abbreviation columns
+wa_pop_merged['State Abbreviation'] = 'WA'
+# Remove 'county' from County
+wa_pop_merged['County Name'] = wa_pop_merged['County Name'].str.replace('County','').str.upper()
 wa_pop_merged
 
 # Import Mortality stats
@@ -98,7 +103,7 @@ mort_wa = mort.copy()
 mort_wa = mort_wa[mort_wa['County Code'].isin(wa_fips)]
 # Look at number of unique counties
 mort_wa['County'].nunique()
-len(mort_wa)
+mort_wa
 
 # Look at drug cause codes (all with D)
 drug_overdose_codes = ['D1','D2','D4']
@@ -114,18 +119,18 @@ mort_wa_drug['Year'] = mort_wa_drug['Year'].astype(int)
 # mort_wa_drug['Drug/Alcohol Induced Cause'] = mort_wa_drug['Drug/Alcohol Induced Cause'].astype(str)
 # mort_wa_drug['Drug/Alcohol Induced Cause Code'] = mort_wa_drug['Drug/Alcohol Induced Cause Code'].astype(str)
 mort_wa_drug.dtypes
+mort_wa_drug
 
 # Merge with population data on FIPS
 merged_data = mort_wa_drug.merge(wa_pop_merged, how = "left", left_on = ['County Code', 'Year'],
 right_on = ['FIPS', 'Year'])
 # Check and remove extraneous columns
 merged_data
-merged_data = merged_data.drop(columns = ['County_x','FIPS'])
+merged_data = merged_data.drop(columns = ['County','FIPS'])
 # Rename and reorder columns
-merged_data = merged_data.rename(columns = {'County_y':'County','Population':'County Population'})
+merged_data = merged_data.rename(columns = {'Population':'County Population'})
 merged_data.head()
-merged_data = merged_data[['County','State','County Code','Year','Drug/Alcohol Induced Cause',
+merged_data = merged_data[['County Name','State','State Abbreviation','County Code','Year','Drug/Alcohol Induced Cause',
 'Drug/Alcohol Induced Cause Code','Deaths','County Population','State Population']]
 # Final merged dataset
 merged_data
-merged_data['Deaths'].value_counts()

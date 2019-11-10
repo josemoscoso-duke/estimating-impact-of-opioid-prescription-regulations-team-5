@@ -8,11 +8,11 @@ from plotnine import *
 # Pop. 2000, Pop. 2010, Pop. 2018, Change 2010-2018. After downloading, you must delete the image textbox and then manually
 # readjust the columns so that it is in this format. Save as "StatePopReportCleaned" and add
 # 00/source/Population in Github
-# See template of "popshingtonPopReportCleaned" in source files
+# See template of "WashingtonPopulationReportCleaned" in source files
 
 # Input state name and abbreivation
-state = 'Florida'
-state_abbrev = 'FL'
+state = 'Texas'
+state_abbrev = 'TX'
 
 # Function to clean population and mortality data and then merge the two dataframes
 def pop_mort_merge(st):
@@ -91,9 +91,13 @@ def pop_mort_merge(st):
     # Merge with total state popluation dataframe
     pop_pop_merged = pop_pop_reshaped2.merge(pop_total, left_on = ['Year'], right_on = ['Year'])
     pop_pop_merged = pop_pop_merged.rename(columns = {'FIPS_x':'FIPS','County name_y':'State',
-    'County name_x':'County'})
+    'County name_x':'County Name'})
     pop_pop_merged.columns
     pop_pop_merged = pop_pop_merged.drop(columns = ['FIPS_y'])
+    pop_pop_merged['State Abbreviation'] = 'WA'
+    # Remove 'county' from County and make uppercase for future merge with ARCOS data
+    pop_pop_merged['County Name'] = pop_pop_merged['County Name'].str.replace('County','').str.upper()
+
     pop_pop_merged
 
     mort = pd.read_csv("../20_intermediate_files/mortality_aggregate.csv")
@@ -130,16 +134,15 @@ def pop_mort_merge(st):
     right_on = ['FIPS', 'Year'])
     # Check and remove extraneous columns
     merged_data
-    merged_data = merged_data.drop(columns = ['County_x','FIPS'])
+    merged_data = merged_data.drop(columns = ['County','FIPS'])
     # Rename and reorder columns
     merged_data = merged_data.rename(columns = {'County_y':'County','Population':'County Population'})
+    merged_data['State Abbreviation'] = state_abbrev
     merged_data.head()
-    merged_data = merged_data[['County','State','County Code','Year','Drug/Alcohol Induced Cause',
+    merged_data = merged_data[['County Name','State','State Abbreviation','County Code','Year','Drug/Alcohol Induced Cause',
     'Drug/Alcohol Induced Cause Code','Deaths','County Population','State Population']]
     # Final merged dataset
     merged_data
-    print(merged_data['Deaths'])
-
     return(merged_data)
 
 pop_mort_merge(state)
