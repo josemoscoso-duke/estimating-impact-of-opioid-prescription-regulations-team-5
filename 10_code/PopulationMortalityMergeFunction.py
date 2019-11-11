@@ -1,18 +1,18 @@
 # Import libraries
 import pandas as pd
 import numpy as np
-from plotnine import *
 
 # BEFORE STARTING: download state population data from this link https://data.ers.usda.gov/reports.aspx?ID=17827
 # and adjust the csv to have the following columns: FIPS, County name, RUC Code, Pop. 1990,
 # Pop. 2000, Pop. 2010, Pop. 2018, Change 2010-2018. After downloading, you must delete the image textbox and then manually
-# readjust the columns so that it is in this format. Save as "StatePopReportCleaned" and add
-# 00/source/Population in Github
+# readjust the columns so that it is in this format. Save as "StatePopulationReportCleaned.csv" and add
+# to 00/source/Population in Github. States that are two words, like New York, need to be
+# saved as follows: New YorkPopulationReportCleaned.csv
 # See template of "WashingtonPopulationReportCleaned" in source files
 
 # Input state name and abbreivation
-state = 'Texas'
-state_abbrev = 'TX'
+state = 'Florida'
+state_abbrev = 'FL'
 
 # Function to clean population and mortality data and then merge the two dataframes
 def pop_mort_merge(st):
@@ -96,7 +96,7 @@ def pop_mort_merge(st):
     pop_pop_merged = pop_pop_merged.drop(columns = ['FIPS_y'])
     pop_pop_merged['State Abbreviation'] = 'WA'
     # Remove 'county' from County and make uppercase for future merge with ARCOS data
-    pop_pop_merged['County Name'] = pop_pop_merged['County Name'].str.replace('County','').str.upper()
+    pop_pop_merged['County Name'] = pop_pop_merged['County Name'].str.replace(' County','').str.upper()
 
     pop_pop_merged
 
@@ -145,4 +145,7 @@ def pop_mort_merge(st):
     merged_data
     return(merged_data)
 
-pop_mort_merge(state)
+# Return final merged table and save to csv
+pop_mort_data = pop_mort_merge(state)
+pop_mort_data
+pop_mort_data.to_csv("../20_intermediate_files/{}MortPopData.csv".format(state_abbrev), index = False)
