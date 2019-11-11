@@ -1,0 +1,646 @@
+County Name,State,State Abbreviation,County Code,Year,Drug/Alcohol Induced Cause,Drug/Alcohol Induced Cause Code,Deaths,County Population,State Population
+ALACHUA,Florida,FL,12001,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,226775,16829173
+BAY,Florida,FL,12005,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,21,154444,16829173
+BREVARD,Florida,FL,12009,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,83,496420,16829173
+BREVARD,Florida,FL,12009,2003,Drug poisonings (overdose) Suicide (X60-X64),D2,14,496420,16829173
+BROWARD,Florida,FL,12011,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,170,1660525,16829173
+BROWARD,Florida,FL,12011,2003,Drug poisonings (overdose) Suicide (X60-X64),D2,60,1660525,16829173
+CITRUS,Florida,FL,12017,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,125042,16829173
+CLAY,Florida,FL,12019,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,155811,16829173
+COLLIER,Florida,FL,12021,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,29,272444,16829173
+DUVAL,Florida,FL,12031,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,107,804507,16829173
+DUVAL,Florida,FL,12031,2003,Drug poisonings (overdose) Suicide (X60-X64),D2,20,804507,16829173
+ESCAMBIA,Florida,FL,12033,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,27,295376,16829173
+HERNANDO,Florida,FL,12053,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,143389,16829173
+HIGHLANDS,Florida,FL,12055,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,90809,16829173
+HILLSBOROUGH,Florida,FL,12057,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,114,1068049,16829173
+HILLSBOROUGH,Florida,FL,12057,2003,Drug poisonings (overdose) Suicide (X60-X64),D2,12,1068049,16829173
+INDIAN RIVER,Florida,FL,12061,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,120422,16829173
+LAKE,Florida,FL,12069,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,236408,16829173
+LEE,Florida,FL,12071,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,61,494263,16829173
+LEE,Florida,FL,12071,2003,Drug poisonings (overdose) Suicide (X60-X64),D2,16,494263,16829173
+LEON,Florida,FL,12073,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,250301,16829173
+MANATEE,Florida,FL,12081,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,42,281660,16829173
+MARION,Florida,FL,12083,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,33,280600,16829173
+MARION,Florida,FL,12083,2003,Drug poisonings (overdose) Suicide (X60-X64),D2,10,280600,16829173
+MARTIN,Florida,FL,12085,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,132799,16829173
+MIAMI-DADE,Florida,FL,12086,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,82,2327059,16829173
+MIAMI-DADE,Florida,FL,12086,2003,Drug poisonings (overdose) Suicide (X60-X64),D2,12,2327059,16829173
+MONROE,Florida,FL,12087,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,77648,16829173
+OKALOOSA,Florida,FL,12091,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,173611,16829173
+ORANGE,Florida,FL,12095,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,83,971072,16829173
+OSCEOLA,Florida,FL,12097,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,201368,16829173
+PALM BEACH,Florida,FL,12099,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,175,1187872,16829173
+PALM BEACH,Florida,FL,12099,2003,Drug poisonings (overdose) Suicide (X60-X64),D2,24,1187872,16829173
+PASCO,Florida,FL,12101,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,52,380735,16829173
+PASCO,Florida,FL,12101,2003,Drug poisonings (overdose) Suicide (X60-X64),D2,10,380735,16829173
+PINELLAS,Florida,FL,12103,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,112,920091,16829173
+PINELLAS,Florida,FL,12103,2003,Drug poisonings (overdose) Suicide (X60-X64),D2,23,920091,16829173
+POLK,Florida,FL,12105,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,42,519351,16829173
+ST. LUCIE,Florida,FL,12111,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,21,218051,16829173
+SANTA ROSA,Florida,FL,12113,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,21,127837,16829173
+SARASOTA,Florida,FL,12115,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,50,342031,16829173
+SARASOTA,Florida,FL,12115,2003,Drug poisonings (overdose) Suicide (X60-X64),D2,12,342031,16829173
+SEMINOLE,Florida,FL,12117,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,33,382627,16829173
+VOLUSIA,Florida,FL,12127,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,48,458748,16829173
+BAY,Florida,FL,12005,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,18,156502,17111374
+BREVARD,Florida,FL,12009,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,96,503128,17111374
+BREVARD,Florida,FL,12009,2004,Drug poisonings (overdose) Suicide (X60-X64),D2,15,503128,17111374
+BROWARD,Florida,FL,12011,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,190,1673042,17111374
+BROWARD,Florida,FL,12011,2004,Drug poisonings (overdose) Suicide (X60-X64),D2,59,1673042,17111374
+BROWARD,Florida,FL,12011,2004,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,23,1673042,17111374
+CHARLOTTE,Florida,FL,12015,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,148957,17111374
+CITRUS,Florida,FL,12017,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,127355,17111374
+CLAY,Florida,FL,12019,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,22,160818,17111374
+COLLIER,Florida,FL,12021,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,29,279455,17111374
+DUVAL,Florida,FL,12031,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,91,813044,17111374
+DUVAL,Florida,FL,12031,2004,Drug poisonings (overdose) Suicide (X60-X64),D2,18,813044,17111374
+ESCAMBIA,Florida,FL,12033,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,33,295697,17111374
+HERNANDO,Florida,FL,12053,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,147587,17111374
+HILLSBOROUGH,Florida,FL,12057,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,127,1091067,17111374
+HILLSBOROUGH,Florida,FL,12057,2004,Drug poisonings (overdose) Suicide (X60-X64),D2,19,1091067,17111374
+INDIAN RIVER,Florida,FL,12061,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,122937,17111374
+LAKE,Florida,FL,12069,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,245071,17111374
+LEE,Florida,FL,12071,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,81,512047,17111374
+LEE,Florida,FL,12071,2004,Drug poisonings (overdose) Suicide (X60-X64),D2,17,512047,17111374
+MANATEE,Florida,FL,12081,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,46,287549,17111374
+MARION,Florida,FL,12083,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,18,287843,17111374
+MARTIN,Florida,FL,12085,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,134807,17111374
+MIAMI-DADE,Florida,FL,12086,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,99,2351481,17111374
+MIAMI-DADE,Florida,FL,12086,2004,Drug poisonings (overdose) Suicide (X60-X64),D2,24,2351481,17111374
+MONROE,Florida,FL,12087,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,76997,17111374
+NASSAU,Florida,FL,12089,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,63911,17111374
+OKALOOSA,Florida,FL,12091,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,22,174642,17111374
+ORANGE,Florida,FL,12095,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,75,996055,17111374
+ORANGE,Florida,FL,12095,2004,Drug poisonings (overdose) Suicide (X60-X64),D2,22,996055,17111374
+OSCEOLA,Florida,FL,12097,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,210985,17111374
+PALM BEACH,Florida,FL,12099,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,170,1206767,17111374
+PALM BEACH,Florida,FL,12099,2004,Drug poisonings (overdose) Suicide (X60-X64),D2,26,1206767,17111374
+PASCO,Florida,FL,12101,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,72,392730,17111374
+PASCO,Florida,FL,12101,2004,Drug poisonings (overdose) Suicide (X60-X64),D2,11,392730,17111374
+PINELLAS,Florida,FL,12103,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,142,919621,17111374
+PINELLAS,Florida,FL,12103,2004,Drug poisonings (overdose) Suicide (X60-X64),D2,40,919621,17111374
+POLK,Florida,FL,12105,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,51,531172,17111374
+POLK,Florida,FL,12105,2004,Drug poisonings (overdose) Suicide (X60-X64),D2,11,531172,17111374
+PUTNAM,Florida,FL,12107,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,71998,17111374
+ST. JOHNS,Florida,FL,12109,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,149955,17111374
+ST. LUCIE,Florida,FL,12111,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,27,226509,17111374
+SANTA ROSA,Florida,FL,12113,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,18,131199,17111374
+SARASOTA,Florida,FL,12115,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,47,347375,17111374
+SARASOTA,Florida,FL,12115,2004,Drug poisonings (overdose) Suicide (X60-X64),D2,12,347375,17111374
+SEMINOLE,Florida,FL,12117,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,23,388354,17111374
+VOLUSIA,Florida,FL,12127,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,60,463869,17111374
+VOLUSIA,Florida,FL,12127,2004,Drug poisonings (overdose) Suicide (X60-X64),D2,14,463869,17111374
+BAY,Florida,FL,12005,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,158561,17393575
+BREVARD,Florida,FL,12009,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,90,509835,17393575
+BREVARD,Florida,FL,12009,2005,Drug poisonings (overdose) Suicide (X60-X64),D2,29,509835,17393575
+BROWARD,Florida,FL,12011,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,224,1685559,17393575
+BROWARD,Florida,FL,12011,2005,Drug poisonings (overdose) Suicide (X60-X64),D2,35,1685559,17393575
+BROWARD,Florida,FL,12011,2005,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,18,1685559,17393575
+CHARLOTTE,Florida,FL,12015,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,150791,17393575
+CITRUS,Florida,FL,12017,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,129667,17393575
+CLAY,Florida,FL,12019,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,165826,17393575
+COLLIER,Florida,FL,12021,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,43,286466,17393575
+COLUMBIA,Florida,FL,12023,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,61969,17393575
+DUVAL,Florida,FL,12031,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,84,821581,17393575
+DUVAL,Florida,FL,12031,2005,Drug poisonings (overdose) Suicide (X60-X64),D2,18,821581,17393575
+ESCAMBIA,Florida,FL,12033,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,32,296017,17393575
+HERNANDO,Florida,FL,12053,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,19,151786,17393575
+HILLSBOROUGH,Florida,FL,12057,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,139,1114085,17393575
+HILLSBOROUGH,Florida,FL,12057,2005,Drug poisonings (overdose) Suicide (X60-X64),D2,23,1114085,17393575
+INDIAN RIVER,Florida,FL,12061,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,125452,17393575
+LAKE,Florida,FL,12069,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,18,253734,17393575
+LEE,Florida,FL,12071,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,70,529832,17393575
+LEE,Florida,FL,12071,2005,Drug poisonings (overdose) Suicide (X60-X64),D2,11,529832,17393575
+LEON,Florida,FL,12073,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,257496,17393575
+MANATEE,Florida,FL,12081,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,43,293437,17393575
+MARION,Florida,FL,12083,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,28,295085,17393575
+MARTIN,Florida,FL,12085,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,25,136814,17393575
+MIAMI-DADE,Florida,FL,12086,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,105,2375903,17393575
+MIAMI-DADE,Florida,FL,12086,2005,Drug poisonings (overdose) Suicide (X60-X64),D2,19,2375903,17393575
+NASSAU,Florida,FL,12089,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,65477,17393575
+OKALOOSA,Florida,FL,12091,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,21,175672,17393575
+ORANGE,Florida,FL,12095,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,74,1021038,17393575
+ORANGE,Florida,FL,12095,2005,Drug poisonings (overdose) Suicide (X60-X64),D2,16,1021038,17393575
+OSCEOLA,Florida,FL,12097,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,220601,17393575
+PALM BEACH,Florida,FL,12099,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,190,1225662,17393575
+PALM BEACH,Florida,FL,12099,2005,Drug poisonings (overdose) Suicide (X60-X64),D2,25,1225662,17393575
+PALM BEACH,Florida,FL,12099,2005,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,14,1225662,17393575
+PASCO,Florida,FL,12101,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,74,404726,17393575
+PASCO,Florida,FL,12101,2005,Drug poisonings (overdose) Suicide (X60-X64),D2,10,404726,17393575
+PINELLAS,Florida,FL,12103,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,145,919152,17393575
+PINELLAS,Florida,FL,12103,2005,Drug poisonings (overdose) Suicide (X60-X64),D2,31,919152,17393575
+POLK,Florida,FL,12105,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,48,542993,17393575
+POLK,Florida,FL,12105,2005,Drug poisonings (overdose) Suicide (X60-X64),D2,12,542993,17393575
+ST. LUCIE,Florida,FL,12111,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,25,234967,17393575
+SANTA ROSA,Florida,FL,12113,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,22,134561,17393575
+SARASOTA,Florida,FL,12115,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,60,352718,17393575
+SEMINOLE,Florida,FL,12117,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,30,394080,17393575
+SEMINOLE,Florida,FL,12117,2005,Drug poisonings (overdose) Suicide (X60-X64),D2,11,394080,17393575
+VOLUSIA,Florida,FL,12127,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,67,468990,17393575
+VOLUSIA,Florida,FL,12127,2005,Drug poisonings (overdose) Suicide (X60-X64),D2,18,468990,17393575
+WALTON,Florida,FL,12131,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,47801,17393575
+BAY,Florida,FL,12005,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,21,160619,17675776
+BREVARD,Florida,FL,12009,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,81,516542,17675776
+BREVARD,Florida,FL,12009,2006,Drug poisonings (overdose) Suicide (X60-X64),D2,16,516542,17675776
+BREVARD,Florida,FL,12009,2006,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,10,516542,17675776
+BROWARD,Florida,FL,12011,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,215,1698077,17675776
+BROWARD,Florida,FL,12011,2006,Drug poisonings (overdose) Suicide (X60-X64),D2,33,1698077,17675776
+BROWARD,Florida,FL,12011,2006,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,10,1698077,17675776
+CITRUS,Florida,FL,12017,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,23,131979,17675776
+CLAY,Florida,FL,12019,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,170834,17675776
+COLLIER,Florida,FL,12021,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,43,293477,17675776
+DUVAL,Florida,FL,12031,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,124,830118,17675776
+DUVAL,Florida,FL,12031,2006,Drug poisonings (overdose) Suicide (X60-X64),D2,22,830118,17675776
+ESCAMBIA,Florida,FL,12033,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,45,296338,17675776
+HERNANDO,Florida,FL,12053,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,25,155984,17675776
+HILLSBOROUGH,Florida,FL,12057,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,158,1137104,17675776
+HILLSBOROUGH,Florida,FL,12057,2006,Drug poisonings (overdose) Suicide (X60-X64),D2,27,1137104,17675776
+INDIAN RIVER,Florida,FL,12061,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,23,127967,17675776
+LAKE,Florida,FL,12069,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,262398,17675776
+LEE,Florida,FL,12071,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,82,547616,17675776
+LEE,Florida,FL,12071,2006,Drug poisonings (overdose) Suicide (X60-X64),D2,16,547616,17675776
+MANATEE,Florida,FL,12081,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,43,299325,17675776
+MANATEE,Florida,FL,12081,2006,Drug poisonings (overdose) Suicide (X60-X64),D2,11,299325,17675776
+MARION,Florida,FL,12083,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,55,302328,17675776
+MARTIN,Florida,FL,12085,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,138822,17675776
+MIAMI-DADE,Florida,FL,12086,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,125,2400325,17675776
+MIAMI-DADE,Florida,FL,12086,2006,Drug poisonings (overdose) Suicide (X60-X64),D2,17,2400325,17675776
+MONROE,Florida,FL,12087,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,75694,17675776
+OKALOOSA,Florida,FL,12091,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,27,176703,17675776
+ORANGE,Florida,FL,12095,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,88,1046021,17675776
+ORANGE,Florida,FL,12095,2006,Drug poisonings (overdose) Suicide (X60-X64),D2,20,1046021,17675776
+OSCEOLA,Florida,FL,12097,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,230217,17675776
+PALM BEACH,Florida,FL,12099,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,162,1244556,17675776
+PALM BEACH,Florida,FL,12099,2006,Drug poisonings (overdose) Suicide (X60-X64),D2,28,1244556,17675776
+PALM BEACH,Florida,FL,12099,2006,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,21,1244556,17675776
+PASCO,Florida,FL,12101,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,81,416721,17675776
+PASCO,Florida,FL,12101,2006,Drug poisonings (overdose) Suicide (X60-X64),D2,20,416721,17675776
+PINELLAS,Florida,FL,12103,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,179,918682,17675776
+PINELLAS,Florida,FL,12103,2006,Drug poisonings (overdose) Suicide (X60-X64),D2,34,918682,17675776
+POLK,Florida,FL,12105,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,56,554814,17675776
+POLK,Florida,FL,12105,2006,Drug poisonings (overdose) Suicide (X60-X64),D2,11,554814,17675776
+ST. LUCIE,Florida,FL,12111,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,28,243424,17675776
+SANTA ROSA,Florida,FL,12113,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,28,137923,17675776
+SARASOTA,Florida,FL,12115,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,76,358061,17675776
+SEMINOLE,Florida,FL,12117,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,37,399807,17675776
+SEMINOLE,Florida,FL,12117,2006,Drug poisonings (overdose) Suicide (X60-X64),D2,10,399807,17675776
+VOLUSIA,Florida,FL,12127,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,59,474111,17675776
+VOLUSIA,Florida,FL,12127,2006,Drug poisonings (overdose) Suicide (X60-X64),D2,21,474111,17675776
+WALTON,Florida,FL,12131,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,49250,17675776
+ALACHUA,Florida,FL,12001,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,238525,17957977
+BAY,Florida,FL,12005,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,30,162677,17957977
+BREVARD,Florida,FL,12009,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,84,523250,17957977
+BREVARD,Florida,FL,12009,2007,Drug poisonings (overdose) Suicide (X60-X64),D2,20,523250,17957977
+BROWARD,Florida,FL,12011,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,222,1710594,17957977
+BROWARD,Florida,FL,12011,2007,Drug poisonings (overdose) Suicide (X60-X64),D2,40,1710594,17957977
+CITRUS,Florida,FL,12017,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,134292,17957977
+CLAY,Florida,FL,12019,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,26,175841,17957977
+COLLIER,Florida,FL,12021,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,38,300488,17957977
+DUVAL,Florida,FL,12031,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,124,838655,17957977
+DUVAL,Florida,FL,12031,2007,Drug poisonings (overdose) Suicide (X60-X64),D2,16,838655,17957977
+ESCAMBIA,Florida,FL,12033,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,31,296658,17957977
+HERNANDO,Florida,FL,12053,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,36,160182,17957977
+HILLSBOROUGH,Florida,FL,12057,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,231,1160122,17957977
+HILLSBOROUGH,Florida,FL,12057,2007,Drug poisonings (overdose) Suicide (X60-X64),D2,26,1160122,17957977
+INDIAN RIVER,Florida,FL,12061,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,22,130482,17957977
+LAKE,Florida,FL,12069,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,271061,17957977
+LEE,Florida,FL,12071,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,86,565400,17957977
+LEE,Florida,FL,12071,2007,Drug poisonings (overdose) Suicide (X60-X64),D2,12,565400,17957977
+LEON,Florida,FL,12073,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,264691,17957977
+MANATEE,Florida,FL,12081,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,46,305214,17957977
+MARION,Florida,FL,12083,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,30,309571,17957977
+MARTIN,Florida,FL,12085,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,27,140829,17957977
+MIAMI-DADE,Florida,FL,12086,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,110,2424747,17957977
+MIAMI-DADE,Florida,FL,12086,2007,Drug poisonings (overdose) Suicide (X60-X64),D2,39,2424747,17957977
+MONROE,Florida,FL,12087,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,75043,17957977
+NASSAU,Florida,FL,12089,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,68610,17957977
+OKALOOSA,Florida,FL,12091,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,29,177733,17957977
+ORANGE,Florida,FL,12095,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,93,1071004,17957977
+ORANGE,Florida,FL,12095,2007,Drug poisonings (overdose) Suicide (X60-X64),D2,17,1071004,17957977
+OSCEOLA,Florida,FL,12097,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,26,239834,17957977
+PALM BEACH,Florida,FL,12099,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,220,1263451,17957977
+PALM BEACH,Florida,FL,12099,2007,Drug poisonings (overdose) Suicide (X60-X64),D2,30,1263451,17957977
+PALM BEACH,Florida,FL,12099,2007,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,12,1263451,17957977
+PASCO,Florida,FL,12101,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,112,428716,17957977
+PASCO,Florida,FL,12101,2007,Drug poisonings (overdose) Suicide (X60-X64),D2,13,428716,17957977
+PINELLAS,Florida,FL,12103,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,202,918212,17957977
+PINELLAS,Florida,FL,12103,2007,Drug poisonings (overdose) Suicide (X60-X64),D2,33,918212,17957977
+POLK,Florida,FL,12105,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,61,566635,17957977
+POLK,Florida,FL,12105,2007,Drug poisonings (overdose) Suicide (X60-X64),D2,21,566635,17957977
+ST. JOHNS,Florida,FL,12109,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,169994,17957977
+ST. LUCIE,Florida,FL,12111,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,46,251882,17957977
+SANTA ROSA,Florida,FL,12113,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,141285,17957977
+SARASOTA,Florida,FL,12115,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,65,363405,17957977
+SARASOTA,Florida,FL,12115,2007,Drug poisonings (overdose) Suicide (X60-X64),D2,11,363405,17957977
+SEMINOLE,Florida,FL,12117,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,37,405533,17957977
+SEMINOLE,Florida,FL,12117,2007,Drug poisonings (overdose) Suicide (X60-X64),D2,12,405533,17957977
+VOLUSIA,Florida,FL,12127,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,61,479232,17957977
+VOLUSIA,Florida,FL,12127,2007,Drug poisonings (overdose) Suicide (X60-X64),D2,10,479232,17957977
+WALTON,Florida,FL,12131,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,50698,17957977
+BAY,Florida,FL,12005,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,23,164735,18240178
+BREVARD,Florida,FL,12009,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,109,529957,18240178
+BREVARD,Florida,FL,12009,2008,Drug poisonings (overdose) Suicide (X60-X64),D2,12,529957,18240178
+BROWARD,Florida,FL,12011,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,242,1723111,18240178
+BROWARD,Florida,FL,12011,2008,Drug poisonings (overdose) Suicide (X60-X64),D2,57,1723111,18240178
+BROWARD,Florida,FL,12011,2008,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,14,1723111,18240178
+CITRUS,Florida,FL,12017,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,25,136604,18240178
+CLAY,Florida,FL,12019,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,19,180849,18240178
+COLLIER,Florida,FL,12021,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,50,307499,18240178
+COLLIER,Florida,FL,12021,2008,Drug poisonings (overdose) Suicide (X60-X64),D2,13,307499,18240178
+COLUMBIA,Florida,FL,12023,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,65303,18240178
+DUVAL,Florida,FL,12031,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,89,847192,18240178
+DUVAL,Florida,FL,12031,2008,Drug poisonings (overdose) Suicide (X60-X64),D2,19,847192,18240178
+ESCAMBIA,Florida,FL,12033,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,28,296979,18240178
+HERNANDO,Florida,FL,12053,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,45,164380,18240178
+HILLSBOROUGH,Florida,FL,12057,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,218,1183141,18240178
+HILLSBOROUGH,Florida,FL,12057,2008,Drug poisonings (overdose) Suicide (X60-X64),D2,26,1183141,18240178
+INDIAN RIVER,Florida,FL,12061,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,29,132997,18240178
+LAKE,Florida,FL,12069,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,24,279725,18240178
+LEE,Florida,FL,12071,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,76,583185,18240178
+LEE,Florida,FL,12071,2008,Drug poisonings (overdose) Suicide (X60-X64),D2,19,583185,18240178
+LEON,Florida,FL,12073,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,268289,18240178
+MANATEE,Florida,FL,12081,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,45,311102,18240178
+MARION,Florida,FL,12083,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,38,316813,18240178
+MARTIN,Florida,FL,12085,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,22,142837,18240178
+MIAMI-DADE,Florida,FL,12086,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,119,2449169,18240178
+MIAMI-DADE,Florida,FL,12086,2008,Drug poisonings (overdose) Suicide (X60-X64),D2,30,2449169,18240178
+MONROE,Florida,FL,12087,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,18,74392,18240178
+NASSAU,Florida,FL,12089,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,70177,18240178
+OKALOOSA,Florida,FL,12091,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,178764,18240178
+OKEECHOBEE,Florida,FL,12093,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,39170,18240178
+ORANGE,Florida,FL,12095,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,99,1095987,18240178
+ORANGE,Florida,FL,12095,2008,Drug poisonings (overdose) Suicide (X60-X64),D2,21,1095987,18240178
+OSCEOLA,Florida,FL,12097,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,18,249450,18240178
+PALM BEACH,Florida,FL,12099,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,203,1282345,18240178
+PALM BEACH,Florida,FL,12099,2008,Drug poisonings (overdose) Suicide (X60-X64),D2,50,1282345,18240178
+PALM BEACH,Florida,FL,12099,2008,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,18,1282345,18240178
+PASCO,Florida,FL,12101,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,129,440712,18240178
+PASCO,Florida,FL,12101,2008,Drug poisonings (overdose) Suicide (X60-X64),D2,18,440712,18240178
+PINELLAS,Florida,FL,12103,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,236,917743,18240178
+PINELLAS,Florida,FL,12103,2008,Drug poisonings (overdose) Suicide (X60-X64),D2,28,917743,18240178
+POLK,Florida,FL,12105,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,73,578456,18240178
+POLK,Florida,FL,12105,2008,Drug poisonings (overdose) Suicide (X60-X64),D2,22,578456,18240178
+ST. LUCIE,Florida,FL,12111,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,34,260339,18240178
+SANTA ROSA,Florida,FL,12113,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,21,144647,18240178
+SARASOTA,Florida,FL,12115,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,71,368748,18240178
+SEMINOLE,Florida,FL,12117,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,41,411260,18240178
+VOLUSIA,Florida,FL,12127,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,81,484353,18240178
+VOLUSIA,Florida,FL,12127,2008,Drug poisonings (overdose) Suicide (X60-X64),D2,20,484353,18240178
+ALACHUA,Florida,FL,12001,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,244399,18522379
+BAY,Florida,FL,12005,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,18,166793,18522379
+BREVARD,Florida,FL,12009,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,122,536664,18522379
+BREVARD,Florida,FL,12009,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,13,536664,18522379
+BROWARD,Florida,FL,12011,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,242,1735628,18522379
+BROWARD,Florida,FL,12011,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,47,1735628,18522379
+BROWARD,Florida,FL,12011,2009,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,16,1735628,18522379
+CITRUS,Florida,FL,12017,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,19,138916,18522379
+CLAY,Florida,FL,12019,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,29,185857,18522379
+COLLIER,Florida,FL,12021,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,42,314510,18522379
+COLLIER,Florida,FL,12021,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,12,314510,18522379
+DUVAL,Florida,FL,12031,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,115,855729,18522379
+DUVAL,Florida,FL,12031,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,22,855729,18522379
+ESCAMBIA,Florida,FL,12033,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,297299,18522379
+HERNANDO,Florida,FL,12053,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,43,168578,18522379
+HILLSBOROUGH,Florida,FL,12057,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,237,1206159,18522379
+HILLSBOROUGH,Florida,FL,12057,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,33,1206159,18522379
+INDIAN RIVER,Florida,FL,12061,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,31,135512,18522379
+LAKE,Florida,FL,12069,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,32,288388,18522379
+LEE,Florida,FL,12071,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,79,600969,18522379
+LEE,Florida,FL,12071,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,14,600969,18522379
+MANATEE,Florida,FL,12081,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,58,316990,18522379
+MANATEE,Florida,FL,12081,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,16,316990,18522379
+MARION,Florida,FL,12083,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,53,324056,18522379
+MARTIN,Florida,FL,12085,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,24,144844,18522379
+MIAMI-DADE,Florida,FL,12086,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,122,2473591,18522379
+MIAMI-DADE,Florida,FL,12086,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,33,2473591,18522379
+NASSAU,Florida,FL,12089,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,71743,18522379
+OKALOOSA,Florida,FL,12091,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,179794,18522379
+ORANGE,Florida,FL,12095,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,99,1120970,18522379
+ORANGE,Florida,FL,12095,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,21,1120970,18522379
+OSCEOLA,Florida,FL,12097,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,259066,18522379
+PALM BEACH,Florida,FL,12099,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,218,1301240,18522379
+PALM BEACH,Florida,FL,12099,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,44,1301240,18522379
+PALM BEACH,Florida,FL,12099,2009,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,14,1301240,18522379
+PASCO,Florida,FL,12101,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,146,452707,18522379
+PASCO,Florida,FL,12101,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,20,452707,18522379
+PINELLAS,Florida,FL,12103,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,223,917273,18522379
+PINELLAS,Florida,FL,12103,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,27,917273,18522379
+PINELLAS,Florida,FL,12103,2009,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,15,917273,18522379
+POLK,Florida,FL,12105,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,86,590277,18522379
+POLK,Florida,FL,12105,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,17,590277,18522379
+ST. JOHNS,Florida,FL,12109,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,183354,18522379
+ST. LUCIE,Florida,FL,12111,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,46,268797,18522379
+SANTA ROSA,Florida,FL,12113,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,148009,18522379
+SARASOTA,Florida,FL,12115,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,62,374091,18522379
+SARASOTA,Florida,FL,12115,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,13,374091,18522379
+SEMINOLE,Florida,FL,12117,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,61,416986,18522379
+SEMINOLE,Florida,FL,12117,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,11,416986,18522379
+VOLUSIA,Florida,FL,12127,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,92,489474,18522379
+VOLUSIA,Florida,FL,12127,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,14,489474,18522379
+ALACHUA,Florida,FL,12001,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,247336,18804579
+BAY,Florida,FL,12005,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,22,168852,18804579
+BREVARD,Florida,FL,12009,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,119,543372,18804579
+BREVARD,Florida,FL,12009,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,16,543372,18804579
+BROWARD,Florida,FL,12011,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,205,1748145,18804579
+BROWARD,Florida,FL,12011,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,42,1748145,18804579
+BROWARD,Florida,FL,12011,2010,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,15,1748145,18804579
+CITRUS,Florida,FL,12017,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,27,141228,18804579
+CLAY,Florida,FL,12019,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,190865,18804579
+COLLIER,Florida,FL,12021,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,36,321521,18804579
+COLUMBIA,Florida,FL,12023,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,67526,18804579
+DUVAL,Florida,FL,12031,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,120,864266,18804579
+DUVAL,Florida,FL,12031,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,26,864266,18804579
+ESCAMBIA,Florida,FL,12033,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,25,297620,18804579
+HERNANDO,Florida,FL,12053,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,50,172777,18804579
+HILLSBOROUGH,Florida,FL,12057,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,237,1229177,18804579
+HILLSBOROUGH,Florida,FL,12057,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,22,1229177,18804579
+INDIAN RIVER,Florida,FL,12061,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,18,138028,18804579
+LAKE,Florida,FL,12069,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,34,297052,18804579
+LEE,Florida,FL,12071,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,80,618754,18804579
+LEE,Florida,FL,12071,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,26,618754,18804579
+MANATEE,Florida,FL,12081,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,61,322878,18804579
+MANATEE,Florida,FL,12081,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,15,322878,18804579
+MARION,Florida,FL,12083,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,51,331298,18804579
+MARTIN,Florida,FL,12085,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,146852,18804579
+MIAMI-DADE,Florida,FL,12086,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,77,2498013,18804579
+MIAMI-DADE,Florida,FL,12086,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,21,2498013,18804579
+MONROE,Florida,FL,12087,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,73090,18804579
+NASSAU,Florida,FL,12089,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,73310,18804579
+OKALOOSA,Florida,FL,12091,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,180825,18804579
+ORANGE,Florida,FL,12095,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,125,1145954,18804579
+ORANGE,Florida,FL,12095,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,24,1145954,18804579
+OSCEOLA,Florida,FL,12097,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,22,268682,18804579
+PALM BEACH,Florida,FL,12099,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,193,1320135,18804579
+PALM BEACH,Florida,FL,12099,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,37,1320135,18804579
+PASCO,Florida,FL,12101,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,159,464703,18804579
+PASCO,Florida,FL,12101,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,14,464703,18804579
+PINELLAS,Florida,FL,12103,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,238,916804,18804579
+PINELLAS,Florida,FL,12103,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,33,916804,18804579
+PINELLAS,Florida,FL,12103,2010,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,13,916804,18804579
+POLK,Florida,FL,12105,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,86,602098,18804579
+PUTNAM,Florida,FL,12107,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,21,74368,18804579
+ST. JOHNS,Florida,FL,12109,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,190034,18804579
+ST. LUCIE,Florida,FL,12111,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,43,277255,18804579
+SANTA ROSA,Florida,FL,12113,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,151370,18804579
+SARASOTA,Florida,FL,12115,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,64,379434,18804579
+SARASOTA,Florida,FL,12115,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,19,379434,18804579
+SEMINOLE,Florida,FL,12117,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,61,422713,18804579
+VOLUSIA,Florida,FL,12127,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,104,494595,18804579
+ALACHUA,Florida,FL,12001,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,249850,19081773
+BREVARD,Florida,FL,12009,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,107,549313,19081773
+BREVARD,Florida,FL,12009,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,16,549313,19081773
+BROWARD,Florida,FL,12011,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,186,1770714,19081773
+BROWARD,Florida,FL,12011,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,47,1770714,19081773
+CHARLOTTE,Florida,FL,12015,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,162745,19081773
+CITRUS,Florida,FL,12017,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,29,141973,19081773
+CLAY,Florida,FL,12019,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,23,193665,19081773
+COLLIER,Florida,FL,12021,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,41,327850,19081773
+DUVAL,Florida,FL,12031,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,135,873812,19081773
+DUVAL,Florida,FL,12031,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,12,873812,19081773
+ESCAMBIA,Florida,FL,12033,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,29,299610,19081773
+FLAGLER,Florida,FL,12035,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,97521,19081773
+HERNANDO,Florida,FL,12053,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,33,174786,19081773
+HIGHLANDS,Florida,FL,12055,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,99523,19081773
+HILLSBOROUGH,Florida,FL,12057,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,211,1252256,19081773
+HILLSBOROUGH,Florida,FL,12057,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,31,1252256,19081773
+INDIAN RIVER,Florida,FL,12061,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,25,140181,19081773
+LAKE,Florida,FL,12069,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,38,303656,19081773
+LEE,Florida,FL,12071,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,75,633849,19081773
+LEE,Florida,FL,12071,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,21,633849,19081773
+LEON,Florida,FL,12073,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,277374,19081773
+MANATEE,Florida,FL,12081,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,63,330876,19081773
+MANATEE,Florida,FL,12081,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,10,330876,19081773
+MARION,Florida,FL,12083,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,46,334485,19081773
+MARTIN,Florida,FL,12085,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,22,148414,19081773
+MIAMI-DADE,Florida,FL,12086,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,98,2527298,19081773
+MIAMI-DADE,Florida,FL,12086,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,24,2527298,19081773
+MONROE,Florida,FL,12087,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,73305,19081773
+NASSAU,Florida,FL,12089,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,74701,19081773
+OKALOOSA,Florida,FL,12091,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,183763,19081773
+OKEECHOBEE,Florida,FL,12093,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,40167,19081773
+ORANGE,Florida,FL,12095,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,125,1172030,19081773
+ORANGE,Florida,FL,12095,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,23,1172030,19081773
+OSCEOLA,Florida,FL,12097,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,35,279717,19081773
+PALM BEACH,Florida,FL,12099,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,160,1338557,19081773
+PALM BEACH,Florida,FL,12099,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,43,1338557,19081773
+PASCO,Florida,FL,12101,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,127,473028,19081773
+PASCO,Florida,FL,12101,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,20,473028,19081773
+PINELLAS,Florida,FL,12103,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,213,923301,19081773
+PINELLAS,Florida,FL,12103,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,31,923301,19081773
+POLK,Florida,FL,12105,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,91,613865,19081773
+POLK,Florida,FL,12105,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,21,613865,19081773
+PUTNAM,Florida,FL,12107,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,74345,19081773
+ST. JOHNS,Florida,FL,12109,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,19,197170,19081773
+ST. LUCIE,Florida,FL,12111,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,40,282129,19081773
+SANTA ROSA,Florida,FL,12113,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,18,154479,19081773
+SARASOTA,Florida,FL,12115,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,65,384688,19081773
+SARASOTA,Florida,FL,12115,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,19,384688,19081773
+SEMINOLE,Florida,FL,12117,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,49,427726,19081773
+SEMINOLE,Florida,FL,12117,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,11,427726,19081773
+VOLUSIA,Florida,FL,12127,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,78,500478,19081773
+VOLUSIA,Florida,FL,12127,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,11,500478,19081773
+ALACHUA,Florida,FL,12001,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,252363,19358967
+BAY,Florida,FL,12005,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,172504,19358967
+BREVARD,Florida,FL,12009,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,98,555255,19358967
+BREVARD,Florida,FL,12009,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,15,555255,19358967
+BROWARD,Florida,FL,12011,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,191,1793282,19358967
+BROWARD,Florida,FL,12011,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,37,1793282,19358967
+CITRUS,Florida,FL,12017,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,37,142717,19358967
+CLAY,Florida,FL,12019,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,28,196466,19358967
+COLLIER,Florida,FL,12021,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,31,334180,19358967
+COLUMBIA,Florida,FL,12023,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,68187,19358967
+DUVAL,Florida,FL,12031,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,150,883358,19358967
+DUVAL,Florida,FL,12031,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,15,883358,19358967
+ESCAMBIA,Florida,FL,12033,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,25,301600,19358967
+HERNANDO,Florida,FL,12053,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,25,176796,19358967
+HIGHLANDS,Florida,FL,12055,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,100261,19358967
+HILLSBOROUGH,Florida,FL,12057,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,160,1275335,19358967
+HILLSBOROUGH,Florida,FL,12057,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,25,1275335,19358967
+INDIAN RIVER,Florida,FL,12061,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,142335,19358967
+LAKE,Florida,FL,12069,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,26,310261,19358967
+LEE,Florida,FL,12071,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,49,648944,19358967
+LEE,Florida,FL,12071,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,18,648944,19358967
+LEVY,Florida,FL,12075,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,40794,19358967
+MANATEE,Florida,FL,12081,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,40,338873,19358967
+MARION,Florida,FL,12083,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,44,337671,19358967
+MARTIN,Florida,FL,12085,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,149976,19358967
+MIAMI-DADE,Florida,FL,12086,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,101,2556583,19358967
+MIAMI-DADE,Florida,FL,12086,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,34,2556583,19358967
+NASSAU,Florida,FL,12089,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,76092,19358967
+OKALOOSA,Florida,FL,12091,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,186701,19358967
+OKEECHOBEE,Florida,FL,12093,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,40338,19358967
+ORANGE,Florida,FL,12095,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,102,1198107,19358967
+ORANGE,Florida,FL,12095,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,29,1198107,19358967
+OSCEOLA,Florida,FL,12097,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,29,290751,19358967
+PALM BEACH,Florida,FL,12099,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,134,1356980,19358967
+PALM BEACH,Florida,FL,12099,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,51,1356980,19358967
+PASCO,Florida,FL,12101,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,95,481353,19358967
+PASCO,Florida,FL,12101,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,14,481353,19358967
+PINELLAS,Florida,FL,12103,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,169,929798,19358967
+PINELLAS,Florida,FL,12103,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,52,929798,19358967
+POLK,Florida,FL,12105,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,73,625633,19358967
+POLK,Florida,FL,12105,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,11,625633,19358967
+ST. JOHNS,Florida,FL,12109,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,204306,19358967
+ST. LUCIE,Florida,FL,12111,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,29,287004,19358967
+SANTA ROSA,Florida,FL,12113,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,157588,19358967
+SARASOTA,Florida,FL,12115,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,55,389942,19358967
+SARASOTA,Florida,FL,12115,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,16,389942,19358967
+SEMINOLE,Florida,FL,12117,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,40,432739,19358967
+VOLUSIA,Florida,FL,12127,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,68,506360,19358967
+VOLUSIA,Florida,FL,12127,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,17,506360,19358967
+ALACHUA,Florida,FL,12001,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,254876,19636161
+BAY,Florida,FL,12005,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,19,174330,19636161
+BREVARD,Florida,FL,12009,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,82,561197,19636161
+BREVARD,Florida,FL,12009,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,24,561197,19636161
+BROWARD,Florida,FL,12011,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,155,1815850,19636161
+BROWARD,Florida,FL,12011,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,34,1815850,19636161
+BROWARD,Florida,FL,12011,2013,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,10,1815850,19636161
+CITRUS,Florida,FL,12017,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,24,143462,19636161
+CLAY,Florida,FL,12019,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,31,199267,19636161
+COLLIER,Florida,FL,12021,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,29,340510,19636161
+COLUMBIA,Florida,FL,12023,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,68518,19636161
+DUVAL,Florida,FL,12031,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,127,892904,19636161
+DUVAL,Florida,FL,12031,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,15,892904,19636161
+ESCAMBIA,Florida,FL,12033,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,303591,19636161
+HERNANDO,Florida,FL,12053,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,38,178806,19636161
+HIGHLANDS,Florida,FL,12055,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,100998,19636161
+HILLSBOROUGH,Florida,FL,12057,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,135,1298414,19636161
+HILLSBOROUGH,Florida,FL,12057,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,28,1298414,19636161
+INDIAN RIVER,Florida,FL,12061,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,144489,19636161
+LAKE,Florida,FL,12069,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,22,316866,19636161
+LEE,Florida,FL,12071,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,49,664039,19636161
+LEE,Florida,FL,12071,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,11,664039,19636161
+LEON,Florida,FL,12073,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,281156,19636161
+MANATEE,Florida,FL,12081,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,50,346870,19636161
+MANATEE,Florida,FL,12081,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,19,346870,19636161
+MARION,Florida,FL,12083,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,45,340858,19636161
+MARTIN,Florida,FL,12085,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,18,151538,19636161
+MIAMI-DADE,Florida,FL,12086,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,90,2585869,19636161
+MIAMI-DADE,Florida,FL,12086,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,20,2585869,19636161
+NASSAU,Florida,FL,12089,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,77483,19636161
+ORANGE,Florida,FL,12095,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,105,1224184,19636161
+ORANGE,Florida,FL,12095,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,17,1224184,19636161
+OSCEOLA,Florida,FL,12097,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,27,301785,19636161
+PALM BEACH,Florida,FL,12099,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,190,1375403,19636161
+PALM BEACH,Florida,FL,12099,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,43,1375403,19636161
+PASCO,Florida,FL,12101,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,82,489678,19636161
+PASCO,Florida,FL,12101,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,17,489678,19636161
+PINELLAS,Florida,FL,12103,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,150,936296,19636161
+PINELLAS,Florida,FL,12103,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,26,936296,19636161
+POLK,Florida,FL,12105,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,88,637401,19636161
+ST. JOHNS,Florida,FL,12109,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,211443,19636161
+ST. LUCIE,Florida,FL,12111,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,33,291879,19636161
+SANTA ROSA,Florida,FL,12113,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,160696,19636161
+SARASOTA,Florida,FL,12115,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,47,395195,19636161
+SARASOTA,Florida,FL,12115,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,20,395195,19636161
+SEMINOLE,Florida,FL,12117,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,45,437752,19636161
+VOLUSIA,Florida,FL,12127,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,79,512243,19636161
+VOLUSIA,Florida,FL,12127,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,21,512243,19636161
+ALACHUA,Florida,FL,12001,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,19,257389,19913355
+BAY,Florida,FL,12005,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,22,176156,19913355
+BREVARD,Florida,FL,12009,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,96,567139,19913355
+BREVARD,Florida,FL,12009,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,15,567139,19913355
+BROWARD,Florida,FL,12011,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,180,1838418,19913355
+BROWARD,Florida,FL,12011,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,40,1838418,19913355
+CHARLOTTE,Florida,FL,12015,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,171090,19913355
+CITRUS,Florida,FL,12017,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,24,144206,19913355
+CLAY,Florida,FL,12019,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,26,202068,19913355
+COLLIER,Florida,FL,12021,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,41,346839,19913355
+COLUMBIA,Florida,FL,12023,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,68849,19913355
+DUVAL,Florida,FL,12031,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,134,902450,19913355
+DUVAL,Florida,FL,12031,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,12,902450,19913355
+ESCAMBIA,Florida,FL,12033,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,35,305581,19913355
+HERNANDO,Florida,FL,12053,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,25,180816,19913355
+HIGHLANDS,Florida,FL,12055,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,101736,19913355
+HILLSBOROUGH,Florida,FL,12057,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,137,1321493,19913355
+HILLSBOROUGH,Florida,FL,12057,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,26,1321493,19913355
+INDIAN RIVER,Florida,FL,12061,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,22,146643,19913355
+LAKE,Florida,FL,12069,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,30,323471,19913355
+LAKE,Florida,FL,12069,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,10,323471,19913355
+LEE,Florida,FL,12071,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,66,679134,19913355
+LEE,Florida,FL,12071,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,20,679134,19913355
+LEON,Florida,FL,12073,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,18,283047,19913355
+MANATEE,Florida,FL,12081,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,80,354868,19913355
+MANATEE,Florida,FL,12081,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,11,354868,19913355
+MARION,Florida,FL,12083,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,47,344044,19913355
+MARION,Florida,FL,12083,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,10,344044,19913355
+MARTIN,Florida,FL,12085,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,153100,19913355
+MIAMI-DADE,Florida,FL,12086,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,104,2615154,19913355
+MIAMI-DADE,Florida,FL,12086,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,35,2615154,19913355
+MONROE,Florida,FL,12087,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,73950,19913355
+OKALOOSA,Florida,FL,12091,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,192577,19913355
+ORANGE,Florida,FL,12095,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,149,1250261,19913355
+ORANGE,Florida,FL,12095,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,28,1250261,19913355
+OSCEOLA,Florida,FL,12097,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,36,312819,19913355
+PALM BEACH,Florida,FL,12099,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,184,1393826,19913355
+PALM BEACH,Florida,FL,12099,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,52,1393826,19913355
+PASCO,Florida,FL,12101,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,95,498003,19913355
+PASCO,Florida,FL,12101,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,10,498003,19913355
+PINELLAS,Florida,FL,12103,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,161,942793,19913355
+PINELLAS,Florida,FL,12103,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,29,942793,19913355
+POLK,Florida,FL,12105,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,72,649169,19913355
+POLK,Florida,FL,12105,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,21,649169,19913355
+ST. JOHNS,Florida,FL,12109,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,218579,19913355
+ST. LUCIE,Florida,FL,12111,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,39,296754,19913355
+SANTA ROSA,Florida,FL,12113,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,163805,19913355
+SARASOTA,Florida,FL,12115,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,39,400449,19913355
+SARASOTA,Florida,FL,12115,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,15,400449,19913355
+SEMINOLE,Florida,FL,12117,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,49,442765,19913355
+VOLUSIA,Florida,FL,12127,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,55,518125,19913355
+VOLUSIA,Florida,FL,12127,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,20,518125,19913355
+ALACHUA,Florida,FL,12001,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,23,259903,20190549
+BAY,Florida,FL,12005,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,25,177982,20190549
+BREVARD,Florida,FL,12009,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,132,573081,20190549
+BREVARD,Florida,FL,12009,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,23,573081,20190549
+BROWARD,Florida,FL,12011,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,252,1860987,20190549
+BROWARD,Florida,FL,12011,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,27,1860987,20190549
+CHARLOTTE,Florida,FL,12015,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,173871,20190549
+CITRUS,Florida,FL,12017,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,25,144951,20190549
+CLAY,Florida,FL,12019,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,41,204868,20190549
+COLLIER,Florida,FL,12021,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,48,353169,20190549
+COLUMBIA,Florida,FL,12023,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,69179,20190549
+DUVAL,Florida,FL,12031,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,146,911996,20190549
+DUVAL,Florida,FL,12031,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,23,911996,20190549
+ESCAMBIA,Florida,FL,12033,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,51,307572,20190549
+FLAGLER,Florida,FL,12035,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,104794,20190549
+HERNANDO,Florida,FL,12053,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,27,182825,20190549
+HILLSBOROUGH,Florida,FL,12057,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,156,1344572,20190549
+HILLSBOROUGH,Florida,FL,12057,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,20,1344572,20190549
+INDIAN RIVER,Florida,FL,12061,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,148797,20190549
+LAKE,Florida,FL,12069,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,38,330075,20190549
+LAKE,Florida,FL,12069,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,10,330075,20190549
+LEE,Florida,FL,12071,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,90,694229,20190549
+LEE,Florida,FL,12071,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,12,694229,20190549
+LEON,Florida,FL,12073,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,284938,20190549
+MANATEE,Florida,FL,12081,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,137,362865,20190549
+MANATEE,Florida,FL,12081,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,11,362865,20190549
+MARION,Florida,FL,12083,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,42,347231,20190549
+MARTIN,Florida,FL,12085,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,23,154663,20190549
+MIAMI-DADE,Florida,FL,12086,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,169,2644439,20190549
+MIAMI-DADE,Florida,FL,12086,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,33,2644439,20190549
+MONROE,Florida,FL,12087,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,19,74166,20190549
+OKALOOSA,Florida,FL,12091,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,39,195516,20190549
+OKEECHOBEE,Florida,FL,12093,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,40852,20190549
+ORANGE,Florida,FL,12095,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,173,1276337,20190549
+ORANGE,Florida,FL,12095,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,22,1276337,20190549
+OSCEOLA,Florida,FL,12097,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,37,323853,20190549
+PALM BEACH,Florida,FL,12099,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,263,1412249,20190549
+PALM BEACH,Florida,FL,12099,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,54,1412249,20190549
+PASCO,Florida,FL,12101,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,95,506329,20190549
+PASCO,Florida,FL,12101,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,18,506329,20190549
+PINELLAS,Florida,FL,12103,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,161,949290,20190549
+PINELLAS,Florida,FL,12103,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,29,949290,20190549
+POLK,Florida,FL,12105,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,86,660937,20190549
+POLK,Florida,FL,12105,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,10,660937,20190549
+ST. JOHNS,Florida,FL,12109,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,225715,20190549
+ST. LUCIE,Florida,FL,12111,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,41,301628,20190549
+ST. LUCIE,Florida,FL,12111,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,10,301628,20190549
+SANTA ROSA,Florida,FL,12113,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,22,166914,20190549
+SARASOTA,Florida,FL,12115,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,83,405703,20190549
+SARASOTA,Florida,FL,12115,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,13,405703,20190549
+SEMINOLE,Florida,FL,12117,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,53,447779,20190549
+SEMINOLE,Florida,FL,12117,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,10,447779,20190549
+SUMTER,Florida,FL,12119,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,113050,20190549
+VOLUSIA,Florida,FL,12127,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,84,524008,20190549
+VOLUSIA,Florida,FL,12127,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,14,524008,20190549
