@@ -4,12 +4,27 @@ import os
 import glob
 
 # Read consolidate DEA parquet files
-DEA_consolidate = pd.read_parquet('/Users/ningjiehu/Documents/Midtermproject/EDA_consolidate.parquet', engine = 'auto')
-DEA_consolidate.head()
+DEA_compared = pd.read_parquet('/Users/ningjiehu/Documents/Midtermproject/EDA_consolidate.parquet', engine = 'auto')
+DEA_compared.head()
 
 # Groupby to reduce row numbers
-DEA_consolidate_groupby = EDA_consolidate.groupby(['BUYER_COUNTY','BUYER_STATE','TRANSACTION_DATE']).sum()
-DEA_consolidate_groupby.head()
+DEA_compared_groupby = DEA_compared.groupby(['BUYER_COUNTY','BUYER_STATE','TRANSACTION_DATE'], as_index = False).sum()
+DEA_compared_groupby.head()
+
+#convert string in dates to integers
+DEA_compared_groupby['DAY'] = 0
+DEA_compared_groupby['MONTH'] = 0
+DEA_compared_groupby['YEAR'] = 0
+
+DEA_compared_groupby['TRANSACTION_DATE'] = DEA_compared_groupby['TRANSACTION_DATE'].astype(str)
+
+# Split the date column(string) to date/month/year
+
+DEA_compared_groupby['DAY'] = DEA_compared_groupby['TRANSACTION_DATE'].str[-6:-4].astype(int)
+DEA_compared_groupby['MONTH'] = DEA_compared_groupby['TRANSACTION_DATE'].str[:-6].astype(int)
+DEA_compared_groupby['YEAR'] = DEA_compared_groupby['TRANSACTION_DATE'].str[-4:].astype(int)
+
+DEA_compared_groupby
 
 # Compress the data to parquet
-DEA_consolidate_groupby.to_parquet('/Users/ningjiehu/Documents/Midtermproject/DEA_consolidate_groupby.parquet', engine= 'auto')
+DEA_compared_groupby.to_parquet('/Users/ningjiehu/Documents/Midtermproject/DEA_compared.parquet', engine= 'auto')
