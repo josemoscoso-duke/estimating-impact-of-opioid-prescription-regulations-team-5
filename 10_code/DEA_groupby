@@ -1,0 +1,15 @@
+import pandas as pd
+import numpy as np
+import os
+import glob
+
+# Read consolidate DEA parquet files
+DEA_consolidate = pd.read_parquet('/Users/ningjiehu/Documents/Midtermproject/EDA_consolidate.parquet', engine = 'auto')
+DEA_consolidate.head()
+
+# Groupby to reduce row numbers
+DEA_consolidate_groupby = EDA_consolidate.groupby(['BUYER_COUNTY','BUYER_STATE','TRANSACTION_DATE']).sum()
+DEA_consolidate_groupby.head()
+
+# Compress the data to parquet
+DEA_consolidate_groupby.to_parquet('/Users/ningjiehu/Documents/Midtermproject/DEA_consolidate_groupby.parquet', engine= 'auto')
