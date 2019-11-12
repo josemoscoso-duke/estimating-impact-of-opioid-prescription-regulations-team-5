@@ -1,0 +1,28 @@
+import pandas as pd
+import numpy as np
+import glob
+
+
+florida = pd.read_csv('Team project\\arcos-fl-statewide-itemized.tsv.gz', sep='\t',nrows= 10000)
+florida.head()
+
+#Extract data from folder, 3 files from EDA, one for each state (Washington, Texas and Florida) 
+#We need to find 3 additional states to compare the effect of the policy before and after the policy implementation
+#Would be nice to consider states with similar size and population distributions.
+
+path = r'E:\Jose_Moscoso\Duke\IDS 690 Tools for DS\Anaconda\IDS 690\Team project' # path of .gz files
+all_files = glob.glob(path + "/*.gz")
+#EDA = list()
+chunksize=500000
+keeping = list()
+
+for filename in all_files:
+    iter_EDA = pd.read_csv(filename, iterator=True, chunksize=chunksize,sep='\t') # Chunksize of 500,000. I now have 16GB RAM.
+    print(f'starting chunk {filename}')
+    for idx, d in enumerate(iter_EDA):
+        print(f'starting chunk {idx}')
+        keeping.append(d)
+        pass
+    pass
+ 
+EDA_data=pd.concat(keeping)

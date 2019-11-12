@@ -1,0 +1,28 @@
+import pandas as pd
+import glob
+
+#Extracted data from folder, 10 files, one for year from 2006 to 2016 
+
+path = r'E:/Jose_Moscoso/Duke/IDS 690 Tools for DS/Team Project/Population' # path of .csv files
+all_files = glob.glob(path + "/*.csv")
+Population = []
+
+for filename in all_files:
+    df_full = pd.read_csv(filename, sep = ';') 
+    Population.append(df_full)
+
+Population = pd.concat(Population, axis=0, ignore_index=True)
+Population.describe()
+Population.shape
+
+#I uploaded in the folder repository one file population_aggregate with data from the three states.
+#I can download three aditional states and update the file with that information.
+
+Population.to_csv('E:/Jose_Moscoso/Duke/IDS 690 Tools for DS/Team Project/population_aggregate.csv')
+
+#Checking size and format of the data.
+
+Population.size
+Population.shape
+Population.columns
+Population.head()

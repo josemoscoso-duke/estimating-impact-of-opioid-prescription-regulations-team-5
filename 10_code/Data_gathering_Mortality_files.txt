@@ -1,0 +1,24 @@
+import pandas as pd
+import glob
+
+#Extracted data from folder, 13 files with mortality data from 2003 to 2015. 
+
+path = r'E:\\Jose_Moscoso\\Duke\\IDS 690 Tools for DS\\Team Project\\Mortality' # use your path
+all_files = glob.glob(path + "/*.txt")
+
+li = []
+
+for filename in all_files:
+    df = pd.read_csv(filename, index_col=None, sep = '\t')
+    li.append(df)
+
+frame = pd.concat(li, axis=0, ignore_index=True)
+
+frame.describe()
+frame.shape
+
+#I uploaded in the folder repository one file mortality_aggregate with data from the 13 files.
+#Merging variable can be county fips. Check for duplicate rows and incomplete data.
+
+frame.to_csv('E:\\Jose_Moscoso\\Duke\\IDS 690 Tools for DS\\Team Project\\Mortality\\mortality_aggregate.csv')
+
