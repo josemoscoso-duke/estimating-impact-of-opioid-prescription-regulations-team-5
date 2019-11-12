@@ -8,11 +8,11 @@ import numpy as np
 # readjust the columns so that it is in this format. Save as "StatePopulationReportCleaned.csv" and add
 # to 00/source/Population in Github. States that are two words, like New York, need to be
 # saved as follows: New YorkPopulationReportCleaned.csv
-# See template of "WashingtonPopulationReportCleaned" in source files
+# See template of "WashingtonPopulationReportCleaned.csv" in source files for proper csv format
 
 # Input state name and abbreivation
-state = 'Florida'
-state_abbrev = 'FL'
+state = 'Texas'
+state_abbrev = 'TX'
 
 # Function to clean population and mortality data and then merge the two dataframes
 def pop_mort_merge(st):
@@ -29,46 +29,46 @@ def pop_mort_merge(st):
     # Population estimation
     pop_pop = pop.copy()
     # Convert columns to float types (replace commas and %)
-    pop_pop['Pop. 1990'] = pop_pop['Pop. 1990'].str.replace(',','').astype(int)
-    pop_pop['Pop. 2000'] = pop_pop['Pop. 2000'].str.replace(',','').astype(int)
-    pop_pop['Pop. 2010'] = pop_pop['Pop. 2010'].str.replace(',','').astype(int)
-    pop_pop['Pop. 2018'] = pop_pop['Pop. 2018'].str.replace(',','').astype(int)
+    pop_pop['Pop. 1990'] = pop_pop['Pop. 1990'].str.replace(',', '').astype(int)
+    pop_pop['Pop. 2000'] = pop_pop['Pop. 2000'].str.replace(',', '').astype(int)
+    pop_pop['Pop. 2010'] = pop_pop['Pop. 2010'].str.replace(',', '').astype(int)
+    pop_pop['Pop. 2018'] = pop_pop['Pop. 2018'].str.replace(',', '').astype(int)
     pop_pop['Change 2010-18'] = pop_pop['Change 2010-18'].str.replace('%','').astype(float)
     pop_pop
     # Assume linear increase in population from 2000 to 2018 (find change per year)
-    avg_change_10 = (pop_pop['Pop. 2010'] - pop_pop['Pop. 2000'])/10
-    avg_change_18 = (pop_pop['Pop. 2018'] - pop_pop['Pop. 2010'])/9
+    avg_change_10 = round((pop_pop['Pop. 2010'] - pop_pop['Pop. 2000'])/10).astype(int)
+    avg_change_18 = round((pop_pop['Pop. 2018'] - pop_pop['Pop. 2010'])/8).astype(int)
     # Create columns of population for each year
-    year_list = list(range(1,18))
-    for i in year_list:
-        if i < 10:
-            pop_pop['Pop. 200' + str(i)] = pop_pop['Pop. 200' + str(i-1)] + avg_change_10
-        elif i == 10:
-            pop_pop['Pop. 20' + str(i)] = pop_pop['Pop. 200' + str(i-1)] + avg_change_10
+    year_list = list(range(2001,2019))
+    for year in year_list:
+        if year < 2010:
+            pop_pop['Pop. ' + str(year)] = pop_pop['Pop. ' + str(year-1)] + avg_change_10
+        elif year == 2010:
+            pop_pop['Pop. ' + str(year)] = pop_pop['Pop. ' + str(year)]
         else:
-            pop_pop['Pop. 20' + str(i)] = pop_pop['Pop. 20' + str(i-1)] + avg_change_18
-    # Drop and reorder columns
+            pop_pop['Pop. ' + str(year)] = pop_pop['Pop. ' + str(year-1)] + avg_change_18
+    # Drop and reorder
     pop_pop = pop_pop.drop(columns = ["RUC code","Pop. 1990","Change 2010-18"])
     pop_pop = pop_pop[['FIPS', 'County name', 'Pop. 2000','Pop. 2001', 'Pop. 2002',
     'Pop. 2003', 'Pop. 2004', 'Pop. 2005', 'Pop. 2006', 'Pop. 2007',
     'Pop. 2008', 'Pop. 2009', 'Pop. 2010','Pop. 2011', 'Pop. 2012', 'Pop. 2013',
     'Pop. 2014', 'Pop. 2015', 'Pop. 2016','Pop. 2017', 'Pop. 2018']]
     # Rename columns to be years
-    pop_pop = pop_pop.rename(columns = {"Pop. 2000":"2000", "Pop. 2001":"2001", "Pop. 2002":"2002",
-    "Pop. 2003":"2003", "Pop. 2004":"2004", "Pop. 2005":"2005", "Pop. 2006":"2006", "Pop. 2007":"2007",
-    "Pop. 2008":"2008", "Pop. 2009":"2009", "Pop. 2010":"2010", "Pop. 2011":"2011", "Pop. 2012":"2012",
-    "Pop. 2013":"2013", "Pop. 2014":"2014", "Pop. 2015":"2015", "Pop. 2016":"2016", "Pop. 2017":"2017",
-    "Pop. 2018":"2018", "Pop. 2019":"2019"})
-    pop_pop
-
-    # FIPS list
-    pop_fips = pop.FIPS
-    pop_fips
+    new_columns = []
+    for i in pop_pop.columns:
+        if i[0] == 'P':
+            pop_pop = pop_pop.rename(columns = {i:i[5:]})
+    pop_pop.head()
 
     # Reshape population table to have following columns: FIPS, County, Year, population
+    # Create year column list
+    var_columns = []
+    for i in pop_pop.columns:
+        if i[0] == '2':
+            var_columns.append(i)
     pop_pop_reshaped = pd.melt(pop_pop, id_vars = ['FIPS','County name'],
-    value_vars = ['2000','2001','2002','2003','2004','2005','2006','2007','2008','2009','2010',
-    '2011','2012','2013','2014','2015','2016','2017','2018'], var_name = 'Year', value_name = 'Population')
+    value_vars = var_columns, var_name = 'Year', value_name = 'Population')
+    pop_pop_reshaped
 
     # Convert to proper types
     pop_pop_reshaped['Year'] = pop_pop_reshaped['Year'].astype(int)
@@ -97,18 +97,22 @@ def pop_mort_merge(st):
     pop_pop_merged['State Abbreviation'] = 'WA'
     # Remove 'county' from County and make uppercase for future merge with ARCOS data
     pop_pop_merged['County Name'] = pop_pop_merged['County Name'].str.replace(' County','').str.upper()
-
     pop_pop_merged
 
+    ## Done with the function that cleans population datasets.
+    ## The following code deals with mortality datasets.
     mort = pd.read_csv("../20_intermediate_files/mortality_aggregate.csv")
     mort.head(20)
     # Drop columns
-    mort = mort.drop(columns = ["Unnamed: 0","Notes"])
+    mort = mort.drop(columns = ["Unnamed: 0","Notes","Year Code"])
     # Remove all rows with missing death values
     mort = mort[mort['Deaths'] != 'Missing']
 
     # Subset for counties that have the FIPS code from pop data
     mort_pop = mort.copy()
+    # FIPS list
+    pop_fips = pop.FIPS
+    # Find counties in FIPS list
     mort_pop = mort_pop[mort_pop['County Code'].isin(pop_fips)]
     # Look at number of unique counties
     mort_pop['County'].nunique()
@@ -116,10 +120,8 @@ def pop_mort_merge(st):
 
     # Look at drug cause codes (all with D)
     drug_overdose_codes = ['D1','D2','D4']
-    mort_pop_drug = mort_pop[mort_pop['Drug/Alcohol Induced Cause Code'].isin(drug_overdose_codes)]
-    #mort_pop_drug['Deaths'].astype(float).sum()
-    # Drop year code column
-    mort_pop_drug = mort_pop_drug.drop(columns = "Year Code")
+    mort_pop_drug = mort_pop.copy()
+    mort_pop_drug = mort_pop_drug[mort_pop_drug['Drug/Alcohol Induced Cause Code'].isin(drug_overdose_codes)]
 
     # Convert column types
     mort_pop_drug['Deaths'] = mort_pop_drug['Deaths'].astype(float).astype(int)
