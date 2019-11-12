@@ -4,7 +4,6 @@ import numpy as np
 from plotnine import *
 
 #Get a general sense of the Florida data.
-pwd
 fl = pd.read_csv('FLMortPopData.csv')
 fl.head()
 
@@ -28,12 +27,15 @@ before_policy_aggr.head()
 after_policy_aggr = after_policy.groupby('Year', as_index = False).sum()
 # Add a column of death to state population ration for plotting purposes.
 after_policy_aggr['Ratio'] = after_policy_aggr['Deaths'] * 1000000 / after_policy_aggr['State Population']
-after_polic
-y_aggr
+after_policy_aggr
 
 
-
-fl_plot = ggplot() + geom_line(before_policy_aggr, aes(x='Year', y='Ratio')) + geom_line(after_policy_aggr, aes(x='Year', y='Ratio'))
+fl_plot = (ggplot() +
+    geom_line(before_policy_aggr, aes(x='Year', y='Ratio')) +
+    geom_line(after_policy_aggr, aes(x='Year', y='Ratio')) +
+    scale_x_continuous(breaks = range(2005, 2016)) +
+    geom_vline(xintercept=2010, colour="red"))
+print(fl_plot)
 fl_plot.save("fl_Mort_Pop.png")
 
 
@@ -43,10 +45,10 @@ wa = pd.read_csv('WAMortPopData.csv')
 wa.head()
 
 wa['Year'].value_counts()
-# Since the policy became effective in Washington in 2012, we choose data from 2007-2011 and data from 2012-2017.
+# Since the policy became effective in Washington in 2012, we choose data from 2007-2011 and data from 2012-2015.
 # Create two separate dataframes containing only data before and after the policcy year.
 wa_bef = range(2007, 2012)
-wa_aft = range(2012, 2018)
+wa_aft = range(2012, 2016)
 wa_before_policy = wa[wa['Year'].isin(wa_bef)]
 wa_after_policy = wa[wa['Year'].isin(wa_aft)]
 wa_before_policy['Year'].value_counts()
@@ -66,7 +68,12 @@ wa_after_policy_aggr
 
 
 
-wa_plot = ggplot() + geom_line(wa_before_policy_aggr, aes(x='Year', y='Ratio')) + geom_line(wa_after_policy_aggr, aes(x='Year', y='Ratio'))
+wa_plot = (ggplot() +
+    geom_line(wa_before_policy_aggr, aes(x='Year', y='Ratio')) +
+    geom_line(wa_after_policy_aggr, aes(x='Year', y='Ratio')) +
+    scale_x_continuous(breaks = range(2007, 2018)) +
+    geom_vline(xintercept=2012, colour="red"))
+print(wa_plot)
 wa_plot.save("wa_Mort_Pop.png")
 
 
@@ -100,5 +107,10 @@ tx_after_policy_aggr
 
 
 
-tx_plot = ggplot() + geom_line(tx_before_policy_aggr, aes(x='Year', y='Ratio')) + geom_line(tx_after_policy_aggr, aes(x='Year', y='Ratio'))
+tx_plot = (ggplot() +
+    geom_line(tx_before_policy_aggr, aes(x='Year', y='Ratio')) +
+    geom_line(tx_after_policy_aggr, aes(x='Year', y='Ratio')) +
+    scale_x_continuous(breaks = range(2003, 2012)) +
+    geom_vline(xintercept=2007, colour="red") )
+print(tx_plot)
 tx_plot.save("tx_Mort_Pop.png")
