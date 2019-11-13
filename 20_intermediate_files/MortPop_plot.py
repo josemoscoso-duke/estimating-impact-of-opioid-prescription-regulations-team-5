@@ -32,8 +32,10 @@ after_policy_aggr
 
 
 fl_plot = (ggplot() +
-    geom_line(before_policy_aggr, aes(x='Year', y='Ratio')) +
-    geom_line(after_policy_aggr, aes(x='Year', y='Ratio')) +
+    geom_point(before_policy_aggr, aes(x='Year', y='Ratio')) +
+    geom_point(after_policy_aggr, aes(x='Year', y = 'Ratio')) +
+    geom_smooth(before_policy_aggr, aes(x='Year', y='Ratio'), method = 'lm', level = 0) +
+    geom_smooth(after_policy_aggr, aes(x='Year', y='Ratio'), method = 'lm', level = 0) +
     scale_x_continuous(breaks = range(2005, 2016)) +
     ggtitle("Florida Overdose death per million capita") +
     geom_vline(xintercept=2010, colour="red"))
@@ -71,8 +73,10 @@ wa_after_policy_aggr
 
 
 wa_plot = (ggplot() +
-    geom_line(wa_before_policy_aggr, aes(x='Year', y='Ratio')) +
-    geom_line(wa_after_policy_aggr, aes(x='Year', y='Ratio')) +
+    geom_point(wa_before_policy_aggr, aes(x='Year', y='Ratio')) +
+    geom_point(wa_after_policy_aggr, aes(x='Year', y = 'Ratio')) +
+    geom_smooth(wa_before_policy_aggr, aes(x='Year', y='Ratio'), method = 'lm', level = 0) +
+    geom_smooth(wa_after_policy_aggr, aes(x='Year', y='Ratio'), method = 'lm', level = 0) +
     scale_x_continuous(breaks = range(2007, 2018)) +
     ggtitle("Washington Overdose death per million capita") +
     geom_vline(xintercept=2012, colour="red"))
@@ -111,8 +115,10 @@ tx_after_policy_aggr
 
 
 tx_plot = (ggplot() +
-    geom_line(tx_before_policy_aggr, aes(x='Year', y='Ratio')) +
-    geom_line(tx_after_policy_aggr, aes(x='Year', y='Ratio')) +
+    geom_point(tx_before_policy_aggr, aes(x='Year', y='Ratio')) +
+    geom_point(tx_after_policy_aggr, aes(x='Year', y = 'Ratio')) +
+    geom_smooth(tx_before_policy_aggr, aes(x='Year', y='Ratio'), method = 'lm', level = 0) +
+    geom_smooth(tx_after_policy_aggr, aes(x='Year', y='Ratio'), method = 'lm', level = 0) +
     scale_x_continuous(breaks = range(2003, 2012)) +
     ggtitle("Texas Overdose death per million capita") +
     geom_vline(xintercept=2007, colour="red") )
