@@ -2,7 +2,9 @@
 import pandas as pd
 import numpy as np
 from plotnine import *
-
+import os
+# Set base directory
+os.chdir("~/estimating-impact-of-opioid-prescription-regulations-team-5")
 # Get a general sense of the Florida data.
 fl = pd.read_csv('FLOpioidData.csv')
 fl.sample(10)
