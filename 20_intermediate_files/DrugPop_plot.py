@@ -2,13 +2,19 @@
 import pandas as pd
 import numpy as np
 from plotnine import *
+<<<<<<< HEAD
 
 # import os
 # # Set base directory
 # os.chdir("~/estimating-impact-of-opioid-prescription-regulations-team-5")
 
+=======
+import os
+# Set base directory
+os.chdir("~/estimating-impact-of-opioid-prescription-regulations-team-5")
+>>>>>>> 4d8fb85a9aba16b8f19c052f4d88752c3141b85a
 # Get a general sense of the Florida data.
-fl = pd.read_csv('FLOpioidData.csv')
+fl = pd.read_csv('20_intermediate_files/FLOpioidData.csv')
 fl.sample(10)
 fl['TRANSACTION_MONTH'].value_counts()
 fl['TRANSACTION_YEAR'].value_counts()

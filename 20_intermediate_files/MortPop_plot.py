@@ -10,7 +10,12 @@ from plotnine import *
 #Get a general sense of the Florida data.
 fl = pd.read_csv('FLMortPopData.csv')
 fl.head()
+<<<<<<< HEAD
 
+=======
+fl['Year'].value_counts()
+fl['Year'].value_counts()
+>>>>>>> 4d8fb85a9aba16b8f19c052f4d88752c3141b85a
 # Since the policy became effective in Florida in 2010, we choose data from 2005-2009 and data from 2010-2015.
 # Create two separate dataframes containing only data before and after the policy year.
 bef = range(2005, 2010)
