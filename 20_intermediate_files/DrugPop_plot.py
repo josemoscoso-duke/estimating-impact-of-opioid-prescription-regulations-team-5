@@ -6,7 +6,7 @@ import os
 # Set base directory
 os.chdir("~/estimating-impact-of-opioid-prescription-regulations-team-5")
 # Get a general sense of the Florida data.
-fl = pd.read_csv('FLOpioidData.csv')
+fl = pd.read_csv('20_intermediate_files/FLOpioidData.csv')
 fl.sample(10)
 fl['TRANSACTION_MONTH'].value_counts()
 fl['TRANSACTION_YEAR'].value_counts()
