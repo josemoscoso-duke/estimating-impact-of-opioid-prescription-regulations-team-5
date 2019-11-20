@@ -3,13 +3,16 @@ import pandas as pd
 import numpy as np
 from plotnine import *
 
+# import os
+# # Set base directory
+# os.chdir("~/estimating-impact-of-opioid-prescription-regulations-team-5")
+
 #Get a general sense of the Florida data.
 fl = pd.read_csv('FLMortPopData.csv')
 fl.head()
 
-fl['Year'].value_counts()
 # Since the policy became effective in Florida in 2010, we choose data from 2005-2009 and data from 2010-2015.
-# Create two separate dataframes containing only data before and after the policcy year.
+# Create two separate dataframes containing only data before and after the policy year.
 bef = range(2005, 2010)
 aft = range(2010, 2016)
 before_policy = fl[fl['Year'].isin(bef)]
@@ -21,23 +24,23 @@ after_policy['Year'].value_counts()
 before_policy_aggr = before_policy.groupby('Year', as_index = False).sum()
 # Add a column of death to state population ration for plotting purposes.
 # I change the ratio to deaths per million people, to make it more obvious.
-before_policy_aggr['Ratio'] = before_policy_aggr['Deaths'] * 1000000 / before_policy_aggr['State Population']
+before_policy_aggr['Ratio_Per_Million'] = before_policy_aggr['Deaths'] * 1000000 / before_policy_aggr['State Population']
 
 before_policy_aggr.head()
 after_policy_aggr = after_policy.groupby('Year', as_index = False).sum()
 # Add a column of death to state population ration for plotting purposes.
 # To make the trend more obvious, multiply the ratio by one million.
-after_policy_aggr['Ratio'] = after_policy_aggr['Deaths'] * 1000000 / after_policy_aggr['State Population']
+after_policy_aggr['Ratio_Per_Million'] = after_policy_aggr['Deaths'] * 1000000 / after_policy_aggr['State Population']
 after_policy_aggr
 
-
+# Pre-post plots of overdose death
 fl_plot = (ggplot() +
-    geom_point(before_policy_aggr, aes(x='Year', y='Ratio')) +
-    geom_point(after_policy_aggr, aes(x='Year', y = 'Ratio')) +
-    geom_smooth(before_policy_aggr, aes(x='Year', y='Ratio'), method = 'lm', level = 0) +
-    geom_smooth(after_policy_aggr, aes(x='Year', y='Ratio'), method = 'lm', level = 0) +
+    geom_point(before_policy_aggr, aes(x='Year', y='Ratio_Per_Million')) +
+    geom_point(after_policy_aggr, aes(x='Year', y = 'Ratio_Per_Million')) +
+    geom_smooth(before_policy_aggr, aes(x='Year', y='Ratio_Per_Million'), method = 'lm', level = 0) +
+    geom_smooth(after_policy_aggr, aes(x='Year', y='Ratio_Per_Million'), method = 'lm', level = 0) +
     scale_x_continuous(breaks = range(2005, 2016)) +
-    ggtitle("Florida Overdose death per million capita") +
+    ggtitle("Overdose Deaths in Florida per Million Capita") +
     geom_vline(xintercept=2010, colour="red"))
 print(fl_plot)
 fl_plot.save("fl_Mort_Pop.png")
@@ -62,21 +65,21 @@ wa_after_policy['Year'].value_counts()
 wa_before_policy_aggr = wa_before_policy.groupby('Year', as_index = False).sum()
 # Add a column of death to state population ration for plotting purposes.
 # I change the ratio to deaths per million people, to make it more obvious.
-wa_before_policy_aggr['Ratio'] = wa_before_policy_aggr['Deaths'] * 1000000 / wa_before_policy_aggr['State Population']
+wa_before_policy_aggr['Ratio_Per_Million'] = wa_before_policy_aggr['Deaths'] * 1000000 / wa_before_policy_aggr['State Population']
 
 wa_before_policy_aggr.head()
 wa_after_policy_aggr = wa_after_policy.groupby('Year', as_index = False).sum()
 # Add a column of death to state population ration for plotting purposes.
-wa_after_policy_aggr['Ratio'] = wa_after_policy_aggr['Deaths'] * 1000000 / wa_after_policy_aggr['State Population']
+wa_after_policy_aggr['Ratio_Per_Million'] = wa_after_policy_aggr['Deaths'] * 1000000 / wa_after_policy_aggr['State Population']
 wa_after_policy_aggr
 
 
 
 wa_plot = (ggplot() +
-    geom_point(wa_before_policy_aggr, aes(x='Year', y='Ratio')) +
-    geom_point(wa_after_policy_aggr, aes(x='Year', y = 'Ratio')) +
-    geom_smooth(wa_before_policy_aggr, aes(x='Year', y='Ratio'), method = 'lm', level = 0) +
-    geom_smooth(wa_after_policy_aggr, aes(x='Year', y='Ratio'), method = 'lm', level = 0) +
+    geom_point(wa_before_policy_aggr, aes(x='Year', y='Ratio_Per_Million')) +
+    geom_point(wa_after_policy_aggr, aes(x='Year', y = 'Ratio_Per_Million')) +
+    geom_smooth(wa_before_policy_aggr, aes(x='Year', y='Ratio_Per_Million'), method = 'lm', level = 0) +
+    geom_smooth(wa_after_policy_aggr, aes(x='Year', y='Ratio_Per_Million'), method = 'lm', level = 0) +
     scale_x_continuous(breaks = range(2007, 2018)) +
     ggtitle("Washington Overdose death per million capita") +
     geom_vline(xintercept=2012, colour="red"))
@@ -104,21 +107,21 @@ tx_after_policy['Year'].value_counts()
 tx_before_policy_aggr = tx_before_policy.groupby('Year', as_index = False).sum()
 # Add a column of death to state population ration for plotting purposes.
 # I change the ratio to deaths per million people, to make it more obvious.
-tx_before_policy_aggr['Ratio'] = tx_before_policy_aggr['Deaths'] * 1000000 / tx_before_policy_aggr['State Population']
+tx_before_policy_aggr['Ratio_Per_Million'] = tx_before_policy_aggr['Deaths'] * 1000000 / tx_before_policy_aggr['State Population']
 
 tx_before_policy_aggr.head()
 tx_after_policy_aggr = tx_after_policy.groupby('Year', as_index = False).sum()
 # Add a column of death to state population ration for plotting purposes.
-tx_after_policy_aggr['Ratio'] = tx_after_policy_aggr['Deaths'] * 1000000 / tx_after_policy_aggr['State Population']
+tx_after_policy_aggr['Ratio_Per_Million'] = tx_after_policy_aggr['Deaths'] * 1000000 / tx_after_policy_aggr['State Population']
 tx_after_policy_aggr
 
 
 
 tx_plot = (ggplot() +
-    geom_point(tx_before_policy_aggr, aes(x='Year', y='Ratio')) +
-    geom_point(tx_after_policy_aggr, aes(x='Year', y = 'Ratio')) +
-    geom_smooth(tx_before_policy_aggr, aes(x='Year', y='Ratio'), method = 'lm', level = 0) +
-    geom_smooth(tx_after_policy_aggr, aes(x='Year', y='Ratio'), method = 'lm', level = 0) +
+    geom_point(tx_before_policy_aggr, aes(x='Year', y='Ratio_Per_Million')) +
+    geom_point(tx_after_policy_aggr, aes(x='Year', y = 'Ratio_Per_Million')) +
+    geom_smooth(tx_before_policy_aggr, aes(x='Year', y='Ratio_Per_Million'), method = 'lm', level = 0) +
+    geom_smooth(tx_after_policy_aggr, aes(x='Year', y='Ratio_Per_Million'), method = 'lm', level = 0) +
     scale_x_continuous(breaks = range(2003, 2012)) +
     ggtitle("Texas Overdose death per million capita") +
     geom_vline(xintercept=2007, colour="red") )

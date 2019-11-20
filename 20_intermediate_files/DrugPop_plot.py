@@ -3,6 +3,10 @@ import pandas as pd
 import numpy as np
 from plotnine import *
 
+# import os
+# # Set base directory
+# os.chdir("~/estimating-impact-of-opioid-prescription-regulations-team-5")
+
 # Get a general sense of the Florida data.
 fl = pd.read_csv('FLOpioidData.csv')
 fl.sample(10)
@@ -12,7 +16,6 @@ fl['TRANSACTION_YEAR'].value_counts()
 # Create a new column filled with int value 1,
 # so the sum of this column represents
 # total number of transaction after aggregation.
-fl['tocount'] = 1
 fl.head()
 
 # Get the total transaction numbers for each individual year.
@@ -24,17 +27,19 @@ fl_aggr
 fl_aggr['Drug_Per_Capita'] = fl_aggr['BUYER_MME'] / fl_aggr['State Population']
 fl_aggr
 # To make trend more obvious, try multiply Drug_Per_Capita by 10.
-fl_aggr['Drug_Per_Capita'] = fl_aggr['Drug_Per_Capita'] * 10
+fl_aggr['10X_Drug_Per_Capita'] = fl_aggr['Drug_Per_Capita'] * 10
 fl_aggr
 
+# Create range of years before (2006-2009) and
+# after (2010-2012) the policy change.
 bef = range(2006, 2010)
 aft = range(2010, 2013)
 before_policy = fl_aggr[fl_aggr['TRANSACTION_YEAR'].isin(bef)]
 after_policy = fl_aggr[fl_aggr['TRANSACTION_YEAR'].isin(aft)]
 
 fl_plot = (ggplot() +
-    geom_line(before_policy, aes(x='TRANSACTION_YEAR', y='Drug_Per_Capita')) +
-    geom_line(after_policy, aes(x='TRANSACTION_YEAR', y='Drug_Per_Capita')) +
+    geom_line(before_policy, aes(x='TRANSACTION_YEAR', y='10X_Drug_Per_Capita')) +
+    geom_line(after_policy, aes(x='TRANSACTION_YEAR', y='10X_Drug_Per_Capita')) +
     scale_x_continuous(breaks = range(2005, 2013)) +
     ggtitle("Florida Drug Dosage Per Capita") +
     geom_vline(xintercept=2010, colour="red"))
