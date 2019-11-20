@@ -37,7 +37,7 @@ fl_plot = (ggplot() +
     geom_smooth(before_policy_aggr, aes(x='Year', y='Ratio'), method = 'lm', level = 0) +
     geom_smooth(after_policy_aggr, aes(x='Year', y='Ratio'), method = 'lm', level = 0) +
     scale_x_continuous(breaks = range(2005, 2016)) +
-    ggtitle("Florida Overdose death per million capita") +
+    ggtitle("Overdose Deaths in Florida per Million Capita") +
     geom_vline(xintercept=2010, colour="red"))
 print(fl_plot)
 fl_plot.save("fl_Mort_Pop.png")
