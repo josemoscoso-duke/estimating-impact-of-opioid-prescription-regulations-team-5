@@ -1,6 +1,7 @@
 # Import libraries
 import pandas as pd
 import numpy as np
+import os
 
 # BEFORE STARTING: download state population data from this link https://data.ers.usda.gov/reports.aspx?ID=17827
 # and adjust the csv to have the following columns: FIPS, County name, RUC Code, Pop. 1990,
@@ -10,14 +11,17 @@ import numpy as np
 # saved as follows: New YorkPopulationReportCleaned.csv
 # See template of "WashingtonPopulationReportCleaned.csv" in source files for proper csv format
 
+# Change directory
+os.chdir("C:/Users/Varun/Documents/MIDS/Fall 2019/IDS 690 - Practical Data Science with Python/Midterm Project/estimating-impact-of-opioid-prescription-regulations-team-5")
+
 # Input state name and abbreivation
-state = 'Texas'
-state_abbrev = 'TX'
+state = 'Florida'
+state_abbrev = 'FL'
 
 # Function to clean population and mortality data and then merge the two dataframes
 def pop_mort_merge(st):
     # Import state population data
-    pop = pd.read_csv("../00_source/Population/{}PopulationReportCleaned.csv".format(st), sep = ',')
+    pop = pd.read_csv("00_source/Population/{}PopulationReportCleaned.csv".format(st), sep = ',')
 
     # Drop extra column and recheck dataframe
     pop = pop.drop(columns = "Unnamed: 8")
@@ -94,14 +98,14 @@ def pop_mort_merge(st):
     'County name_x':'County Name'})
     pop_pop_merged.columns
     pop_pop_merged = pop_pop_merged.drop(columns = ['FIPS_y'])
-    pop_pop_merged['State Abbreviation'] = 'WA'
+    pop_pop_merged['State Abbreviation'] = state_abbrev
     # Remove 'county' from County and make uppercase for future merge with ARCOS data
     pop_pop_merged['County Name'] = pop_pop_merged['County Name'].str.replace(' County','').str.upper()
     pop_pop_merged
 
     ## Done with the function that cleans population datasets.
     ## The following code deals with mortality datasets.
-    mort = pd.read_csv("../20_intermediate_files/mortality_aggregate.csv")
+    mort = pd.read_csv("20_intermediate_files/mortality_aggregate.csv")
     mort.head(20)
     # Drop columns
     mort = mort.drop(columns = ["Unnamed: 0","Notes","Year Code"])
@@ -127,22 +131,24 @@ def pop_mort_merge(st):
     mort_pop_drug['Deaths'] = mort_pop_drug['Deaths'].astype(float).astype(int)
     mort_pop_drug['County Code'] = mort_pop_drug['County Code'].astype(int)
     mort_pop_drug['Year'] = mort_pop_drug['Year'].astype(int)
-    # mort_pop_drug['Drug/Alcohol Induced Cause'] = mort_pop_drug['Drug/Alcohol Induced Cause'].astype(str)
-    # mort_pop_drug['Drug/Alcohol Induced Cause Code'] = mort_pop_drug['Drug/Alcohol Induced Cause Code'].astype(str)
-    mort_pop_drug.dtypes
 
     # Merge with population data on FIPS
-    merged_data = mort_pop_drug.merge(pop_pop_merged, how = "left", left_on = ['County Code', 'Year'],
-    right_on = ['FIPS', 'Year'])
+    merged_data = pop_pop_merged.merge(mort_pop_drug, how = "outer", left_on = ['FIPS', 'Year'],
+    right_on = ['County Code', 'Year'])
     # Check and remove extraneous columns
     merged_data
-    merged_data = merged_data.drop(columns = ['County','FIPS'])
+    merged_data = merged_data.drop(columns = ['County','County Code'])
     # Rename and reorder columns
     merged_data = merged_data.rename(columns = {'County_y':'County','Population':'County Population'})
     merged_data['State Abbreviation'] = state_abbrev
     merged_data.head()
-    merged_data = merged_data[['County Name','State','State Abbreviation','County Code','Year','Drug/Alcohol Induced Cause',
+    merged_data = merged_data[['County Name','State','State Abbreviation','FIPS','Year','Drug/Alcohol Induced Cause',
     'Drug/Alcohol Induced Cause Code','Deaths','County Population','State Population']]
+    # Remove all years before 2003 and after 2015
+    merged_data = merged_data[(merged_data['Year'] >= 2003) & (merged_data['Year'] <= 2015)]
+
+    # Fill all NAs in death column to 0s
+    merged_data['Deaths'] = merged_data['Deaths'].fillna(0).astype(int)
     # Final merged dataset
     merged_data
     return(merged_data)
@@ -150,4 +156,9 @@ def pop_mort_merge(st):
 # Return final merged table and save to csv
 pop_mort_data = pop_mort_merge(state)
 pop_mort_data
-pop_mort_data.to_csv("../20_intermediate_files/{}MortPopData.csv".format(state_abbrev), index = False)
+# View a sample of the data to confirm
+pop_mort_data.sample(50)
+
+
+# Save population data to csv
+pop_mort_data.to_csv("20_intermediate_files/{}MortPopData.csv".format(state_abbrev), index = False)

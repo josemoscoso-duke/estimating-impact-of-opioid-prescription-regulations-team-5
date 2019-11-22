@@ -1,267 +1,576 @@
-County Name,State,State Abbreviation,County Code,Year,Drug/Alcohol Induced Cause,Drug/Alcohol Induced Cause Code,Deaths,County Population,State Population
+County Name,State,State Abbreviation,FIPS,Year,Drug/Alcohol Induced Cause,Drug/Alcohol Induced Cause Code,Deaths,County Population,State Population
+ADAMS,Washington,WA,53001,2003,,,0,17116,6143359
+ASOTIN,Washington,WA,53003,2003,,,0,20874,6143359
 BENTON,Washington,WA,53005,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,152283,6143359
+CHELAN,Washington,WA,53007,2003,,,0,68366,6143359
+CLALLAM,Washington,WA,53009,2003,,,0,66349,6143359
 CLARK,Washington,WA,53011,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,30,369271,6143359
 CLARK,Washington,WA,53011,2003,Drug poisonings (overdose) Suicide (X60-X64),D2,10,369271,6143359
+COLUMBIA,Washington,WA,53013,2003,,,0,4067,6143359
+COWLITZ,Washington,WA,53015,2003,,,0,95783,6143359
+DOUGLAS,Washington,WA,53017,2003,,,0,34341,6143359
+FERRY,Washington,WA,53019,2003,,,0,7349,6143359
+FRANKLIN,Washington,WA,53021,2003,,,0,58012,6143359
+GARFIELD,Washington,WA,53023,2003,,,0,2358,6143359
+GRANT,Washington,WA,53025,2003,,,0,79037,6143359
+GRAYS HARBOR,Washington,WA,53027,2003,,,0,68839,6143359
+ISLAND,Washington,WA,53029,2003,,,0,73653,6143359
+JEFFERSON,Washington,WA,53031,2003,,,0,27372,6143359
 KING,Washington,WA,53033,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,132,1795341,6143359
 KING,Washington,WA,53033,2003,Drug poisonings (overdose) Suicide (X60-X64),D2,30,1795341,6143359
 KING,Washington,WA,53033,2003,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,28,1795341,6143359
 KITSAP,Washington,WA,53035,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,23,237730,6143359
+KITTITAS,Washington,WA,53037,2003,,,0,35631,6143359
+KLICKITAT,Washington,WA,53039,2003,,,0,19515,6143359
+LEWIS,Washington,WA,53041,2003,,,0,70646,6143359
+LINCOLN,Washington,WA,53043,2003,,,0,10293,6143359
+MASON,Washington,WA,53045,2003,,,0,52818,6143359
+OKANOGAN,Washington,WA,53047,2003,,,0,40032,6143359
+PACIFIC,Washington,WA,53049,2003,,,0,20961,6143359
+PEND OREILLE,Washington,WA,53051,2003,,,0,12096,6143359
 PIERCE,Washington,WA,53053,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,77,729136,6143359
 PIERCE,Washington,WA,53053,2003,Drug poisonings (overdose) Suicide (X60-X64),D2,10,729136,6143359
+SAN JUAN,Washington,WA,53055,2003,,,0,14568,6143359
 SKAGIT,Washington,WA,53057,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,107181,6143359
+SKAMANIA,Washington,WA,53059,2003,,,0,10233,6143359
 SNOHOMISH,Washington,WA,53061,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,65,638218,6143359
 SNOHOMISH,Washington,WA,53061,2003,Drug poisonings (overdose) Suicide (X60-X64),D2,11,638218,6143359
 SPOKANE,Washington,WA,53063,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,58,433946,6143359
 SPOKANE,Washington,WA,53063,2003,Drug poisonings (overdose) Suicide (X60-X64),D2,16,433946,6143359
+STEVENS,Washington,WA,53065,2003,,,0,41114,6143359
 THURSTON,Washington,WA,53067,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,220853,6143359
+WAHKIAKUM,Washington,WA,53069,2003,,,0,3872,6143359
+WALLA WALLA,Washington,WA,53071,2003,,,0,56257,6143359
 WHATCOM,Washington,WA,53073,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,177118,6143359
+WHITMAN,Washington,WA,53075,2003,,,0,41954,6143359
 YAKIMA,Washington,WA,53077,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,228776,6143359
+ADAMS,Washington,WA,53001,2004,,,0,17346,6226385
+ASOTIN,Washington,WA,53003,2004,,,0,20981,6226385
 BENTON,Washington,WA,53005,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,155553,6226385
+CHELAN,Washington,WA,53007,2004,,,0,68951,6226385
 CLALLAM,Washington,WA,53009,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,67071,6226385
 CLARK,Washington,WA,53011,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,27,377283,6226385
+COLUMBIA,Washington,WA,53013,2004,,,0,4068,6226385
 COWLITZ,Washington,WA,53015,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,96729,6226385
+DOUGLAS,Washington,WA,53017,2004,,,0,34925,6226385
+FERRY,Washington,WA,53019,2004,,,0,7378,6226385
+FRANKLIN,Washington,WA,53021,2004,,,0,60890,6226385
+GARFIELD,Washington,WA,53023,2004,,,0,2345,6226385
 GRANT,Washington,WA,53025,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,80478,6226385
 GRAYS HARBOR,Washington,WA,53027,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,69405,6226385
+ISLAND,Washington,WA,53029,2004,,,0,74347,6226385
+JEFFERSON,Washington,WA,53031,2004,,,0,27729,6226385
 KING,Washington,WA,53033,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,180,1814763,6226385
 KING,Washington,WA,53033,2004,Drug poisonings (overdose) Suicide (X60-X64),D2,35,1814763,6226385
 KING,Washington,WA,53033,2004,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,19,1814763,6226385
 KITSAP,Washington,WA,53035,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,239646,6226385
+KITTITAS,Washington,WA,53037,2004,,,0,36385,6226385
+KLICKITAT,Washington,WA,53039,2004,,,0,19630,6226385
+LEWIS,Washington,WA,53041,2004,,,0,71333,6226385
+LINCOLN,Washington,WA,53043,2004,,,0,10333,6226385
+MASON,Washington,WA,53045,2004,,,0,53943,6226385
+OKANOGAN,Washington,WA,53047,2004,,,0,40187,6226385
+PACIFIC,Washington,WA,53049,2004,,,0,20955,6226385
+PEND OREILLE,Washington,WA,53051,2004,,,0,12226,6226385
 PIERCE,Washington,WA,53053,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,59,738576,6226385
 PIERCE,Washington,WA,53053,2004,Drug poisonings (overdose) Suicide (X60-X64),D2,13,738576,6226385
+SAN JUAN,Washington,WA,53055,2004,,,0,14740,6226385
 SKAGIT,Washington,WA,53057,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,108569,6226385
+SKAMANIA,Washington,WA,53059,2004,,,0,10352,6226385
 SNOHOMISH,Washington,WA,53061,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,82,648943,6226385
 SNOHOMISH,Washington,WA,53061,2004,Drug poisonings (overdose) Suicide (X60-X64),D2,18,648943,6226385
 SPOKANE,Washington,WA,53063,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,59,439272,6226385
 SPOKANE,Washington,WA,53063,2004,Drug poisonings (overdose) Suicide (X60-X64),D2,19,439272,6226385
+STEVENS,Washington,WA,53065,2004,,,0,41458,6226385
 THURSTON,Washington,WA,53067,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,225340,6226385
+WAHKIAKUM,Washington,WA,53069,2004,,,0,3888,6226385
+WALLA WALLA,Washington,WA,53071,2004,,,0,56617,6226385
 WHATCOM,Washington,WA,53073,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,180550,6226385
+WHITMAN,Washington,WA,53075,2004,,,0,42358,6226385
 YAKIMA,Washington,WA,53077,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,19,230842,6226385
+ADAMS,Washington,WA,53001,2005,,,0,17576,6309411
+ASOTIN,Washington,WA,53003,2005,,,0,21088,6309411
 BENTON,Washington,WA,53005,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,158823,6309411
+CHELAN,Washington,WA,53007,2005,,,0,69536,6309411
 CLALLAM,Washington,WA,53009,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,67793,6309411
 CLARK,Washington,WA,53011,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,30,385295,6309411
 CLARK,Washington,WA,53011,2005,Drug poisonings (overdose) Suicide (X60-X64),D2,10,385295,6309411
+COLUMBIA,Washington,WA,53013,2005,,,0,4069,6309411
 COWLITZ,Washington,WA,53015,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,24,97675,6309411
+DOUGLAS,Washington,WA,53017,2005,,,0,35509,6309411
+FERRY,Washington,WA,53019,2005,,,0,7407,6309411
+FRANKLIN,Washington,WA,53021,2005,,,0,63768,6309411
+GARFIELD,Washington,WA,53023,2005,,,0,2332,6309411
 GRANT,Washington,WA,53025,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,81919,6309411
+GRAYS HARBOR,Washington,WA,53027,2005,,,0,69971,6309411
+ISLAND,Washington,WA,53029,2005,,,0,75041,6309411
+JEFFERSON,Washington,WA,53031,2005,,,0,28086,6309411
 KING,Washington,WA,53033,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,189,1834185,6309411
 KING,Washington,WA,53033,2005,Drug poisonings (overdose) Suicide (X60-X64),D2,37,1834185,6309411
 KITSAP,Washington,WA,53035,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,241562,6309411
+KITTITAS,Washington,WA,53037,2005,,,0,37139,6309411
+KLICKITAT,Washington,WA,53039,2005,,,0,19745,6309411
 LEWIS,Washington,WA,53041,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,72020,6309411
+LINCOLN,Washington,WA,53043,2005,,,0,10373,6309411
+MASON,Washington,WA,53045,2005,,,0,55068,6309411
+OKANOGAN,Washington,WA,53047,2005,,,0,40342,6309411
+PACIFIC,Washington,WA,53049,2005,,,0,20949,6309411
+PEND OREILLE,Washington,WA,53051,2005,,,0,12356,6309411
 PIERCE,Washington,WA,53053,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,69,748016,6309411
 PIERCE,Washington,WA,53053,2005,Drug poisonings (overdose) Suicide (X60-X64),D2,16,748016,6309411
+SAN JUAN,Washington,WA,53055,2005,,,0,14912,6309411
 SKAGIT,Washington,WA,53057,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,109957,6309411
+SKAMANIA,Washington,WA,53059,2005,,,0,10471,6309411
 SNOHOMISH,Washington,WA,53061,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,84,659668,6309411
 SNOHOMISH,Washington,WA,53061,2005,Drug poisonings (overdose) Suicide (X60-X64),D2,10,659668,6309411
 SPOKANE,Washington,WA,53063,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,74,444598,6309411
 SPOKANE,Washington,WA,53063,2005,Drug poisonings (overdose) Suicide (X60-X64),D2,17,444598,6309411
+STEVENS,Washington,WA,53065,2005,,,0,41802,6309411
 THURSTON,Washington,WA,53067,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,23,229827,6309411
+WAHKIAKUM,Washington,WA,53069,2005,,,0,3904,6309411
+WALLA WALLA,Washington,WA,53071,2005,,,0,56977,6309411
 WHATCOM,Washington,WA,53073,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,183982,6309411
+WHITMAN,Washington,WA,53075,2005,,,0,42762,6309411
 YAKIMA,Washington,WA,53077,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,232908,6309411
+ADAMS,Washington,WA,53001,2006,,,0,17806,6392437
+ASOTIN,Washington,WA,53003,2006,,,0,21195,6392437
 BENTON,Washington,WA,53005,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,162093,6392437
+CHELAN,Washington,WA,53007,2006,,,0,70121,6392437
 CLALLAM,Washington,WA,53009,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,68515,6392437
 CLARK,Washington,WA,53011,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,38,393307,6392437
 CLARK,Washington,WA,53011,2006,Drug poisonings (overdose) Suicide (X60-X64),D2,10,393307,6392437
+COLUMBIA,Washington,WA,53013,2006,,,0,4070,6392437
 COWLITZ,Washington,WA,53015,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,98621,6392437
+DOUGLAS,Washington,WA,53017,2006,,,0,36093,6392437
+FERRY,Washington,WA,53019,2006,,,0,7436,6392437
+FRANKLIN,Washington,WA,53021,2006,,,0,66646,6392437
+GARFIELD,Washington,WA,53023,2006,,,0,2319,6392437
 GRANT,Washington,WA,53025,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,83360,6392437
+GRAYS HARBOR,Washington,WA,53027,2006,,,0,70537,6392437
+ISLAND,Washington,WA,53029,2006,,,0,75735,6392437
+JEFFERSON,Washington,WA,53031,2006,,,0,28443,6392437
 KING,Washington,WA,53033,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,216,1853607,6392437
 KING,Washington,WA,53033,2006,Drug poisonings (overdose) Suicide (X60-X64),D2,33,1853607,6392437
 KING,Washington,WA,53033,2006,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,10,1853607,6392437
 KITSAP,Washington,WA,53035,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,243478,6392437
+KITTITAS,Washington,WA,53037,2006,,,0,37893,6392437
+KLICKITAT,Washington,WA,53039,2006,,,0,19860,6392437
+LEWIS,Washington,WA,53041,2006,,,0,72707,6392437
+LINCOLN,Washington,WA,53043,2006,,,0,10413,6392437
+MASON,Washington,WA,53045,2006,,,0,56193,6392437
+OKANOGAN,Washington,WA,53047,2006,,,0,40497,6392437
+PACIFIC,Washington,WA,53049,2006,,,0,20943,6392437
+PEND OREILLE,Washington,WA,53051,2006,,,0,12486,6392437
 PIERCE,Washington,WA,53053,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,68,757456,6392437
+SAN JUAN,Washington,WA,53055,2006,,,0,15084,6392437
 SKAGIT,Washington,WA,53057,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,111345,6392437
+SKAMANIA,Washington,WA,53059,2006,,,0,10590,6392437
 SNOHOMISH,Washington,WA,53061,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,86,670393,6392437
 SNOHOMISH,Washington,WA,53061,2006,Drug poisonings (overdose) Suicide (X60-X64),D2,11,670393,6392437
 SPOKANE,Washington,WA,53063,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,85,449924,6392437
 SPOKANE,Washington,WA,53063,2006,Drug poisonings (overdose) Suicide (X60-X64),D2,14,449924,6392437
 STEVENS,Washington,WA,53065,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,42146,6392437
 THURSTON,Washington,WA,53067,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,234314,6392437
+WAHKIAKUM,Washington,WA,53069,2006,,,0,3920,6392437
+WALLA WALLA,Washington,WA,53071,2006,,,0,57337,6392437
 WHATCOM,Washington,WA,53073,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,22,187414,6392437
+WHITMAN,Washington,WA,53075,2006,,,0,43166,6392437
 YAKIMA,Washington,WA,53077,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,234974,6392437
+ADAMS,Washington,WA,53001,2007,,,0,18036,6475463
+ASOTIN,Washington,WA,53003,2007,,,0,21302,6475463
 BENTON,Washington,WA,53005,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,165363,6475463
+CHELAN,Washington,WA,53007,2007,,,0,70706,6475463
 CLALLAM,Washington,WA,53009,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,19,69237,6475463
 CLARK,Washington,WA,53011,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,41,401319,6475463
 CLARK,Washington,WA,53011,2007,Drug poisonings (overdose) Suicide (X60-X64),D2,14,401319,6475463
+COLUMBIA,Washington,WA,53013,2007,,,0,4071,6475463
 COWLITZ,Washington,WA,53015,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,99567,6475463
+DOUGLAS,Washington,WA,53017,2007,,,0,36677,6475463
+FERRY,Washington,WA,53019,2007,,,0,7465,6475463
+FRANKLIN,Washington,WA,53021,2007,,,0,69524,6475463
+GARFIELD,Washington,WA,53023,2007,,,0,2306,6475463
 GRANT,Washington,WA,53025,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,84801,6475463
+GRAYS HARBOR,Washington,WA,53027,2007,,,0,71103,6475463
+ISLAND,Washington,WA,53029,2007,,,0,76429,6475463
+JEFFERSON,Washington,WA,53031,2007,,,0,28800,6475463
 KING,Washington,WA,53033,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,212,1873029,6475463
 KING,Washington,WA,53033,2007,Drug poisonings (overdose) Suicide (X60-X64),D2,32,1873029,6475463
 KING,Washington,WA,53033,2007,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,14,1873029,6475463
 KITSAP,Washington,WA,53035,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,23,245394,6475463
+KITTITAS,Washington,WA,53037,2007,,,0,38647,6475463
+KLICKITAT,Washington,WA,53039,2007,,,0,19975,6475463
 LEWIS,Washington,WA,53041,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,73394,6475463
+LINCOLN,Washington,WA,53043,2007,,,0,10453,6475463
+MASON,Washington,WA,53045,2007,,,0,57318,6475463
+OKANOGAN,Washington,WA,53047,2007,,,0,40652,6475463
+PACIFIC,Washington,WA,53049,2007,,,0,20937,6475463
+PEND OREILLE,Washington,WA,53051,2007,,,0,12616,6475463
 PIERCE,Washington,WA,53053,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,98,766896,6475463
 PIERCE,Washington,WA,53053,2007,Drug poisonings (overdose) Suicide (X60-X64),D2,12,766896,6475463
 PIERCE,Washington,WA,53053,2007,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,15,766896,6475463
+SAN JUAN,Washington,WA,53055,2007,,,0,15256,6475463
 SKAGIT,Washington,WA,53057,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,112733,6475463
+SKAMANIA,Washington,WA,53059,2007,,,0,10709,6475463
 SNOHOMISH,Washington,WA,53061,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,95,681118,6475463
 SNOHOMISH,Washington,WA,53061,2007,Drug poisonings (overdose) Suicide (X60-X64),D2,12,681118,6475463
 SPOKANE,Washington,WA,53063,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,88,455250,6475463
 SPOKANE,Washington,WA,53063,2007,Drug poisonings (overdose) Suicide (X60-X64),D2,16,455250,6475463
+STEVENS,Washington,WA,53065,2007,,,0,42490,6475463
 THURSTON,Washington,WA,53067,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,238801,6475463
+WAHKIAKUM,Washington,WA,53069,2007,,,0,3936,6475463
+WALLA WALLA,Washington,WA,53071,2007,,,0,57697,6475463
 WHATCOM,Washington,WA,53073,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,190846,6475463
+WHITMAN,Washington,WA,53075,2007,,,0,43570,6475463
 YAKIMA,Washington,WA,53077,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,24,237040,6475463
+ADAMS,Washington,WA,53001,2008,,,0,18266,6558489
+ASOTIN,Washington,WA,53003,2008,,,0,21409,6558489
 BENTON,Washington,WA,53005,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,168633,6558489
+CHELAN,Washington,WA,53007,2008,,,0,71291,6558489
 CLALLAM,Washington,WA,53009,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,69959,6558489
 CLARK,Washington,WA,53011,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,44,409331,6558489
 CLARK,Washington,WA,53011,2008,Drug poisonings (overdose) Suicide (X60-X64),D2,17,409331,6558489
+COLUMBIA,Washington,WA,53013,2008,,,0,4072,6558489
 COWLITZ,Washington,WA,53015,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,100513,6558489
+DOUGLAS,Washington,WA,53017,2008,,,0,37261,6558489
+FERRY,Washington,WA,53019,2008,,,0,7494,6558489
+FRANKLIN,Washington,WA,53021,2008,,,0,72402,6558489
+GARFIELD,Washington,WA,53023,2008,,,0,2293,6558489
 GRANT,Washington,WA,53025,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,86242,6558489
 GRAYS HARBOR,Washington,WA,53027,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,71669,6558489
+ISLAND,Washington,WA,53029,2008,,,0,77123,6558489
+JEFFERSON,Washington,WA,53031,2008,,,0,29157,6558489
 KING,Washington,WA,53033,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,206,1892451,6558489
 KING,Washington,WA,53033,2008,Drug poisonings (overdose) Suicide (X60-X64),D2,28,1892451,6558489
 KING,Washington,WA,53033,2008,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,11,1892451,6558489
 KITSAP,Washington,WA,53035,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,247310,6558489
 KITSAP,Washington,WA,53035,2008,Drug poisonings (overdose) Suicide (X60-X64),D2,10,247310,6558489
+KITTITAS,Washington,WA,53037,2008,,,0,39401,6558489
+KLICKITAT,Washington,WA,53039,2008,,,0,20090,6558489
 LEWIS,Washington,WA,53041,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,74081,6558489
+LINCOLN,Washington,WA,53043,2008,,,0,10493,6558489
+MASON,Washington,WA,53045,2008,,,0,58443,6558489
+OKANOGAN,Washington,WA,53047,2008,,,0,40807,6558489
+PACIFIC,Washington,WA,53049,2008,,,0,20931,6558489
+PEND OREILLE,Washington,WA,53051,2008,,,0,12746,6558489
 PIERCE,Washington,WA,53053,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,108,776336,6558489
 PIERCE,Washington,WA,53053,2008,Drug poisonings (overdose) Suicide (X60-X64),D2,21,776336,6558489
+SAN JUAN,Washington,WA,53055,2008,,,0,15428,6558489
 SKAGIT,Washington,WA,53057,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,114121,6558489
+SKAMANIA,Washington,WA,53059,2008,,,0,10828,6558489
 SNOHOMISH,Washington,WA,53061,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,109,691843,6558489
 SPOKANE,Washington,WA,53063,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,104,460576,6558489
 SPOKANE,Washington,WA,53063,2008,Drug poisonings (overdose) Suicide (X60-X64),D2,22,460576,6558489
 STEVENS,Washington,WA,53065,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,42834,6558489
 THURSTON,Washington,WA,53067,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,19,243288,6558489
+WAHKIAKUM,Washington,WA,53069,2008,,,0,3952,6558489
+WALLA WALLA,Washington,WA,53071,2008,,,0,58057,6558489
 WHATCOM,Washington,WA,53073,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,194278,6558489
+WHITMAN,Washington,WA,53075,2008,,,0,43974,6558489
 YAKIMA,Washington,WA,53077,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,239106,6558489
+ADAMS,Washington,WA,53001,2009,,,0,18496,6641515
+ASOTIN,Washington,WA,53003,2009,,,0,21516,6641515
 BENTON,Washington,WA,53005,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,171903,6641515
+CHELAN,Washington,WA,53007,2009,,,0,71876,6641515
 CLALLAM,Washington,WA,53009,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,70681,6641515
 CLARK,Washington,WA,53011,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,44,417343,6641515
 CLARK,Washington,WA,53011,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,15,417343,6641515
+COLUMBIA,Washington,WA,53013,2009,,,0,4073,6641515
 COWLITZ,Washington,WA,53015,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,18,101459,6641515
+DOUGLAS,Washington,WA,53017,2009,,,0,37845,6641515
+FERRY,Washington,WA,53019,2009,,,0,7523,6641515
+FRANKLIN,Washington,WA,53021,2009,,,0,75280,6641515
+GARFIELD,Washington,WA,53023,2009,,,0,2280,6641515
 GRANT,Washington,WA,53025,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,87683,6641515
 GRAYS HARBOR,Washington,WA,53027,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,72235,6641515
+ISLAND,Washington,WA,53029,2009,,,0,77817,6641515
+JEFFERSON,Washington,WA,53031,2009,,,0,29514,6641515
 KING,Washington,WA,53033,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,203,1911873,6641515
 KING,Washington,WA,53033,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,28,1911873,6641515
 KITSAP,Washington,WA,53035,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,24,249226,6641515
+KITTITAS,Washington,WA,53037,2009,,,0,40155,6641515
+KLICKITAT,Washington,WA,53039,2009,,,0,20205,6641515
 LEWIS,Washington,WA,53041,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,74768,6641515
+LINCOLN,Washington,WA,53043,2009,,,0,10533,6641515
+MASON,Washington,WA,53045,2009,,,0,59568,6641515
+OKANOGAN,Washington,WA,53047,2009,,,0,40962,6641515
+PACIFIC,Washington,WA,53049,2009,,,0,20925,6641515
+PEND OREILLE,Washington,WA,53051,2009,,,0,12876,6641515
 PIERCE,Washington,WA,53053,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,102,785776,6641515
+SAN JUAN,Washington,WA,53055,2009,,,0,15600,6641515
 SKAGIT,Washington,WA,53057,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,115509,6641515
+SKAMANIA,Washington,WA,53059,2009,,,0,10947,6641515
 SNOHOMISH,Washington,WA,53061,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,109,702568,6641515
 SNOHOMISH,Washington,WA,53061,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,16,702568,6641515
 SPOKANE,Washington,WA,53063,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,74,465902,6641515
+STEVENS,Washington,WA,53065,2009,,,0,43178,6641515
 THURSTON,Washington,WA,53067,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,28,247775,6641515
+WAHKIAKUM,Washington,WA,53069,2009,,,0,3968,6641515
+WALLA WALLA,Washington,WA,53071,2009,,,0,58417,6641515
 WHATCOM,Washington,WA,53073,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,18,197710,6641515
+WHITMAN,Washington,WA,53075,2009,,,0,44378,6641515
 YAKIMA,Washington,WA,53077,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,241172,6641515
+ADAMS,Washington,WA,53001,2010,,,0,18728,6724540
+ASOTIN,Washington,WA,53003,2010,,,0,21623,6724540
 BENTON,Washington,WA,53005,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,175169,6724540
 CHELAN,Washington,WA,53007,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,72460,6724540
 CLALLAM,Washington,WA,53009,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,71404,6724540
 CLARK,Washington,WA,53011,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,37,425360,6724540
 CLARK,Washington,WA,53011,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,13,425360,6724540
+COLUMBIA,Washington,WA,53013,2010,,,0,4078,6724540
 COWLITZ,Washington,WA,53015,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,102408,6724540
+DOUGLAS,Washington,WA,53017,2010,,,0,38427,6724540
+FERRY,Washington,WA,53019,2010,,,0,7554,6724540
+FRANKLIN,Washington,WA,53021,2010,,,0,78163,6724540
+GARFIELD,Washington,WA,53023,2010,,,0,2266,6724540
+GRANT,Washington,WA,53025,2010,,,0,89124,6724540
+GRAYS HARBOR,Washington,WA,53027,2010,,,0,72798,6724540
+ISLAND,Washington,WA,53029,2010,,,0,78508,6724540
+JEFFERSON,Washington,WA,53031,2010,,,0,29872,6724540
 KING,Washington,WA,53033,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,191,1931292,6724540
 KING,Washington,WA,53033,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,47,1931292,6724540
 KITSAP,Washington,WA,53035,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,19,251143,6724540
+KITTITAS,Washington,WA,53037,2010,,,0,40909,6724540
+KLICKITAT,Washington,WA,53039,2010,,,0,20317,6724540
 LEWIS,Washington,WA,53041,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,75457,6724540
+LINCOLN,Washington,WA,53043,2010,,,0,10570,6724540
+MASON,Washington,WA,53045,2010,,,0,60692,6724540
+OKANOGAN,Washington,WA,53047,2010,,,0,41117,6724540
+PACIFIC,Washington,WA,53049,2010,,,0,20919,6724540
+PEND OREILLE,Washington,WA,53051,2010,,,0,13001,6724540
 PIERCE,Washington,WA,53053,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,84,795217,6724540
 PIERCE,Washington,WA,53053,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,29,795217,6724540
+SAN JUAN,Washington,WA,53055,2010,,,0,15769,6724540
 SKAGIT,Washington,WA,53057,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,116893,6724540
+SKAMANIA,Washington,WA,53059,2010,,,0,11070,6724540
 SNOHOMISH,Washington,WA,53061,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,89,713296,6724540
 SNOHOMISH,Washington,WA,53061,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,19,713296,6724540
 SPOKANE,Washington,WA,53063,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,61,471229,6724540
 SPOKANE,Washington,WA,53063,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,14,471229,6724540
+STEVENS,Washington,WA,53065,2010,,,0,43523,6724540
 THURSTON,Washington,WA,53067,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,22,252260,6724540
+WAHKIAKUM,Washington,WA,53069,2010,,,0,3979,6724540
+WALLA WALLA,Washington,WA,53071,2010,,,0,58781,6724540
 WHATCOM,Washington,WA,53073,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,201146,6724540
+WHITMAN,Washington,WA,53075,2010,,,0,44778,6724540
 YAKIMA,Washington,WA,53077,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,24,243240,6724540
+ADAMS,Washington,WA,53001,2011,,,0,18857,6825921
+ASOTIN,Washington,WA,53003,2011,,,0,21746,6825921
 BENTON,Washington,WA,53005,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,178507,6825921
 CHELAN,Washington,WA,53007,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,73032,6825921
+CLALLAM,Washington,WA,53009,2011,,,0,72071,6825921
 CLARK,Washington,WA,53011,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,43,432422,6825921
 CLARK,Washington,WA,53011,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,12,432422,6825921
+COLUMBIA,Washington,WA,53013,2011,,,0,4076,6825921
 COWLITZ,Washington,WA,53015,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,27,103230,6825921
+DOUGLAS,Washington,WA,53017,2011,,,0,38987,6825921
+FERRY,Washington,WA,53019,2011,,,0,7566,6825921
+FRANKLIN,Washington,WA,53021,2011,,,0,80186,6825921
+GARFIELD,Washington,WA,53023,2011,,,0,2264,6825921
+GRANT,Washington,WA,53025,2011,,,0,90150,6825921
 GRAYS HARBOR,Washington,WA,53027,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,72936,6825921
+ISLAND,Washington,WA,53029,2011,,,0,79252,6825921
+JEFFERSON,Washington,WA,53031,2011,,,0,30104,6825921
 KING,Washington,WA,53033,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,179,1969026,6825921
 KING,Washington,WA,53033,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,45,1969026,6825921
 KING,Washington,WA,53033,2011,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,12,1969026,6825921
 KITSAP,Washington,WA,53035,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,25,253476,6825921
+KITTITAS,Washington,WA,53037,2011,,,0,41716,6825921
+KLICKITAT,Washington,WA,53039,2011,,,0,20541,6825921
 LEWIS,Washington,WA,53041,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,75975,6825921
+LINCOLN,Washington,WA,53043,2011,,,0,10591,6825921
+MASON,Washington,WA,53045,2011,,,0,61294,6825921
+OKANOGAN,Washington,WA,53047,2011,,,0,41244,6825921
+PACIFIC,Washington,WA,53049,2011,,,0,21059,6825921
+PEND OREILLE,Washington,WA,53051,2011,,,0,13076,6825921
 PIERCE,Washington,WA,53053,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,98,807227,6825921
 PIERCE,Washington,WA,53053,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,30,807227,6825921
+SAN JUAN,Washington,WA,53055,2011,,,0,15939,6825921
 SKAGIT,Washington,WA,53057,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,118307,6825921
+SKAMANIA,Washington,WA,53059,2011,,,0,11177,6825921
 SNOHOMISH,Washington,WA,53061,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,143,725997,6825921
 SNOHOMISH,Washington,WA,53061,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,25,725997,6825921
 SPOKANE,Washington,WA,53063,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,63,476654,6825921
 SPOKANE,Washington,WA,53063,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,10,476654,6825921
+STEVENS,Washington,WA,53065,2011,,,0,43740,6825921
 THURSTON,Washington,WA,53067,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,27,256530,6825921
+WAHKIAKUM,Washington,WA,53069,2011,,,0,4035,6825921
+WALLA WALLA,Washington,WA,53071,2011,,,0,59049,6825921
 WHATCOM,Washington,WA,53073,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,19,204213,6825921
+WHITMAN,Washington,WA,53075,2011,,,0,45405,6825921
 YAKIMA,Washington,WA,53077,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,244266,6825921
+ADAMS,Washington,WA,53001,2012,,,0,18986,6927302
+ASOTIN,Washington,WA,53003,2012,,,0,21869,6927302
 BENTON,Washington,WA,53005,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,181845,6927302
+CHELAN,Washington,WA,53007,2012,,,0,73604,6927302
 CLALLAM,Washington,WA,53009,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,72738,6927302
 CLARK,Washington,WA,53011,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,52,439484,6927302
 CLARK,Washington,WA,53011,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,10,439484,6927302
+COLUMBIA,Washington,WA,53013,2012,,,0,4074,6927302
 COWLITZ,Washington,WA,53015,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,23,104052,6927302
+DOUGLAS,Washington,WA,53017,2012,,,0,39547,6927302
+FERRY,Washington,WA,53019,2012,,,0,7578,6927302
+FRANKLIN,Washington,WA,53021,2012,,,0,82209,6927302
+GARFIELD,Washington,WA,53023,2012,,,0,2262,6927302
+GRANT,Washington,WA,53025,2012,,,0,91176,6927302
 GRAYS HARBOR,Washington,WA,53027,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,73074,6927302
 ISLAND,Washington,WA,53029,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,79996,6927302
+JEFFERSON,Washington,WA,53031,2012,,,0,30336,6927302
 KING,Washington,WA,53033,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,201,2006760,6927302
 KING,Washington,WA,53033,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,50,2006760,6927302
 KING,Washington,WA,53033,2012,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,10,2006760,6927302
 KITSAP,Washington,WA,53035,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,255809,6927302
+KITTITAS,Washington,WA,53037,2012,,,0,42523,6927302
+KLICKITAT,Washington,WA,53039,2012,,,0,20765,6927302
+LEWIS,Washington,WA,53041,2012,,,0,76493,6927302
+LINCOLN,Washington,WA,53043,2012,,,0,10612,6927302
 MASON,Washington,WA,53045,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,61896,6927302
+OKANOGAN,Washington,WA,53047,2012,,,0,41371,6927302
+PACIFIC,Washington,WA,53049,2012,,,0,21199,6927302
+PEND OREILLE,Washington,WA,53051,2012,,,0,13151,6927302
 PIERCE,Washington,WA,53053,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,80,819237,6927302
 PIERCE,Washington,WA,53053,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,29,819237,6927302
+SAN JUAN,Washington,WA,53055,2012,,,0,16109,6927302
 SKAGIT,Washington,WA,53057,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,119721,6927302
+SKAMANIA,Washington,WA,53059,2012,,,0,11284,6927302
 SNOHOMISH,Washington,WA,53061,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,114,738698,6927302
 SNOHOMISH,Washington,WA,53061,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,17,738698,6927302
 SPOKANE,Washington,WA,53063,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,74,482079,6927302
 SPOKANE,Washington,WA,53063,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,10,482079,6927302
+STEVENS,Washington,WA,53065,2012,,,0,43957,6927302
 THURSTON,Washington,WA,53067,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,25,260800,6927302
+WAHKIAKUM,Washington,WA,53069,2012,,,0,4091,6927302
+WALLA WALLA,Washington,WA,53071,2012,,,0,59317,6927302
 WHATCOM,Washington,WA,53073,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,207280,6927302
+WHITMAN,Washington,WA,53075,2012,,,0,46032,6927302
 YAKIMA,Washington,WA,53077,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,25,245292,6927302
+ADAMS,Washington,WA,53001,2013,,,0,19115,7028683
+ASOTIN,Washington,WA,53003,2013,,,0,21992,7028683
 BENTON,Washington,WA,53005,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,18,185183,7028683
+CHELAN,Washington,WA,53007,2013,,,0,74176,7028683
 CLALLAM,Washington,WA,53009,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,73405,7028683
 CLARK,Washington,WA,53011,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,46,446546,7028683
 CLARK,Washington,WA,53011,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,11,446546,7028683
+COLUMBIA,Washington,WA,53013,2013,,,0,4072,7028683
 COWLITZ,Washington,WA,53015,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,21,104874,7028683
+DOUGLAS,Washington,WA,53017,2013,,,0,40107,7028683
+FERRY,Washington,WA,53019,2013,,,0,7590,7028683
+FRANKLIN,Washington,WA,53021,2013,,,0,84232,7028683
+GARFIELD,Washington,WA,53023,2013,,,0,2260,7028683
+GRANT,Washington,WA,53025,2013,,,0,92202,7028683
 GRAYS HARBOR,Washington,WA,53027,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,73212,7028683
+ISLAND,Washington,WA,53029,2013,,,0,80740,7028683
+JEFFERSON,Washington,WA,53031,2013,,,0,30568,7028683
 KING,Washington,WA,53033,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,242,2044494,7028683
 KING,Washington,WA,53033,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,34,2044494,7028683
 KITSAP,Washington,WA,53035,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,258142,7028683
+KITTITAS,Washington,WA,53037,2013,,,0,43330,7028683
+KLICKITAT,Washington,WA,53039,2013,,,0,20989,7028683
+LEWIS,Washington,WA,53041,2013,,,0,77011,7028683
+LINCOLN,Washington,WA,53043,2013,,,0,10633,7028683
 MASON,Washington,WA,53045,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,62498,7028683
+OKANOGAN,Washington,WA,53047,2013,,,0,41498,7028683
+PACIFIC,Washington,WA,53049,2013,,,0,21339,7028683
+PEND OREILLE,Washington,WA,53051,2013,,,0,13226,7028683
 PIERCE,Washington,WA,53053,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,97,831247,7028683
 PIERCE,Washington,WA,53053,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,25,831247,7028683
+SAN JUAN,Washington,WA,53055,2013,,,0,16279,7028683
 SKAGIT,Washington,WA,53057,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,23,121135,7028683
+SKAMANIA,Washington,WA,53059,2013,,,0,11391,7028683
 SNOHOMISH,Washington,WA,53061,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,112,751399,7028683
 SNOHOMISH,Washington,WA,53061,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,14,751399,7028683
 SPOKANE,Washington,WA,53063,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,48,487504,7028683
 SPOKANE,Washington,WA,53063,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,15,487504,7028683
+STEVENS,Washington,WA,53065,2013,,,0,44174,7028683
 THURSTON,Washington,WA,53067,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,25,265070,7028683
+WAHKIAKUM,Washington,WA,53069,2013,,,0,4147,7028683
+WALLA WALLA,Washington,WA,53071,2013,,,0,59585,7028683
 WHATCOM,Washington,WA,53073,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,210347,7028683
+WHITMAN,Washington,WA,53075,2013,,,0,46659,7028683
 YAKIMA,Washington,WA,53077,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,246318,7028683
+ADAMS,Washington,WA,53001,2014,,,0,19244,7130064
+ASOTIN,Washington,WA,53003,2014,,,0,22115,7130064
 BENTON,Washington,WA,53005,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,188521,7130064
+CHELAN,Washington,WA,53007,2014,,,0,74748,7130064
+CLALLAM,Washington,WA,53009,2014,,,0,74072,7130064
 CLARK,Washington,WA,53011,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,45,453608,7130064
 CLARK,Washington,WA,53011,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,14,453608,7130064
+COLUMBIA,Washington,WA,53013,2014,,,0,4070,7130064
 COWLITZ,Washington,WA,53015,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,21,105696,7130064
+DOUGLAS,Washington,WA,53017,2014,,,0,40667,7130064
+FERRY,Washington,WA,53019,2014,,,0,7602,7130064
+FRANKLIN,Washington,WA,53021,2014,,,0,86255,7130064
+GARFIELD,Washington,WA,53023,2014,,,0,2258,7130064
+GRANT,Washington,WA,53025,2014,,,0,93228,7130064
 GRAYS HARBOR,Washington,WA,53027,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,73350,7130064
 ISLAND,Washington,WA,53029,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,81484,7130064
+JEFFERSON,Washington,WA,53031,2014,,,0,30800,7130064
 KING,Washington,WA,53033,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,251,2082228,7130064
 KING,Washington,WA,53033,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,42,2082228,7130064
 KITSAP,Washington,WA,53035,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,260475,7130064
+KITTITAS,Washington,WA,53037,2014,,,0,44137,7130064
+KLICKITAT,Washington,WA,53039,2014,,,0,21213,7130064
 LEWIS,Washington,WA,53041,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,77529,7130064
+LINCOLN,Washington,WA,53043,2014,,,0,10654,7130064
+MASON,Washington,WA,53045,2014,,,0,63100,7130064
+OKANOGAN,Washington,WA,53047,2014,,,0,41625,7130064
+PACIFIC,Washington,WA,53049,2014,,,0,21479,7130064
+PEND OREILLE,Washington,WA,53051,2014,,,0,13301,7130064
 PIERCE,Washington,WA,53053,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,94,843257,7130064
 PIERCE,Washington,WA,53053,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,30,843257,7130064
+SAN JUAN,Washington,WA,53055,2014,,,0,16449,7130064
 SKAGIT,Washington,WA,53057,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,122549,7130064
+SKAMANIA,Washington,WA,53059,2014,,,0,11498,7130064
 SNOHOMISH,Washington,WA,53061,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,102,764100,7130064
 SNOHOMISH,Washington,WA,53061,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,22,764100,7130064
 SPOKANE,Washington,WA,53063,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,50,492929,7130064
+STEVENS,Washington,WA,53065,2014,,,0,44391,7130064
 THURSTON,Washington,WA,53067,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,269340,7130064
+WAHKIAKUM,Washington,WA,53069,2014,,,0,4203,7130064
 WALLA WALLA,Washington,WA,53071,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,59853,7130064
 WHATCOM,Washington,WA,53073,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,213414,7130064
+WHITMAN,Washington,WA,53075,2014,,,0,47286,7130064
 YAKIMA,Washington,WA,53077,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,23,247344,7130064
+ADAMS,Washington,WA,53001,2015,,,0,19373,7231445
+ASOTIN,Washington,WA,53003,2015,,,0,22238,7231445
 BENTON,Washington,WA,53005,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,28,191859,7231445
+CHELAN,Washington,WA,53007,2015,,,0,75320,7231445
 CLALLAM,Washington,WA,53009,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,74739,7231445
 CLARK,Washington,WA,53011,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,59,460670,7231445
+COLUMBIA,Washington,WA,53013,2015,,,0,4068,7231445
 COWLITZ,Washington,WA,53015,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,106518,7231445
+DOUGLAS,Washington,WA,53017,2015,,,0,41227,7231445
+FERRY,Washington,WA,53019,2015,,,0,7614,7231445
+FRANKLIN,Washington,WA,53021,2015,,,0,88278,7231445
+GARFIELD,Washington,WA,53023,2015,,,0,2256,7231445
 GRANT,Washington,WA,53025,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,94254,7231445
 GRAYS HARBOR,Washington,WA,53027,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,73488,7231445
 ISLAND,Washington,WA,53029,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,82228,7231445
+JEFFERSON,Washington,WA,53031,2015,,,0,31032,7231445
 KING,Washington,WA,53033,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,241,2119962,7231445
 KING,Washington,WA,53033,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,34,2119962,7231445
 KING,Washington,WA,53033,2015,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,10,2119962,7231445
 KITSAP,Washington,WA,53035,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,29,262808,7231445
+KITTITAS,Washington,WA,53037,2015,,,0,44944,7231445
+KLICKITAT,Washington,WA,53039,2015,,,0,21437,7231445
+LEWIS,Washington,WA,53041,2015,,,0,78047,7231445
+LINCOLN,Washington,WA,53043,2015,,,0,10675,7231445
 MASON,Washington,WA,53045,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,63702,7231445
+OKANOGAN,Washington,WA,53047,2015,,,0,41752,7231445
+PACIFIC,Washington,WA,53049,2015,,,0,21619,7231445
+PEND OREILLE,Washington,WA,53051,2015,,,0,13376,7231445
 PIERCE,Washington,WA,53053,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,110,855267,7231445
 PIERCE,Washington,WA,53053,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,30,855267,7231445
+SAN JUAN,Washington,WA,53055,2015,,,0,16619,7231445
 SKAGIT,Washington,WA,53057,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,18,123963,7231445
+SKAMANIA,Washington,WA,53059,2015,,,0,11605,7231445
 SNOHOMISH,Washington,WA,53061,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,114,776801,7231445
 SNOHOMISH,Washington,WA,53061,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,13,776801,7231445
 SPOKANE,Washington,WA,53063,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,74,498354,7231445
 SPOKANE,Washington,WA,53063,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,18,498354,7231445
+STEVENS,Washington,WA,53065,2015,,,0,44608,7231445
 THURSTON,Washington,WA,53067,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,26,273610,7231445
+WAHKIAKUM,Washington,WA,53069,2015,,,0,4259,7231445
+WALLA WALLA,Washington,WA,53071,2015,,,0,60121,7231445
 WHATCOM,Washington,WA,53073,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,23,216481,7231445
+WHITMAN,Washington,WA,53075,2015,,,0,47913,7231445
 YAKIMA,Washington,WA,53077,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,26,248370,7231445
