@@ -1,0 +1,262 @@
+County Name,State,State Abbreviation,FIPS,Year,Drug/Alcohol Induced Cause,Drug/Alcohol Induced Cause Code,Deaths,County Population,State Population
+APACHE,Arizona,AZ,4001,2003,,,0,70057,5508859
+COCHISE,Arizona,AZ,4003,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,121826,5508859
+COCONINO,Arizona,AZ,4005,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,121753,5508859
+GILA,Arizona,AZ,4007,2003,,,0,51988,5508859
+GRAHAM,Arizona,AZ,4009,2003,,,0,34597,5508859
+GREENLEE,Arizona,AZ,4011,2003,,,0,8509,5508859
+LA PAZ,Arizona,AZ,4012,2003,,,0,19916,5508859
+MARICOPA,Arizona,AZ,4013,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,273,3295897,5508859
+MARICOPA,Arizona,AZ,4013,2003,Drug poisonings (overdose) Suicide (X60-X64),D2,63,3295897,5508859
+MARICOPA,Arizona,AZ,4013,2003,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,32,3295897,5508859
+MOHAVE,Arizona,AZ,4015,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,168541,5508859
+NAVAJO,Arizona,AZ,4017,2003,,,0,100464,5508859
+PIMA,Arizona,AZ,4019,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,145,884670,5508859
+PIMA,Arizona,AZ,4019,2003,Drug poisonings (overdose) Suicide (X60-X64),D2,14,884670,5508859
+PINAL,Arizona,AZ,4021,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,18,238359,5508859
+SANTA CRUZ,Arizona,AZ,4023,2003,,,0,41093,5508859
+YAVAPAI,Arizona,AZ,4025,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,180469,5508859
+YUMA,Arizona,AZ,4027,2003,,,0,170723,5508859
+APACHE,Arizona,AZ,4001,2004,,,0,70266,5635063
+COCHISE,Arizona,AZ,4003,2004,,,0,123187,5635063
+COCONINO,Arizona,AZ,4005,2004,,,0,123564,5635063
+GILA,Arizona,AZ,4007,2004,,,0,52218,5635063
+GRAHAM,Arizona,AZ,4009,2004,,,0,34971,5635063
+GREENLEE,Arizona,AZ,4011,2004,,,0,8499,5635063
+LA PAZ,Arizona,AZ,4012,2004,,,0,19998,5635063
+MARICOPA,Arizona,AZ,4013,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,320,3370391,5635063
+MARICOPA,Arizona,AZ,4013,2004,Drug poisonings (overdose) Suicide (X60-X64),D2,65,3370391,5635063
+MARICOPA,Arizona,AZ,4013,2004,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,32,3370391,5635063
+MOHAVE,Arizona,AZ,4015,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,173061,5635063
+NAVAJO,Arizona,AZ,4017,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,101468,5635063
+PIMA,Arizona,AZ,4019,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,132,898326,5635063
+PIMA,Arizona,AZ,4019,2004,Drug poisonings (overdose) Suicide (X60-X64),D2,23,898326,5635063
+PINAL,Arizona,AZ,4021,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,257989,5635063
+SANTA CRUZ,Arizona,AZ,4023,2004,,,0,41997,5635063
+YAVAPAI,Arizona,AZ,4025,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,24,184833,5635063
+YAVAPAI,Arizona,AZ,4025,2004,Drug poisonings (overdose) Suicide (X60-X64),D2,12,184833,5635063
+YAVAPAI,Arizona,AZ,4025,2004,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,12,184833,5635063
+YUMA,Arizona,AZ,4027,2004,,,0,174299,5635063
+APACHE,Arizona,AZ,4001,2005,,,0,70475,5761267
+COCHISE,Arizona,AZ,4003,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,124548,5761267
+COCONINO,Arizona,AZ,4005,2005,,,0,125375,5761267
+GILA,Arizona,AZ,4007,2005,,,0,52448,5761267
+GRAHAM,Arizona,AZ,4009,2005,,,0,35345,5761267
+GREENLEE,Arizona,AZ,4011,2005,,,0,8489,5761267
+LA PAZ,Arizona,AZ,4012,2005,,,0,20080,5761267
+MARICOPA,Arizona,AZ,4013,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,346,3444885,5761267
+MARICOPA,Arizona,AZ,4013,2005,Drug poisonings (overdose) Suicide (X60-X64),D2,68,3444885,5761267
+MARICOPA,Arizona,AZ,4013,2005,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,50,3444885,5761267
+MOHAVE,Arizona,AZ,4015,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,177581,5761267
+MOHAVE,Arizona,AZ,4015,2005,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,11,177581,5761267
+NAVAJO,Arizona,AZ,4017,2005,,,0,102472,5761267
+PIMA,Arizona,AZ,4019,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,145,911982,5761267
+PIMA,Arizona,AZ,4019,2005,Drug poisonings (overdose) Suicide (X60-X64),D2,18,911982,5761267
+PIMA,Arizona,AZ,4019,2005,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,10,911982,5761267
+PINAL,Arizona,AZ,4021,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,277619,5761267
+SANTA CRUZ,Arizona,AZ,4023,2005,,,0,42901,5761267
+YAVAPAI,Arizona,AZ,4025,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,189197,5761267
+YUMA,Arizona,AZ,4027,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,177875,5761267
+APACHE,Arizona,AZ,4001,2006,,,0,70684,5887471
+COCHISE,Arizona,AZ,4003,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,125909,5887471
+COCONINO,Arizona,AZ,4005,2006,,,0,127186,5887471
+GILA,Arizona,AZ,4007,2006,,,0,52678,5887471
+GRAHAM,Arizona,AZ,4009,2006,,,0,35719,5887471
+GREENLEE,Arizona,AZ,4011,2006,,,0,8479,5887471
+LA PAZ,Arizona,AZ,4012,2006,,,0,20162,5887471
+MARICOPA,Arizona,AZ,4013,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,400,3519379,5887471
+MARICOPA,Arizona,AZ,4013,2006,Drug poisonings (overdose) Suicide (X60-X64),D2,84,3519379,5887471
+MARICOPA,Arizona,AZ,4013,2006,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,54,3519379,5887471
+MOHAVE,Arizona,AZ,4015,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,182101,5887471
+NAVAJO,Arizona,AZ,4017,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,103476,5887471
+PIMA,Arizona,AZ,4019,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,157,925638,5887471
+PIMA,Arizona,AZ,4019,2006,Drug poisonings (overdose) Suicide (X60-X64),D2,23,925638,5887471
+PIMA,Arizona,AZ,4019,2006,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,10,925638,5887471
+PINAL,Arizona,AZ,4021,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,297249,5887471
+SANTA CRUZ,Arizona,AZ,4023,2006,,,0,43805,5887471
+YAVAPAI,Arizona,AZ,4025,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,193561,5887471
+YUMA,Arizona,AZ,4027,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,181451,5887471
+APACHE,Arizona,AZ,4001,2007,,,0,70893,6013675
+COCHISE,Arizona,AZ,4003,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,127270,6013675
+COCONINO,Arizona,AZ,4005,2007,,,0,128997,6013675
+GILA,Arizona,AZ,4007,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,52908,6013675
+GRAHAM,Arizona,AZ,4009,2007,,,0,36093,6013675
+GREENLEE,Arizona,AZ,4011,2007,,,0,8469,6013675
+LA PAZ,Arizona,AZ,4012,2007,,,0,20244,6013675
+MARICOPA,Arizona,AZ,4013,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,411,3593873,6013675
+MARICOPA,Arizona,AZ,4013,2007,Drug poisonings (overdose) Suicide (X60-X64),D2,118,3593873,6013675
+MARICOPA,Arizona,AZ,4013,2007,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,45,3593873,6013675
+MOHAVE,Arizona,AZ,4015,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,19,186621,6013675
+NAVAJO,Arizona,AZ,4017,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,104480,6013675
+PIMA,Arizona,AZ,4019,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,137,939294,6013675
+PIMA,Arizona,AZ,4019,2007,Drug poisonings (overdose) Suicide (X60-X64),D2,19,939294,6013675
+PINAL,Arizona,AZ,4021,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,34,316879,6013675
+SANTA CRUZ,Arizona,AZ,4023,2007,,,0,44709,6013675
+YAVAPAI,Arizona,AZ,4025,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,197925,6013675
+YAVAPAI,Arizona,AZ,4025,2007,Drug poisonings (overdose) Suicide (X60-X64),D2,13,197925,6013675
+YUMA,Arizona,AZ,4027,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,185027,6013675
+APACHE,Arizona,AZ,4001,2008,,,0,71102,6139879
+COCHISE,Arizona,AZ,4003,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,128631,6139879
+COCONINO,Arizona,AZ,4005,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,130808,6139879
+GILA,Arizona,AZ,4007,2008,,,0,53138,6139879
+GRAHAM,Arizona,AZ,4009,2008,,,0,36467,6139879
+GREENLEE,Arizona,AZ,4011,2008,,,0,8459,6139879
+LA PAZ,Arizona,AZ,4012,2008,,,0,20326,6139879
+MARICOPA,Arizona,AZ,4013,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,404,3668367,6139879
+MARICOPA,Arizona,AZ,4013,2008,Drug poisonings (overdose) Suicide (X60-X64),D2,88,3668367,6139879
+MARICOPA,Arizona,AZ,4013,2008,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,34,3668367,6139879
+MOHAVE,Arizona,AZ,4015,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,26,191141,6139879
+NAVAJO,Arizona,AZ,4017,2008,,,0,105484,6139879
+PIMA,Arizona,AZ,4019,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,91,952950,6139879
+PIMA,Arizona,AZ,4019,2008,Drug poisonings (overdose) Suicide (X60-X64),D2,25,952950,6139879
+PINAL,Arizona,AZ,4021,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,23,336509,6139879
+SANTA CRUZ,Arizona,AZ,4023,2008,,,0,45613,6139879
+YAVAPAI,Arizona,AZ,4025,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,202289,6139879
+YAVAPAI,Arizona,AZ,4025,2008,Drug poisonings (overdose) Suicide (X60-X64),D2,12,202289,6139879
+YUMA,Arizona,AZ,4027,2008,,,0,188603,6139879
+APACHE,Arizona,AZ,4001,2009,,,0,71311,6266083
+COCHISE,Arizona,AZ,4003,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,129992,6266083
+COCONINO,Arizona,AZ,4005,2009,,,0,132619,6266083
+GILA,Arizona,AZ,4007,2009,,,0,53368,6266083
+GRAHAM,Arizona,AZ,4009,2009,,,0,36841,6266083
+GREENLEE,Arizona,AZ,4011,2009,,,0,8449,6266083
+LA PAZ,Arizona,AZ,4012,2009,,,0,20408,6266083
+MARICOPA,Arizona,AZ,4013,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,432,3742861,6266083
+MARICOPA,Arizona,AZ,4013,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,85,3742861,6266083
+MARICOPA,Arizona,AZ,4013,2009,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,49,3742861,6266083
+MOHAVE,Arizona,AZ,4015,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,41,195661,6266083
+MOHAVE,Arizona,AZ,4015,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,10,195661,6266083
+NAVAJO,Arizona,AZ,4017,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,106488,6266083
+PIMA,Arizona,AZ,4019,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,142,966606,6266083
+PIMA,Arizona,AZ,4019,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,31,966606,6266083
+PINAL,Arizona,AZ,4021,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,32,356139,6266083
+PINAL,Arizona,AZ,4021,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,11,356139,6266083
+SANTA CRUZ,Arizona,AZ,4023,2009,,,0,46517,6266083
+YAVAPAI,Arizona,AZ,4025,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,23,206653,6266083
+YAVAPAI,Arizona,AZ,4025,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,16,206653,6266083
+YUMA,Arizona,AZ,4027,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,19,192179,6266083
+APACHE,Arizona,AZ,4001,2010,,,0,71517,6392288
+COCHISE,Arizona,AZ,4003,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,131357,6392288
+COCONINO,Arizona,AZ,4005,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,134431,6392288
+GILA,Arizona,AZ,4007,2010,,,0,53594,6392288
+GRAHAM,Arizona,AZ,4009,2010,,,0,37219,6392288
+GREENLEE,Arizona,AZ,4011,2010,,,0,8437,6392288
+LA PAZ,Arizona,AZ,4012,2010,,,0,20489,6392288
+MARICOPA,Arizona,AZ,4013,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,468,3817359,6392288
+MARICOPA,Arizona,AZ,4013,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,86,3817359,6392288
+MARICOPA,Arizona,AZ,4013,2010,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,55,3817359,6392288
+MOHAVE,Arizona,AZ,4015,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,50,200182,6392288
+MOHAVE,Arizona,AZ,4015,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,17,200182,6392288
+NAVAJO,Arizona,AZ,4017,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,107488,6392288
+PIMA,Arizona,AZ,4019,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,162,980263,6392288
+PIMA,Arizona,AZ,4019,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,26,980263,6392288
+PIMA,Arizona,AZ,4019,2010,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,16,980263,6392288
+PINAL,Arizona,AZ,4021,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,35,375768,6392288
+PINAL,Arizona,AZ,4021,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,10,375768,6392288
+SANTA CRUZ,Arizona,AZ,4023,2010,,,0,47420,6392288
+YAVAPAI,Arizona,AZ,4025,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,33,211014,6392288
+YUMA,Arizona,AZ,4027,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,22,195750,6392288
+APACHE,Arizona,AZ,4001,2011,,,0,71555,6489708
+COCHISE,Arizona,AZ,4003,2011,,,0,130784,6489708
+COCONINO,Arizona,AZ,4005,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,135484,6489708
+GILA,Arizona,AZ,4007,2011,,,0,53631,6489708
+GRAHAM,Arizona,AZ,4009,2011,,,0,37326,6489708
+GREENLEE,Arizona,AZ,4011,2011,,,0,8568,6489708
+LA PAZ,Arizona,AZ,4012,2011,,,0,20565,6489708
+MARICOPA,Arizona,AZ,4013,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,473,3891542,6489708
+MARICOPA,Arizona,AZ,4013,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,100,3891542,6489708
+MARICOPA,Arizona,AZ,4013,2011,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,54,3891542,6489708
+MOHAVE,Arizona,AZ,4015,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,33,201353,6489708
+MOHAVE,Arizona,AZ,4015,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,19,201353,6489708
+NAVAJO,Arizona,AZ,4017,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,107858,6489708
+PIMA,Arizona,AZ,4019,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,156,987614,6489708
+PIMA,Arizona,AZ,4019,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,28,987614,6489708
+PINAL,Arizona,AZ,4021,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,33,384689,6489708
+SANTA CRUZ,Arizona,AZ,4023,2011,,,0,47306,6489708
+YAVAPAI,Arizona,AZ,4025,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,44,213636,6489708
+YUMA,Arizona,AZ,4027,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,197797,6489708
+APACHE,Arizona,AZ,4001,2012,,,0,71593,6587128
+COCHISE,Arizona,AZ,4003,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,130211,6587128
+COCONINO,Arizona,AZ,4005,2012,,,0,136537,6587128
+GILA,Arizona,AZ,4007,2012,,,0,53668,6587128
+GRAHAM,Arizona,AZ,4009,2012,,,0,37433,6587128
+GREENLEE,Arizona,AZ,4011,2012,,,0,8699,6587128
+LA PAZ,Arizona,AZ,4012,2012,,,0,20641,6587128
+MARICOPA,Arizona,AZ,4013,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,456,3965725,6587128
+MARICOPA,Arizona,AZ,4013,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,88,3965725,6587128
+MARICOPA,Arizona,AZ,4013,2012,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,86,3965725,6587128
+MOHAVE,Arizona,AZ,4015,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,55,202524,6587128
+MOHAVE,Arizona,AZ,4015,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,10,202524,6587128
+NAVAJO,Arizona,AZ,4017,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,108228,6587128
+PIMA,Arizona,AZ,4019,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,163,994965,6587128
+PIMA,Arizona,AZ,4019,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,36,994965,6587128
+PIMA,Arizona,AZ,4019,2012,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,14,994965,6587128
+PINAL,Arizona,AZ,4021,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,38,393610,6587128
+SANTA CRUZ,Arizona,AZ,4023,2012,,,0,47192,6587128
+YAVAPAI,Arizona,AZ,4025,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,39,216258,6587128
+YAVAPAI,Arizona,AZ,4025,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,13,216258,6587128
+YAVAPAI,Arizona,AZ,4025,2012,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,14,216258,6587128
+YUMA,Arizona,AZ,4027,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,32,199844,6587128
+APACHE,Arizona,AZ,4001,2013,,,0,71631,6684548
+COCHISE,Arizona,AZ,4003,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,129638,6684548
+COCONINO,Arizona,AZ,4005,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,23,137590,6684548
+GILA,Arizona,AZ,4007,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,53705,6684548
+GRAHAM,Arizona,AZ,4009,2013,,,0,37540,6684548
+GREENLEE,Arizona,AZ,4011,2013,,,0,8830,6684548
+LA PAZ,Arizona,AZ,4012,2013,,,0,20717,6684548
+MARICOPA,Arizona,AZ,4013,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,525,4039908,6684548
+MARICOPA,Arizona,AZ,4013,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,91,4039908,6684548
+MARICOPA,Arizona,AZ,4013,2013,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,89,4039908,6684548
+MOHAVE,Arizona,AZ,4015,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,43,203695,6684548
+MOHAVE,Arizona,AZ,4015,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,18,203695,6684548
+NAVAJO,Arizona,AZ,4017,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,22,108598,6684548
+PIMA,Arizona,AZ,4019,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,189,1002316,6684548
+PIMA,Arizona,AZ,4019,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,20,1002316,6684548
+PINAL,Arizona,AZ,4021,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,41,402531,6684548
+SANTA CRUZ,Arizona,AZ,4023,2013,,,0,47078,6684548
+YAVAPAI,Arizona,AZ,4025,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,39,218880,6684548
+YAVAPAI,Arizona,AZ,4025,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,13,218880,6684548
+YAVAPAI,Arizona,AZ,4025,2013,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,13,218880,6684548
+YUMA,Arizona,AZ,4027,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,22,201891,6684548
+APACHE,Arizona,AZ,4001,2014,,,0,71669,6781968
+COCHISE,Arizona,AZ,4003,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,129065,6781968
+COCONINO,Arizona,AZ,4005,2014,,,0,138643,6781968
+GILA,Arizona,AZ,4007,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,53742,6781968
+GRAHAM,Arizona,AZ,4009,2014,,,0,37647,6781968
+GREENLEE,Arizona,AZ,4011,2014,,,0,8961,6781968
+LA PAZ,Arizona,AZ,4012,2014,,,0,20793,6781968
+MARICOPA,Arizona,AZ,4013,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,538,4114091,6781968
+MARICOPA,Arizona,AZ,4013,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,92,4114091,6781968
+MARICOPA,Arizona,AZ,4013,2014,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,65,4114091,6781968
+MOHAVE,Arizona,AZ,4015,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,45,204866,6781968
+MOHAVE,Arizona,AZ,4015,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,11,204866,6781968
+NAVAJO,Arizona,AZ,4017,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,18,108968,6781968
+PIMA,Arizona,AZ,4019,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,178,1009667,6781968
+PIMA,Arizona,AZ,4019,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,29,1009667,6781968
+PIMA,Arizona,AZ,4019,2014,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,15,1009667,6781968
+PINAL,Arizona,AZ,4021,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,25,411452,6781968
+SANTA CRUZ,Arizona,AZ,4023,2014,,,0,46964,6781968
+YAVAPAI,Arizona,AZ,4025,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,35,221502,6781968
+YAVAPAI,Arizona,AZ,4025,2014,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,17,221502,6781968
+YUMA,Arizona,AZ,4027,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,35,203938,6781968
+APACHE,Arizona,AZ,4001,2015,,,0,71707,6879388
+COCHISE,Arizona,AZ,4003,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,28,128492,6879388
+COCONINO,Arizona,AZ,4005,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,139696,6879388
+GILA,Arizona,AZ,4007,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,53779,6879388
+GRAHAM,Arizona,AZ,4009,2015,,,0,37754,6879388
+GREENLEE,Arizona,AZ,4011,2015,,,0,9092,6879388
+LA PAZ,Arizona,AZ,4012,2015,,,0,20869,6879388
+MARICOPA,Arizona,AZ,4013,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,572,4188274,6879388
+MARICOPA,Arizona,AZ,4013,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,80,4188274,6879388
+MARICOPA,Arizona,AZ,4013,2015,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,54,4188274,6879388
+MOHAVE,Arizona,AZ,4015,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,45,206037,6879388
+MOHAVE,Arizona,AZ,4015,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,13,206037,6879388
+NAVAJO,Arizona,AZ,4017,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,109338,6879388
+PIMA,Arizona,AZ,4019,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,186,1017018,6879388
+PIMA,Arizona,AZ,4019,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,38,1017018,6879388
+PINAL,Arizona,AZ,4021,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,45,420373,6879388
+SANTA CRUZ,Arizona,AZ,4023,2015,,,0,46850,6879388
+YAVAPAI,Arizona,AZ,4025,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,29,224124,6879388
+YAVAPAI,Arizona,AZ,4025,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,12,224124,6879388
+YAVAPAI,Arizona,AZ,4025,2015,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,15,224124,6879388
+YUMA,Arizona,AZ,4027,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,24,205985,6879388
