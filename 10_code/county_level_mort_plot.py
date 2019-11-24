@@ -13,8 +13,8 @@ def county_level_plot(state, state_abbreeviation, policy_year):
     # mort_pop = pd.read_csv('{}MortPopData.csv'.format(state_abbreeviation))
     control_state = pd.read_csv('{}ControlStateData.csv'.format(state_abbreeviation))
     #mort_pop.sample(5)
-    start_year = mort_pop['Year'].min()
-    end_year = mort_pop['Year'].max()
+    start_year = control_state['Year'].min()
+    end_year = control_state['Year'].max()
 
     bef = range(max(start_year, policy_year - 4), policy_year)
     aft = range(policy_year, min(end_year, policy_year + 4))
