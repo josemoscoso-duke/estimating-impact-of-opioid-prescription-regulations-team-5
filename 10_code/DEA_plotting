@@ -1,0 +1,39 @@
+import pandas as pd
+import numpy as np
+import os
+from plotnine import *
+
+os.chdir('/Users/ningjiehu/Documents/estimating-impact-of-opioid-prescription-regulations-team-5/20_intermediate_files')
+
+state = 'Florida'
+state_abbrev = 'FL'
+policy_year = 2010
+
+def county_level_plot(state, state_abbrev, policy_year):
+
+    control_state = pd.read_csv('{}DEAcombineddata.csv'.format(state_abbrev))
+    # Define x-axis
+    start_year = control_state['Year'].min()
+    end_year = control_state['Year'].max()
+    bef = range(max(start_year, policy_year - 4), policy_year)
+    aft = range(policy_year, min(end_year, policy_year + 4))
+    control_state_bef_policy = control_state.copy()
+    control_state_bef_policy = control_state_bef_policy[control_state_bef_policy['Year'].isin(bef)]
+    control_state_aft_policy = control_state.copy()
+    control_state_aft_policy = control_state_aft_policy[control_state_aft_policy['Year'].isin(aft)]
+    # Plot data
+    DEAshipment_plot = (ggplot() +
+        geom_smooth(control_state_bef_policy, aes(x = 'Year', y = 'BUYER_MME', color = 'Policy State'), method = 'lm', level = 0.95) +
+        geom_smooth(control_state_aft_policy, aes(x = 'Year', y = 'BUYER_MME', color = 'Policy State'), method = 'lm', level = 0.95) +
+        scale_x_continuous(breaks = range(max(start_year, policy_year - 4), min(end_year, policy_year + 4))) +
+        ggtitle("DEA shipment in {}".format(state)) +
+        geom_vline(xintercept = policy_year, color = 'red')
+        )
+
+    print(DEAshipment_plot)
+    DEAshipment_plot.save("{}_DEAshipment.png".format(state_abbrev))
+
+
+county_level_plot('Washington', 'WA', 2012)
+county_level_plot('Texas', 'TX', 2007)
+county_level_plot('Florida', 'FL', 2010)

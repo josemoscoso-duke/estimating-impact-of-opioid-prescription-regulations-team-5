@@ -4,7 +4,7 @@ import os
 import glob
 
 # Read consolidate DEA parquet files
-DEA_compared = pd.read_parquet('/Users/ningjiehu/Documents/Midtermproject/EDA_consolidate.parquet', engine = 'auto')
+DEA_compared = pd.read_parquet('/Users/ningjiehu/Documents/Midtermproject/EDA_comparison_states.parquet', engine = 'auto')
 DEA_compared.head()
 
 # Groupby to reduce row numbers
@@ -20,11 +20,15 @@ DEA_compared_groupby['TRANSACTION_DATE'] = DEA_compared_groupby['TRANSACTION_DAT
 
 # Split the date column(string) to date/month/year
 
-DEA_compared_groupby['DAY'] = DEA_compared_groupby['TRANSACTION_DATE'].str[-6:-4].astype(int)
-DEA_compared_groupby['MONTH'] = DEA_compared_groupby['TRANSACTION_DATE'].str[:-6].astype(int)
-DEA_compared_groupby['YEAR'] = DEA_compared_groupby['TRANSACTION_DATE'].str[-4:].astype(int)
+DEA_compared_groupby['TRANSACTION_DAY'] = DEA_compared_groupby['TRANSACTION_DATE'].str[-6:-4].astype(int)
+DEA_compared_groupby['TRANSACTION_MONTH'] = DEA_compared_groupby['TRANSACTION_DATE'].str[:-6].astype(int)
+DEA_compared_groupby['TRANSACTION_YEAR'] = DEA_compared_groupby['TRANSACTION_DATE'].str[-4:].astype(int)
 
-DEA_compared_groupby
+DEA_compared_groupby['BUYER_MME'] = DEA_compared_groupby['CALC_BASE_WT_IN_GM']*DEA_compared_groupby['MME_Conversion_Factor']
+
+DEA_compared = DEA_compared_groupby[['TRANSACTION_MONTH', 'TRANSACTION_YEAR', 'BUYER_STATE', 'BUYER_COUNTY', 'BUYER_MME']]
+
+DEA_compared
 
 # Compress the data to parquet
-DEA_compared_groupby.to_parquet('/Users/ningjiehu/Documents/Midtermproject/DEA_compared.parquet', engine= 'auto')
+DEA_compared_groupby.to_parquet('/Users/ningjiehu/Documents/estimating-impact-of-opioid-prescription-regulations-team-5/20_intermediate_files/DEA_compared.parquet', engine= 'auto')

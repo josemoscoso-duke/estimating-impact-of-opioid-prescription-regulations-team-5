@@ -1,0 +1,31 @@
+import pandas as pd
+import numpy as np
+import glob
+
+# This function will organize the row data on selected states from
+#'https://www.washingtonpost.com/graphics/2019/investigations/dea-pain-pill-database/'
+# Select four comparision states for studied states:
+# TX(New Mexico, Arizona, Oklahoma, Louisiana)
+# FL(South Carolina, Georgia, Alabama, Mississippi)
+# WA(Oregon, Idano, Montana, Nevada)
+
+# Set path of .gz files
+path = r'/Users/ningjiehu/Documents/Midtermproject/Florida'
+all_files = glob.glob(path + "/*.gz")
+
+# Chunk data
+chunksize=500000
+keeping = list()
+for filename in all_files:
+    iter_DEA = pd.read_csv(filename, iterator=True, chunksize=chunksize,sep='\t') # Chunksize of 500,000. I now have 16GB RAM.
+    print(f'starting chunk {filename}')
+    for idx, d in enumerate(iter_DEA):
+        print(f'starting chunk {idx}')
+        keeping.append(d)
+        pass
+    pass
+
+DEA_data=pd.concat(keeping)
+
+# Save data
+DEA_data.to_csv('\\Users\\ningjiehu\\Documents\\DEA_comp_FL.csv')

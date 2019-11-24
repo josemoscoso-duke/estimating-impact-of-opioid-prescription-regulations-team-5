@@ -1,0 +1,44 @@
+import pandas as pd
+import numpy as np
+import glob
+import os
+
+# This function will gather and organize the row data on selected states from
+#'https://www.washingtonpost.com/graphics/2019/investigations/dea-pain-pill-database/'
+
+# Set working directory
+os.chdir('/Users/ningjiehu/Documents/Midtermproject')
+path = os.getcwd()
+print(path)
+
+# Extract only relevant columns from the consolidated file BUYER_COUNTY, BUYER_STATE, CALC_BASE_WT_IN_GM, MME_Conversion_Factor, TRANSACTION_DATE
+DEA_comparison = pd.read_csv('DEA_comp_FL.csv', usecols=['BUYER_COUNTY','BUYER_STATE','CALC_BASE_WT_IN_GM','MME_Conversion_Factor','TRANSACTION_DATE'])
+
+# Create empty columns for DAY, MONTH AND YEAR
+DEA_comparison['DAY'] = 0
+DEA_comparison['MONTH'] = 0
+DEA_comparison['YEAR'] = 0
+
+# Convert TRANSACTION_DATE into string to split it into multiple columns: DAY, MONTH AND YEAR.
+DEA_comparison['TRANSACTION_DATE'] = DEA_comparison['TRANSACTION_DATE'].astype(str)
+DEA_comparison['TRANSACTION_YEAR'] = [i[-4:] for i in DEA_comparison['TRANSACTION_DATE']]
+DEA_comparison['TRANSACTION_DAY'] = [i[-6:-4] for i in DEA_comparison['TRANSACTION_DATE']]
+DEA_comparison['TRANSACTION_MONTH'] = [i[:-6] for i in DEA_comparison['TRANSACTION_DATE']]
+
+# Convert the data in columns : DAY, MONTH AND YEAR again into integers.
+DEA_comparison['TRANSACTION_YEAR'] = DEA_comparison['TRANSACTION_YEAR'].astype(int)
+DEA_comparison['TRANSACTION_DAY'] = DEA_comparison['TRANSACTION_DAY'].astype(int)
+DEA_comparison['TRANSACTION_MONTH'] = DEA_comparison['TRANSACTION_MONTH'].astype(int)
+
+# Generate the standardized unit of measure for morphine milligram equivalent
+DEA_comparison['BUYER_MME'] = DEA_comparison['CALC_BASE_WT_IN_GM']*DEA_comparison['MME_Conversion_Factor']
+DEA_comparison.head()
+
+# Prepare data for reshaping extracting only relevant columns before reshaping.
+DEA_comparison_merge = DEA_comparison[['TRANSACTION_DAY','TRANSACTION_MONTH', 'TRANSACTION_YEAR', 'BUYER_STATE', 'BUYER_COUNTY', 'BUYER_MME']]
+
+# Reshaping with Group by on TRANSACTION_DAY and adding BUYER_MME
+DEA_comparison_merge = DEA_comparison_merge.groupby(['TRANSACTION_MONTH', 'TRANSACTION_YEAR', 'BUYER_STATE', 'BUYER_COUNTY'], as_index=False).sum()
+
+#Export data frame into a csv and parquet files to merge.
+DEA_comparison_merge.to_parquet('DEA_comp_FL.parquet', engine='pyarrow')

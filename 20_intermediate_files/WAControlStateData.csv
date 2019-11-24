@@ -1,0 +1,2652 @@
+County Name,State,State Abbreviation,FIPS,Year,Drug/Alcohol Induced Cause,Drug/Alcohol Induced Cause Code,Deaths,County Population,State Population,Policy State
+ADAMS,Washington,WA,53001,2003,,,0,17116,6143359,True
+ASOTIN,Washington,WA,53003,2003,,,0,20874,6143359,True
+BENTON,Washington,WA,53005,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,152283,6143359,True
+CHELAN,Washington,WA,53007,2003,,,0,68366,6143359,True
+CLALLAM,Washington,WA,53009,2003,,,0,66349,6143359,True
+CLARK,Washington,WA,53011,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,30,369271,6143359,True
+CLARK,Washington,WA,53011,2003,Drug poisonings (overdose) Suicide (X60-X64),D2,10,369271,6143359,True
+COLUMBIA,Washington,WA,53013,2003,,,0,4067,6143359,True
+COWLITZ,Washington,WA,53015,2003,,,0,95783,6143359,True
+DOUGLAS,Washington,WA,53017,2003,,,0,34341,6143359,True
+FERRY,Washington,WA,53019,2003,,,0,7349,6143359,True
+FRANKLIN,Washington,WA,53021,2003,,,0,58012,6143359,True
+GARFIELD,Washington,WA,53023,2003,,,0,2358,6143359,True
+GRANT,Washington,WA,53025,2003,,,0,79037,6143359,True
+GRAYS HARBOR,Washington,WA,53027,2003,,,0,68839,6143359,True
+ISLAND,Washington,WA,53029,2003,,,0,73653,6143359,True
+JEFFERSON,Washington,WA,53031,2003,,,0,27372,6143359,True
+KING,Washington,WA,53033,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,132,1795341,6143359,True
+KING,Washington,WA,53033,2003,Drug poisonings (overdose) Suicide (X60-X64),D2,30,1795341,6143359,True
+KING,Washington,WA,53033,2003,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,28,1795341,6143359,True
+KITSAP,Washington,WA,53035,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,23,237730,6143359,True
+KITTITAS,Washington,WA,53037,2003,,,0,35631,6143359,True
+KLICKITAT,Washington,WA,53039,2003,,,0,19515,6143359,True
+LEWIS,Washington,WA,53041,2003,,,0,70646,6143359,True
+LINCOLN,Washington,WA,53043,2003,,,0,10293,6143359,True
+MASON,Washington,WA,53045,2003,,,0,52818,6143359,True
+OKANOGAN,Washington,WA,53047,2003,,,0,40032,6143359,True
+PACIFIC,Washington,WA,53049,2003,,,0,20961,6143359,True
+PEND OREILLE,Washington,WA,53051,2003,,,0,12096,6143359,True
+PIERCE,Washington,WA,53053,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,77,729136,6143359,True
+PIERCE,Washington,WA,53053,2003,Drug poisonings (overdose) Suicide (X60-X64),D2,10,729136,6143359,True
+SAN JUAN,Washington,WA,53055,2003,,,0,14568,6143359,True
+SKAGIT,Washington,WA,53057,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,107181,6143359,True
+SKAMANIA,Washington,WA,53059,2003,,,0,10233,6143359,True
+SNOHOMISH,Washington,WA,53061,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,65,638218,6143359,True
+SNOHOMISH,Washington,WA,53061,2003,Drug poisonings (overdose) Suicide (X60-X64),D2,11,638218,6143359,True
+SPOKANE,Washington,WA,53063,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,58,433946,6143359,True
+SPOKANE,Washington,WA,53063,2003,Drug poisonings (overdose) Suicide (X60-X64),D2,16,433946,6143359,True
+STEVENS,Washington,WA,53065,2003,,,0,41114,6143359,True
+THURSTON,Washington,WA,53067,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,220853,6143359,True
+WAHKIAKUM,Washington,WA,53069,2003,,,0,3872,6143359,True
+WALLA WALLA,Washington,WA,53071,2003,,,0,56257,6143359,True
+WHATCOM,Washington,WA,53073,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,177118,6143359,True
+WHITMAN,Washington,WA,53075,2003,,,0,41954,6143359,True
+YAKIMA,Washington,WA,53077,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,228776,6143359,True
+ADAMS,Washington,WA,53001,2004,,,0,17346,6226385,True
+ASOTIN,Washington,WA,53003,2004,,,0,20981,6226385,True
+BENTON,Washington,WA,53005,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,155553,6226385,True
+CHELAN,Washington,WA,53007,2004,,,0,68951,6226385,True
+CLALLAM,Washington,WA,53009,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,67071,6226385,True
+CLARK,Washington,WA,53011,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,27,377283,6226385,True
+COLUMBIA,Washington,WA,53013,2004,,,0,4068,6226385,True
+COWLITZ,Washington,WA,53015,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,96729,6226385,True
+DOUGLAS,Washington,WA,53017,2004,,,0,34925,6226385,True
+FERRY,Washington,WA,53019,2004,,,0,7378,6226385,True
+FRANKLIN,Washington,WA,53021,2004,,,0,60890,6226385,True
+GARFIELD,Washington,WA,53023,2004,,,0,2345,6226385,True
+GRANT,Washington,WA,53025,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,80478,6226385,True
+GRAYS HARBOR,Washington,WA,53027,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,69405,6226385,True
+ISLAND,Washington,WA,53029,2004,,,0,74347,6226385,True
+JEFFERSON,Washington,WA,53031,2004,,,0,27729,6226385,True
+KING,Washington,WA,53033,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,180,1814763,6226385,True
+KING,Washington,WA,53033,2004,Drug poisonings (overdose) Suicide (X60-X64),D2,35,1814763,6226385,True
+KING,Washington,WA,53033,2004,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,19,1814763,6226385,True
+KITSAP,Washington,WA,53035,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,239646,6226385,True
+KITTITAS,Washington,WA,53037,2004,,,0,36385,6226385,True
+KLICKITAT,Washington,WA,53039,2004,,,0,19630,6226385,True
+LEWIS,Washington,WA,53041,2004,,,0,71333,6226385,True
+LINCOLN,Washington,WA,53043,2004,,,0,10333,6226385,True
+MASON,Washington,WA,53045,2004,,,0,53943,6226385,True
+OKANOGAN,Washington,WA,53047,2004,,,0,40187,6226385,True
+PACIFIC,Washington,WA,53049,2004,,,0,20955,6226385,True
+PEND OREILLE,Washington,WA,53051,2004,,,0,12226,6226385,True
+PIERCE,Washington,WA,53053,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,59,738576,6226385,True
+PIERCE,Washington,WA,53053,2004,Drug poisonings (overdose) Suicide (X60-X64),D2,13,738576,6226385,True
+SAN JUAN,Washington,WA,53055,2004,,,0,14740,6226385,True
+SKAGIT,Washington,WA,53057,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,108569,6226385,True
+SKAMANIA,Washington,WA,53059,2004,,,0,10352,6226385,True
+SNOHOMISH,Washington,WA,53061,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,82,648943,6226385,True
+SNOHOMISH,Washington,WA,53061,2004,Drug poisonings (overdose) Suicide (X60-X64),D2,18,648943,6226385,True
+SPOKANE,Washington,WA,53063,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,59,439272,6226385,True
+SPOKANE,Washington,WA,53063,2004,Drug poisonings (overdose) Suicide (X60-X64),D2,19,439272,6226385,True
+STEVENS,Washington,WA,53065,2004,,,0,41458,6226385,True
+THURSTON,Washington,WA,53067,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,225340,6226385,True
+WAHKIAKUM,Washington,WA,53069,2004,,,0,3888,6226385,True
+WALLA WALLA,Washington,WA,53071,2004,,,0,56617,6226385,True
+WHATCOM,Washington,WA,53073,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,180550,6226385,True
+WHITMAN,Washington,WA,53075,2004,,,0,42358,6226385,True
+YAKIMA,Washington,WA,53077,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,19,230842,6226385,True
+ADAMS,Washington,WA,53001,2005,,,0,17576,6309411,True
+ASOTIN,Washington,WA,53003,2005,,,0,21088,6309411,True
+BENTON,Washington,WA,53005,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,158823,6309411,True
+CHELAN,Washington,WA,53007,2005,,,0,69536,6309411,True
+CLALLAM,Washington,WA,53009,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,67793,6309411,True
+CLARK,Washington,WA,53011,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,30,385295,6309411,True
+CLARK,Washington,WA,53011,2005,Drug poisonings (overdose) Suicide (X60-X64),D2,10,385295,6309411,True
+COLUMBIA,Washington,WA,53013,2005,,,0,4069,6309411,True
+COWLITZ,Washington,WA,53015,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,24,97675,6309411,True
+DOUGLAS,Washington,WA,53017,2005,,,0,35509,6309411,True
+FERRY,Washington,WA,53019,2005,,,0,7407,6309411,True
+FRANKLIN,Washington,WA,53021,2005,,,0,63768,6309411,True
+GARFIELD,Washington,WA,53023,2005,,,0,2332,6309411,True
+GRANT,Washington,WA,53025,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,81919,6309411,True
+GRAYS HARBOR,Washington,WA,53027,2005,,,0,69971,6309411,True
+ISLAND,Washington,WA,53029,2005,,,0,75041,6309411,True
+JEFFERSON,Washington,WA,53031,2005,,,0,28086,6309411,True
+KING,Washington,WA,53033,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,189,1834185,6309411,True
+KING,Washington,WA,53033,2005,Drug poisonings (overdose) Suicide (X60-X64),D2,37,1834185,6309411,True
+KITSAP,Washington,WA,53035,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,241562,6309411,True
+KITTITAS,Washington,WA,53037,2005,,,0,37139,6309411,True
+KLICKITAT,Washington,WA,53039,2005,,,0,19745,6309411,True
+LEWIS,Washington,WA,53041,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,72020,6309411,True
+LINCOLN,Washington,WA,53043,2005,,,0,10373,6309411,True
+MASON,Washington,WA,53045,2005,,,0,55068,6309411,True
+OKANOGAN,Washington,WA,53047,2005,,,0,40342,6309411,True
+PACIFIC,Washington,WA,53049,2005,,,0,20949,6309411,True
+PEND OREILLE,Washington,WA,53051,2005,,,0,12356,6309411,True
+PIERCE,Washington,WA,53053,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,69,748016,6309411,True
+PIERCE,Washington,WA,53053,2005,Drug poisonings (overdose) Suicide (X60-X64),D2,16,748016,6309411,True
+SAN JUAN,Washington,WA,53055,2005,,,0,14912,6309411,True
+SKAGIT,Washington,WA,53057,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,109957,6309411,True
+SKAMANIA,Washington,WA,53059,2005,,,0,10471,6309411,True
+SNOHOMISH,Washington,WA,53061,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,84,659668,6309411,True
+SNOHOMISH,Washington,WA,53061,2005,Drug poisonings (overdose) Suicide (X60-X64),D2,10,659668,6309411,True
+SPOKANE,Washington,WA,53063,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,74,444598,6309411,True
+SPOKANE,Washington,WA,53063,2005,Drug poisonings (overdose) Suicide (X60-X64),D2,17,444598,6309411,True
+STEVENS,Washington,WA,53065,2005,,,0,41802,6309411,True
+THURSTON,Washington,WA,53067,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,23,229827,6309411,True
+WAHKIAKUM,Washington,WA,53069,2005,,,0,3904,6309411,True
+WALLA WALLA,Washington,WA,53071,2005,,,0,56977,6309411,True
+WHATCOM,Washington,WA,53073,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,183982,6309411,True
+WHITMAN,Washington,WA,53075,2005,,,0,42762,6309411,True
+YAKIMA,Washington,WA,53077,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,232908,6309411,True
+ADAMS,Washington,WA,53001,2006,,,0,17806,6392437,True
+ASOTIN,Washington,WA,53003,2006,,,0,21195,6392437,True
+BENTON,Washington,WA,53005,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,162093,6392437,True
+CHELAN,Washington,WA,53007,2006,,,0,70121,6392437,True
+CLALLAM,Washington,WA,53009,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,68515,6392437,True
+CLARK,Washington,WA,53011,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,38,393307,6392437,True
+CLARK,Washington,WA,53011,2006,Drug poisonings (overdose) Suicide (X60-X64),D2,10,393307,6392437,True
+COLUMBIA,Washington,WA,53013,2006,,,0,4070,6392437,True
+COWLITZ,Washington,WA,53015,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,98621,6392437,True
+DOUGLAS,Washington,WA,53017,2006,,,0,36093,6392437,True
+FERRY,Washington,WA,53019,2006,,,0,7436,6392437,True
+FRANKLIN,Washington,WA,53021,2006,,,0,66646,6392437,True
+GARFIELD,Washington,WA,53023,2006,,,0,2319,6392437,True
+GRANT,Washington,WA,53025,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,83360,6392437,True
+GRAYS HARBOR,Washington,WA,53027,2006,,,0,70537,6392437,True
+ISLAND,Washington,WA,53029,2006,,,0,75735,6392437,True
+JEFFERSON,Washington,WA,53031,2006,,,0,28443,6392437,True
+KING,Washington,WA,53033,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,216,1853607,6392437,True
+KING,Washington,WA,53033,2006,Drug poisonings (overdose) Suicide (X60-X64),D2,33,1853607,6392437,True
+KING,Washington,WA,53033,2006,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,10,1853607,6392437,True
+KITSAP,Washington,WA,53035,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,243478,6392437,True
+KITTITAS,Washington,WA,53037,2006,,,0,37893,6392437,True
+KLICKITAT,Washington,WA,53039,2006,,,0,19860,6392437,True
+LEWIS,Washington,WA,53041,2006,,,0,72707,6392437,True
+LINCOLN,Washington,WA,53043,2006,,,0,10413,6392437,True
+MASON,Washington,WA,53045,2006,,,0,56193,6392437,True
+OKANOGAN,Washington,WA,53047,2006,,,0,40497,6392437,True
+PACIFIC,Washington,WA,53049,2006,,,0,20943,6392437,True
+PEND OREILLE,Washington,WA,53051,2006,,,0,12486,6392437,True
+PIERCE,Washington,WA,53053,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,68,757456,6392437,True
+SAN JUAN,Washington,WA,53055,2006,,,0,15084,6392437,True
+SKAGIT,Washington,WA,53057,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,111345,6392437,True
+SKAMANIA,Washington,WA,53059,2006,,,0,10590,6392437,True
+SNOHOMISH,Washington,WA,53061,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,86,670393,6392437,True
+SNOHOMISH,Washington,WA,53061,2006,Drug poisonings (overdose) Suicide (X60-X64),D2,11,670393,6392437,True
+SPOKANE,Washington,WA,53063,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,85,449924,6392437,True
+SPOKANE,Washington,WA,53063,2006,Drug poisonings (overdose) Suicide (X60-X64),D2,14,449924,6392437,True
+STEVENS,Washington,WA,53065,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,42146,6392437,True
+THURSTON,Washington,WA,53067,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,234314,6392437,True
+WAHKIAKUM,Washington,WA,53069,2006,,,0,3920,6392437,True
+WALLA WALLA,Washington,WA,53071,2006,,,0,57337,6392437,True
+WHATCOM,Washington,WA,53073,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,22,187414,6392437,True
+WHITMAN,Washington,WA,53075,2006,,,0,43166,6392437,True
+YAKIMA,Washington,WA,53077,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,234974,6392437,True
+ADAMS,Washington,WA,53001,2007,,,0,18036,6475463,True
+ASOTIN,Washington,WA,53003,2007,,,0,21302,6475463,True
+BENTON,Washington,WA,53005,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,165363,6475463,True
+CHELAN,Washington,WA,53007,2007,,,0,70706,6475463,True
+CLALLAM,Washington,WA,53009,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,19,69237,6475463,True
+CLARK,Washington,WA,53011,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,41,401319,6475463,True
+CLARK,Washington,WA,53011,2007,Drug poisonings (overdose) Suicide (X60-X64),D2,14,401319,6475463,True
+COLUMBIA,Washington,WA,53013,2007,,,0,4071,6475463,True
+COWLITZ,Washington,WA,53015,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,99567,6475463,True
+DOUGLAS,Washington,WA,53017,2007,,,0,36677,6475463,True
+FERRY,Washington,WA,53019,2007,,,0,7465,6475463,True
+FRANKLIN,Washington,WA,53021,2007,,,0,69524,6475463,True
+GARFIELD,Washington,WA,53023,2007,,,0,2306,6475463,True
+GRANT,Washington,WA,53025,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,84801,6475463,True
+GRAYS HARBOR,Washington,WA,53027,2007,,,0,71103,6475463,True
+ISLAND,Washington,WA,53029,2007,,,0,76429,6475463,True
+JEFFERSON,Washington,WA,53031,2007,,,0,28800,6475463,True
+KING,Washington,WA,53033,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,212,1873029,6475463,True
+KING,Washington,WA,53033,2007,Drug poisonings (overdose) Suicide (X60-X64),D2,32,1873029,6475463,True
+KING,Washington,WA,53033,2007,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,14,1873029,6475463,True
+KITSAP,Washington,WA,53035,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,23,245394,6475463,True
+KITTITAS,Washington,WA,53037,2007,,,0,38647,6475463,True
+KLICKITAT,Washington,WA,53039,2007,,,0,19975,6475463,True
+LEWIS,Washington,WA,53041,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,73394,6475463,True
+LINCOLN,Washington,WA,53043,2007,,,0,10453,6475463,True
+MASON,Washington,WA,53045,2007,,,0,57318,6475463,True
+OKANOGAN,Washington,WA,53047,2007,,,0,40652,6475463,True
+PACIFIC,Washington,WA,53049,2007,,,0,20937,6475463,True
+PEND OREILLE,Washington,WA,53051,2007,,,0,12616,6475463,True
+PIERCE,Washington,WA,53053,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,98,766896,6475463,True
+PIERCE,Washington,WA,53053,2007,Drug poisonings (overdose) Suicide (X60-X64),D2,12,766896,6475463,True
+PIERCE,Washington,WA,53053,2007,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,15,766896,6475463,True
+SAN JUAN,Washington,WA,53055,2007,,,0,15256,6475463,True
+SKAGIT,Washington,WA,53057,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,112733,6475463,True
+SKAMANIA,Washington,WA,53059,2007,,,0,10709,6475463,True
+SNOHOMISH,Washington,WA,53061,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,95,681118,6475463,True
+SNOHOMISH,Washington,WA,53061,2007,Drug poisonings (overdose) Suicide (X60-X64),D2,12,681118,6475463,True
+SPOKANE,Washington,WA,53063,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,88,455250,6475463,True
+SPOKANE,Washington,WA,53063,2007,Drug poisonings (overdose) Suicide (X60-X64),D2,16,455250,6475463,True
+STEVENS,Washington,WA,53065,2007,,,0,42490,6475463,True
+THURSTON,Washington,WA,53067,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,238801,6475463,True
+WAHKIAKUM,Washington,WA,53069,2007,,,0,3936,6475463,True
+WALLA WALLA,Washington,WA,53071,2007,,,0,57697,6475463,True
+WHATCOM,Washington,WA,53073,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,190846,6475463,True
+WHITMAN,Washington,WA,53075,2007,,,0,43570,6475463,True
+YAKIMA,Washington,WA,53077,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,24,237040,6475463,True
+ADAMS,Washington,WA,53001,2008,,,0,18266,6558489,True
+ASOTIN,Washington,WA,53003,2008,,,0,21409,6558489,True
+BENTON,Washington,WA,53005,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,168633,6558489,True
+CHELAN,Washington,WA,53007,2008,,,0,71291,6558489,True
+CLALLAM,Washington,WA,53009,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,69959,6558489,True
+CLARK,Washington,WA,53011,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,44,409331,6558489,True
+CLARK,Washington,WA,53011,2008,Drug poisonings (overdose) Suicide (X60-X64),D2,17,409331,6558489,True
+COLUMBIA,Washington,WA,53013,2008,,,0,4072,6558489,True
+COWLITZ,Washington,WA,53015,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,100513,6558489,True
+DOUGLAS,Washington,WA,53017,2008,,,0,37261,6558489,True
+FERRY,Washington,WA,53019,2008,,,0,7494,6558489,True
+FRANKLIN,Washington,WA,53021,2008,,,0,72402,6558489,True
+GARFIELD,Washington,WA,53023,2008,,,0,2293,6558489,True
+GRANT,Washington,WA,53025,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,86242,6558489,True
+GRAYS HARBOR,Washington,WA,53027,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,71669,6558489,True
+ISLAND,Washington,WA,53029,2008,,,0,77123,6558489,True
+JEFFERSON,Washington,WA,53031,2008,,,0,29157,6558489,True
+KING,Washington,WA,53033,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,206,1892451,6558489,True
+KING,Washington,WA,53033,2008,Drug poisonings (overdose) Suicide (X60-X64),D2,28,1892451,6558489,True
+KING,Washington,WA,53033,2008,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,11,1892451,6558489,True
+KITSAP,Washington,WA,53035,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,247310,6558489,True
+KITSAP,Washington,WA,53035,2008,Drug poisonings (overdose) Suicide (X60-X64),D2,10,247310,6558489,True
+KITTITAS,Washington,WA,53037,2008,,,0,39401,6558489,True
+KLICKITAT,Washington,WA,53039,2008,,,0,20090,6558489,True
+LEWIS,Washington,WA,53041,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,74081,6558489,True
+LINCOLN,Washington,WA,53043,2008,,,0,10493,6558489,True
+MASON,Washington,WA,53045,2008,,,0,58443,6558489,True
+OKANOGAN,Washington,WA,53047,2008,,,0,40807,6558489,True
+PACIFIC,Washington,WA,53049,2008,,,0,20931,6558489,True
+PEND OREILLE,Washington,WA,53051,2008,,,0,12746,6558489,True
+PIERCE,Washington,WA,53053,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,108,776336,6558489,True
+PIERCE,Washington,WA,53053,2008,Drug poisonings (overdose) Suicide (X60-X64),D2,21,776336,6558489,True
+SAN JUAN,Washington,WA,53055,2008,,,0,15428,6558489,True
+SKAGIT,Washington,WA,53057,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,114121,6558489,True
+SKAMANIA,Washington,WA,53059,2008,,,0,10828,6558489,True
+SNOHOMISH,Washington,WA,53061,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,109,691843,6558489,True
+SPOKANE,Washington,WA,53063,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,104,460576,6558489,True
+SPOKANE,Washington,WA,53063,2008,Drug poisonings (overdose) Suicide (X60-X64),D2,22,460576,6558489,True
+STEVENS,Washington,WA,53065,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,42834,6558489,True
+THURSTON,Washington,WA,53067,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,19,243288,6558489,True
+WAHKIAKUM,Washington,WA,53069,2008,,,0,3952,6558489,True
+WALLA WALLA,Washington,WA,53071,2008,,,0,58057,6558489,True
+WHATCOM,Washington,WA,53073,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,194278,6558489,True
+WHITMAN,Washington,WA,53075,2008,,,0,43974,6558489,True
+YAKIMA,Washington,WA,53077,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,239106,6558489,True
+ADAMS,Washington,WA,53001,2009,,,0,18496,6641515,True
+ASOTIN,Washington,WA,53003,2009,,,0,21516,6641515,True
+BENTON,Washington,WA,53005,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,171903,6641515,True
+CHELAN,Washington,WA,53007,2009,,,0,71876,6641515,True
+CLALLAM,Washington,WA,53009,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,70681,6641515,True
+CLARK,Washington,WA,53011,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,44,417343,6641515,True
+CLARK,Washington,WA,53011,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,15,417343,6641515,True
+COLUMBIA,Washington,WA,53013,2009,,,0,4073,6641515,True
+COWLITZ,Washington,WA,53015,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,18,101459,6641515,True
+DOUGLAS,Washington,WA,53017,2009,,,0,37845,6641515,True
+FERRY,Washington,WA,53019,2009,,,0,7523,6641515,True
+FRANKLIN,Washington,WA,53021,2009,,,0,75280,6641515,True
+GARFIELD,Washington,WA,53023,2009,,,0,2280,6641515,True
+GRANT,Washington,WA,53025,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,87683,6641515,True
+GRAYS HARBOR,Washington,WA,53027,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,72235,6641515,True
+ISLAND,Washington,WA,53029,2009,,,0,77817,6641515,True
+JEFFERSON,Washington,WA,53031,2009,,,0,29514,6641515,True
+KING,Washington,WA,53033,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,203,1911873,6641515,True
+KING,Washington,WA,53033,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,28,1911873,6641515,True
+KITSAP,Washington,WA,53035,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,24,249226,6641515,True
+KITTITAS,Washington,WA,53037,2009,,,0,40155,6641515,True
+KLICKITAT,Washington,WA,53039,2009,,,0,20205,6641515,True
+LEWIS,Washington,WA,53041,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,74768,6641515,True
+LINCOLN,Washington,WA,53043,2009,,,0,10533,6641515,True
+MASON,Washington,WA,53045,2009,,,0,59568,6641515,True
+OKANOGAN,Washington,WA,53047,2009,,,0,40962,6641515,True
+PACIFIC,Washington,WA,53049,2009,,,0,20925,6641515,True
+PEND OREILLE,Washington,WA,53051,2009,,,0,12876,6641515,True
+PIERCE,Washington,WA,53053,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,102,785776,6641515,True
+SAN JUAN,Washington,WA,53055,2009,,,0,15600,6641515,True
+SKAGIT,Washington,WA,53057,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,115509,6641515,True
+SKAMANIA,Washington,WA,53059,2009,,,0,10947,6641515,True
+SNOHOMISH,Washington,WA,53061,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,109,702568,6641515,True
+SNOHOMISH,Washington,WA,53061,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,16,702568,6641515,True
+SPOKANE,Washington,WA,53063,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,74,465902,6641515,True
+STEVENS,Washington,WA,53065,2009,,,0,43178,6641515,True
+THURSTON,Washington,WA,53067,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,28,247775,6641515,True
+WAHKIAKUM,Washington,WA,53069,2009,,,0,3968,6641515,True
+WALLA WALLA,Washington,WA,53071,2009,,,0,58417,6641515,True
+WHATCOM,Washington,WA,53073,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,18,197710,6641515,True
+WHITMAN,Washington,WA,53075,2009,,,0,44378,6641515,True
+YAKIMA,Washington,WA,53077,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,241172,6641515,True
+ADAMS,Washington,WA,53001,2010,,,0,18728,6724540,True
+ASOTIN,Washington,WA,53003,2010,,,0,21623,6724540,True
+BENTON,Washington,WA,53005,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,175169,6724540,True
+CHELAN,Washington,WA,53007,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,72460,6724540,True
+CLALLAM,Washington,WA,53009,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,71404,6724540,True
+CLARK,Washington,WA,53011,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,37,425360,6724540,True
+CLARK,Washington,WA,53011,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,13,425360,6724540,True
+COLUMBIA,Washington,WA,53013,2010,,,0,4078,6724540,True
+COWLITZ,Washington,WA,53015,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,102408,6724540,True
+DOUGLAS,Washington,WA,53017,2010,,,0,38427,6724540,True
+FERRY,Washington,WA,53019,2010,,,0,7554,6724540,True
+FRANKLIN,Washington,WA,53021,2010,,,0,78163,6724540,True
+GARFIELD,Washington,WA,53023,2010,,,0,2266,6724540,True
+GRANT,Washington,WA,53025,2010,,,0,89124,6724540,True
+GRAYS HARBOR,Washington,WA,53027,2010,,,0,72798,6724540,True
+ISLAND,Washington,WA,53029,2010,,,0,78508,6724540,True
+JEFFERSON,Washington,WA,53031,2010,,,0,29872,6724540,True
+KING,Washington,WA,53033,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,191,1931292,6724540,True
+KING,Washington,WA,53033,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,47,1931292,6724540,True
+KITSAP,Washington,WA,53035,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,19,251143,6724540,True
+KITTITAS,Washington,WA,53037,2010,,,0,40909,6724540,True
+KLICKITAT,Washington,WA,53039,2010,,,0,20317,6724540,True
+LEWIS,Washington,WA,53041,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,75457,6724540,True
+LINCOLN,Washington,WA,53043,2010,,,0,10570,6724540,True
+MASON,Washington,WA,53045,2010,,,0,60692,6724540,True
+OKANOGAN,Washington,WA,53047,2010,,,0,41117,6724540,True
+PACIFIC,Washington,WA,53049,2010,,,0,20919,6724540,True
+PEND OREILLE,Washington,WA,53051,2010,,,0,13001,6724540,True
+PIERCE,Washington,WA,53053,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,84,795217,6724540,True
+PIERCE,Washington,WA,53053,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,29,795217,6724540,True
+SAN JUAN,Washington,WA,53055,2010,,,0,15769,6724540,True
+SKAGIT,Washington,WA,53057,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,116893,6724540,True
+SKAMANIA,Washington,WA,53059,2010,,,0,11070,6724540,True
+SNOHOMISH,Washington,WA,53061,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,89,713296,6724540,True
+SNOHOMISH,Washington,WA,53061,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,19,713296,6724540,True
+SPOKANE,Washington,WA,53063,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,61,471229,6724540,True
+SPOKANE,Washington,WA,53063,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,14,471229,6724540,True
+STEVENS,Washington,WA,53065,2010,,,0,43523,6724540,True
+THURSTON,Washington,WA,53067,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,22,252260,6724540,True
+WAHKIAKUM,Washington,WA,53069,2010,,,0,3979,6724540,True
+WALLA WALLA,Washington,WA,53071,2010,,,0,58781,6724540,True
+WHATCOM,Washington,WA,53073,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,201146,6724540,True
+WHITMAN,Washington,WA,53075,2010,,,0,44778,6724540,True
+YAKIMA,Washington,WA,53077,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,24,243240,6724540,True
+ADAMS,Washington,WA,53001,2011,,,0,18857,6825921,True
+ASOTIN,Washington,WA,53003,2011,,,0,21746,6825921,True
+BENTON,Washington,WA,53005,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,178507,6825921,True
+CHELAN,Washington,WA,53007,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,73032,6825921,True
+CLALLAM,Washington,WA,53009,2011,,,0,72071,6825921,True
+CLARK,Washington,WA,53011,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,43,432422,6825921,True
+CLARK,Washington,WA,53011,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,12,432422,6825921,True
+COLUMBIA,Washington,WA,53013,2011,,,0,4076,6825921,True
+COWLITZ,Washington,WA,53015,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,27,103230,6825921,True
+DOUGLAS,Washington,WA,53017,2011,,,0,38987,6825921,True
+FERRY,Washington,WA,53019,2011,,,0,7566,6825921,True
+FRANKLIN,Washington,WA,53021,2011,,,0,80186,6825921,True
+GARFIELD,Washington,WA,53023,2011,,,0,2264,6825921,True
+GRANT,Washington,WA,53025,2011,,,0,90150,6825921,True
+GRAYS HARBOR,Washington,WA,53027,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,72936,6825921,True
+ISLAND,Washington,WA,53029,2011,,,0,79252,6825921,True
+JEFFERSON,Washington,WA,53031,2011,,,0,30104,6825921,True
+KING,Washington,WA,53033,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,179,1969026,6825921,True
+KING,Washington,WA,53033,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,45,1969026,6825921,True
+KING,Washington,WA,53033,2011,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,12,1969026,6825921,True
+KITSAP,Washington,WA,53035,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,25,253476,6825921,True
+KITTITAS,Washington,WA,53037,2011,,,0,41716,6825921,True
+KLICKITAT,Washington,WA,53039,2011,,,0,20541,6825921,True
+LEWIS,Washington,WA,53041,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,75975,6825921,True
+LINCOLN,Washington,WA,53043,2011,,,0,10591,6825921,True
+MASON,Washington,WA,53045,2011,,,0,61294,6825921,True
+OKANOGAN,Washington,WA,53047,2011,,,0,41244,6825921,True
+PACIFIC,Washington,WA,53049,2011,,,0,21059,6825921,True
+PEND OREILLE,Washington,WA,53051,2011,,,0,13076,6825921,True
+PIERCE,Washington,WA,53053,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,98,807227,6825921,True
+PIERCE,Washington,WA,53053,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,30,807227,6825921,True
+SAN JUAN,Washington,WA,53055,2011,,,0,15939,6825921,True
+SKAGIT,Washington,WA,53057,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,118307,6825921,True
+SKAMANIA,Washington,WA,53059,2011,,,0,11177,6825921,True
+SNOHOMISH,Washington,WA,53061,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,143,725997,6825921,True
+SNOHOMISH,Washington,WA,53061,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,25,725997,6825921,True
+SPOKANE,Washington,WA,53063,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,63,476654,6825921,True
+SPOKANE,Washington,WA,53063,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,10,476654,6825921,True
+STEVENS,Washington,WA,53065,2011,,,0,43740,6825921,True
+THURSTON,Washington,WA,53067,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,27,256530,6825921,True
+WAHKIAKUM,Washington,WA,53069,2011,,,0,4035,6825921,True
+WALLA WALLA,Washington,WA,53071,2011,,,0,59049,6825921,True
+WHATCOM,Washington,WA,53073,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,19,204213,6825921,True
+WHITMAN,Washington,WA,53075,2011,,,0,45405,6825921,True
+YAKIMA,Washington,WA,53077,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,244266,6825921,True
+ADAMS,Washington,WA,53001,2012,,,0,18986,6927302,True
+ASOTIN,Washington,WA,53003,2012,,,0,21869,6927302,True
+BENTON,Washington,WA,53005,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,181845,6927302,True
+CHELAN,Washington,WA,53007,2012,,,0,73604,6927302,True
+CLALLAM,Washington,WA,53009,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,72738,6927302,True
+CLARK,Washington,WA,53011,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,52,439484,6927302,True
+CLARK,Washington,WA,53011,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,10,439484,6927302,True
+COLUMBIA,Washington,WA,53013,2012,,,0,4074,6927302,True
+COWLITZ,Washington,WA,53015,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,23,104052,6927302,True
+DOUGLAS,Washington,WA,53017,2012,,,0,39547,6927302,True
+FERRY,Washington,WA,53019,2012,,,0,7578,6927302,True
+FRANKLIN,Washington,WA,53021,2012,,,0,82209,6927302,True
+GARFIELD,Washington,WA,53023,2012,,,0,2262,6927302,True
+GRANT,Washington,WA,53025,2012,,,0,91176,6927302,True
+GRAYS HARBOR,Washington,WA,53027,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,73074,6927302,True
+ISLAND,Washington,WA,53029,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,79996,6927302,True
+JEFFERSON,Washington,WA,53031,2012,,,0,30336,6927302,True
+KING,Washington,WA,53033,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,201,2006760,6927302,True
+KING,Washington,WA,53033,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,50,2006760,6927302,True
+KING,Washington,WA,53033,2012,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,10,2006760,6927302,True
+KITSAP,Washington,WA,53035,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,255809,6927302,True
+KITTITAS,Washington,WA,53037,2012,,,0,42523,6927302,True
+KLICKITAT,Washington,WA,53039,2012,,,0,20765,6927302,True
+LEWIS,Washington,WA,53041,2012,,,0,76493,6927302,True
+LINCOLN,Washington,WA,53043,2012,,,0,10612,6927302,True
+MASON,Washington,WA,53045,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,61896,6927302,True
+OKANOGAN,Washington,WA,53047,2012,,,0,41371,6927302,True
+PACIFIC,Washington,WA,53049,2012,,,0,21199,6927302,True
+PEND OREILLE,Washington,WA,53051,2012,,,0,13151,6927302,True
+PIERCE,Washington,WA,53053,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,80,819237,6927302,True
+PIERCE,Washington,WA,53053,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,29,819237,6927302,True
+SAN JUAN,Washington,WA,53055,2012,,,0,16109,6927302,True
+SKAGIT,Washington,WA,53057,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,119721,6927302,True
+SKAMANIA,Washington,WA,53059,2012,,,0,11284,6927302,True
+SNOHOMISH,Washington,WA,53061,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,114,738698,6927302,True
+SNOHOMISH,Washington,WA,53061,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,17,738698,6927302,True
+SPOKANE,Washington,WA,53063,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,74,482079,6927302,True
+SPOKANE,Washington,WA,53063,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,10,482079,6927302,True
+STEVENS,Washington,WA,53065,2012,,,0,43957,6927302,True
+THURSTON,Washington,WA,53067,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,25,260800,6927302,True
+WAHKIAKUM,Washington,WA,53069,2012,,,0,4091,6927302,True
+WALLA WALLA,Washington,WA,53071,2012,,,0,59317,6927302,True
+WHATCOM,Washington,WA,53073,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,207280,6927302,True
+WHITMAN,Washington,WA,53075,2012,,,0,46032,6927302,True
+YAKIMA,Washington,WA,53077,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,25,245292,6927302,True
+ADAMS,Washington,WA,53001,2013,,,0,19115,7028683,True
+ASOTIN,Washington,WA,53003,2013,,,0,21992,7028683,True
+BENTON,Washington,WA,53005,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,18,185183,7028683,True
+CHELAN,Washington,WA,53007,2013,,,0,74176,7028683,True
+CLALLAM,Washington,WA,53009,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,73405,7028683,True
+CLARK,Washington,WA,53011,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,46,446546,7028683,True
+CLARK,Washington,WA,53011,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,11,446546,7028683,True
+COLUMBIA,Washington,WA,53013,2013,,,0,4072,7028683,True
+COWLITZ,Washington,WA,53015,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,21,104874,7028683,True
+DOUGLAS,Washington,WA,53017,2013,,,0,40107,7028683,True
+FERRY,Washington,WA,53019,2013,,,0,7590,7028683,True
+FRANKLIN,Washington,WA,53021,2013,,,0,84232,7028683,True
+GARFIELD,Washington,WA,53023,2013,,,0,2260,7028683,True
+GRANT,Washington,WA,53025,2013,,,0,92202,7028683,True
+GRAYS HARBOR,Washington,WA,53027,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,73212,7028683,True
+ISLAND,Washington,WA,53029,2013,,,0,80740,7028683,True
+JEFFERSON,Washington,WA,53031,2013,,,0,30568,7028683,True
+KING,Washington,WA,53033,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,242,2044494,7028683,True
+KING,Washington,WA,53033,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,34,2044494,7028683,True
+KITSAP,Washington,WA,53035,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,258142,7028683,True
+KITTITAS,Washington,WA,53037,2013,,,0,43330,7028683,True
+KLICKITAT,Washington,WA,53039,2013,,,0,20989,7028683,True
+LEWIS,Washington,WA,53041,2013,,,0,77011,7028683,True
+LINCOLN,Washington,WA,53043,2013,,,0,10633,7028683,True
+MASON,Washington,WA,53045,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,62498,7028683,True
+OKANOGAN,Washington,WA,53047,2013,,,0,41498,7028683,True
+PACIFIC,Washington,WA,53049,2013,,,0,21339,7028683,True
+PEND OREILLE,Washington,WA,53051,2013,,,0,13226,7028683,True
+PIERCE,Washington,WA,53053,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,97,831247,7028683,True
+PIERCE,Washington,WA,53053,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,25,831247,7028683,True
+SAN JUAN,Washington,WA,53055,2013,,,0,16279,7028683,True
+SKAGIT,Washington,WA,53057,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,23,121135,7028683,True
+SKAMANIA,Washington,WA,53059,2013,,,0,11391,7028683,True
+SNOHOMISH,Washington,WA,53061,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,112,751399,7028683,True
+SNOHOMISH,Washington,WA,53061,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,14,751399,7028683,True
+SPOKANE,Washington,WA,53063,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,48,487504,7028683,True
+SPOKANE,Washington,WA,53063,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,15,487504,7028683,True
+STEVENS,Washington,WA,53065,2013,,,0,44174,7028683,True
+THURSTON,Washington,WA,53067,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,25,265070,7028683,True
+WAHKIAKUM,Washington,WA,53069,2013,,,0,4147,7028683,True
+WALLA WALLA,Washington,WA,53071,2013,,,0,59585,7028683,True
+WHATCOM,Washington,WA,53073,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,210347,7028683,True
+WHITMAN,Washington,WA,53075,2013,,,0,46659,7028683,True
+YAKIMA,Washington,WA,53077,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,246318,7028683,True
+ADAMS,Washington,WA,53001,2014,,,0,19244,7130064,True
+ASOTIN,Washington,WA,53003,2014,,,0,22115,7130064,True
+BENTON,Washington,WA,53005,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,188521,7130064,True
+CHELAN,Washington,WA,53007,2014,,,0,74748,7130064,True
+CLALLAM,Washington,WA,53009,2014,,,0,74072,7130064,True
+CLARK,Washington,WA,53011,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,45,453608,7130064,True
+CLARK,Washington,WA,53011,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,14,453608,7130064,True
+COLUMBIA,Washington,WA,53013,2014,,,0,4070,7130064,True
+COWLITZ,Washington,WA,53015,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,21,105696,7130064,True
+DOUGLAS,Washington,WA,53017,2014,,,0,40667,7130064,True
+FERRY,Washington,WA,53019,2014,,,0,7602,7130064,True
+FRANKLIN,Washington,WA,53021,2014,,,0,86255,7130064,True
+GARFIELD,Washington,WA,53023,2014,,,0,2258,7130064,True
+GRANT,Washington,WA,53025,2014,,,0,93228,7130064,True
+GRAYS HARBOR,Washington,WA,53027,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,73350,7130064,True
+ISLAND,Washington,WA,53029,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,81484,7130064,True
+JEFFERSON,Washington,WA,53031,2014,,,0,30800,7130064,True
+KING,Washington,WA,53033,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,251,2082228,7130064,True
+KING,Washington,WA,53033,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,42,2082228,7130064,True
+KITSAP,Washington,WA,53035,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,260475,7130064,True
+KITTITAS,Washington,WA,53037,2014,,,0,44137,7130064,True
+KLICKITAT,Washington,WA,53039,2014,,,0,21213,7130064,True
+LEWIS,Washington,WA,53041,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,77529,7130064,True
+LINCOLN,Washington,WA,53043,2014,,,0,10654,7130064,True
+MASON,Washington,WA,53045,2014,,,0,63100,7130064,True
+OKANOGAN,Washington,WA,53047,2014,,,0,41625,7130064,True
+PACIFIC,Washington,WA,53049,2014,,,0,21479,7130064,True
+PEND OREILLE,Washington,WA,53051,2014,,,0,13301,7130064,True
+PIERCE,Washington,WA,53053,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,94,843257,7130064,True
+PIERCE,Washington,WA,53053,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,30,843257,7130064,True
+SAN JUAN,Washington,WA,53055,2014,,,0,16449,7130064,True
+SKAGIT,Washington,WA,53057,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,122549,7130064,True
+SKAMANIA,Washington,WA,53059,2014,,,0,11498,7130064,True
+SNOHOMISH,Washington,WA,53061,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,102,764100,7130064,True
+SNOHOMISH,Washington,WA,53061,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,22,764100,7130064,True
+SPOKANE,Washington,WA,53063,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,50,492929,7130064,True
+STEVENS,Washington,WA,53065,2014,,,0,44391,7130064,True
+THURSTON,Washington,WA,53067,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,269340,7130064,True
+WAHKIAKUM,Washington,WA,53069,2014,,,0,4203,7130064,True
+WALLA WALLA,Washington,WA,53071,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,59853,7130064,True
+WHATCOM,Washington,WA,53073,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,213414,7130064,True
+WHITMAN,Washington,WA,53075,2014,,,0,47286,7130064,True
+YAKIMA,Washington,WA,53077,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,23,247344,7130064,True
+ADAMS,Washington,WA,53001,2015,,,0,19373,7231445,True
+ASOTIN,Washington,WA,53003,2015,,,0,22238,7231445,True
+BENTON,Washington,WA,53005,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,28,191859,7231445,True
+CHELAN,Washington,WA,53007,2015,,,0,75320,7231445,True
+CLALLAM,Washington,WA,53009,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,74739,7231445,True
+CLARK,Washington,WA,53011,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,59,460670,7231445,True
+COLUMBIA,Washington,WA,53013,2015,,,0,4068,7231445,True
+COWLITZ,Washington,WA,53015,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,106518,7231445,True
+DOUGLAS,Washington,WA,53017,2015,,,0,41227,7231445,True
+FERRY,Washington,WA,53019,2015,,,0,7614,7231445,True
+FRANKLIN,Washington,WA,53021,2015,,,0,88278,7231445,True
+GARFIELD,Washington,WA,53023,2015,,,0,2256,7231445,True
+GRANT,Washington,WA,53025,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,94254,7231445,True
+GRAYS HARBOR,Washington,WA,53027,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,73488,7231445,True
+ISLAND,Washington,WA,53029,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,82228,7231445,True
+JEFFERSON,Washington,WA,53031,2015,,,0,31032,7231445,True
+KING,Washington,WA,53033,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,241,2119962,7231445,True
+KING,Washington,WA,53033,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,34,2119962,7231445,True
+KING,Washington,WA,53033,2015,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,10,2119962,7231445,True
+KITSAP,Washington,WA,53035,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,29,262808,7231445,True
+KITTITAS,Washington,WA,53037,2015,,,0,44944,7231445,True
+KLICKITAT,Washington,WA,53039,2015,,,0,21437,7231445,True
+LEWIS,Washington,WA,53041,2015,,,0,78047,7231445,True
+LINCOLN,Washington,WA,53043,2015,,,0,10675,7231445,True
+MASON,Washington,WA,53045,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,63702,7231445,True
+OKANOGAN,Washington,WA,53047,2015,,,0,41752,7231445,True
+PACIFIC,Washington,WA,53049,2015,,,0,21619,7231445,True
+PEND OREILLE,Washington,WA,53051,2015,,,0,13376,7231445,True
+PIERCE,Washington,WA,53053,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,110,855267,7231445,True
+PIERCE,Washington,WA,53053,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,30,855267,7231445,True
+SAN JUAN,Washington,WA,53055,2015,,,0,16619,7231445,True
+SKAGIT,Washington,WA,53057,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,18,123963,7231445,True
+SKAMANIA,Washington,WA,53059,2015,,,0,11605,7231445,True
+SNOHOMISH,Washington,WA,53061,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,114,776801,7231445,True
+SNOHOMISH,Washington,WA,53061,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,13,776801,7231445,True
+SPOKANE,Washington,WA,53063,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,74,498354,7231445,True
+SPOKANE,Washington,WA,53063,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,18,498354,7231445,True
+STEVENS,Washington,WA,53065,2015,,,0,44608,7231445,True
+THURSTON,Washington,WA,53067,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,26,273610,7231445,True
+WAHKIAKUM,Washington,WA,53069,2015,,,0,4259,7231445,True
+WALLA WALLA,Washington,WA,53071,2015,,,0,60121,7231445,True
+WHATCOM,Washington,WA,53073,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,23,216481,7231445,True
+WHITMAN,Washington,WA,53075,2015,,,0,47913,7231445,True
+YAKIMA,Washington,WA,53077,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,26,248370,7231445,True
+ADA,Idaho,ID,16001,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,328379,1376067,False
+ADAMS,Idaho,ID,16003,2003,,,0,3633,1376067,False
+BANNOCK,Idaho,ID,16005,2003,,,0,77746,1376067,False
+BEAR LAKE,Idaho,ID,16007,2003,,,0,6289,1376067,False
+BENEWAH,Idaho,ID,16009,2003,,,0,9202,1376067,False
+BINGHAM,Idaho,ID,16011,2003,,,0,42898,1376067,False
+BLAINE,Idaho,ID,16013,2003,,,0,19708,1376067,False
+BOISE,Idaho,ID,16015,2003,,,0,6758,1376067,False
+BONNER,Idaho,ID,16017,2003,,,0,38030,1376067,False
+BONNEVILLE,Idaho,ID,16019,2003,,,0,89070,1376067,False
+BOUNDARY,Idaho,ID,16021,2003,,,0,10207,1376067,False
+BUTTE,Idaho,ID,16023,2003,,,0,2897,1376067,False
+CAMAS,Idaho,ID,16025,2003,,,0,1023,1376067,False
+CANYON,Idaho,ID,16027,2003,,,0,148693,1376067,False
+CARIBOU,Idaho,ID,16029,2003,,,0,7197,1376067,False
+CASSIA,Idaho,ID,16031,2003,,,0,21867,1376067,False
+CLARK,Idaho,ID,16033,2003,,,0,1010,1376067,False
+CLEARWATER,Idaho,ID,16035,2003,,,0,8877,1376067,False
+CUSTER,Idaho,ID,16037,2003,,,0,4349,1376067,False
+ELMORE,Idaho,ID,16039,2003,,,0,28492,1376067,False
+FRANKLIN,Idaho,ID,16041,2003,,,0,11768,1376067,False
+FREMONT,Idaho,ID,16043,2003,,,0,12239,1376067,False
+GEM,Idaho,ID,16045,2003,,,0,15641,1376067,False
+GOODING,Idaho,ID,16047,2003,,,0,14546,1376067,False
+IDAHO,Idaho,ID,16049,2003,,,0,15734,1376067,False
+JEFFERSON,Idaho,ID,16051,2003,,,0,21223,1376067,False
+JEROME,Idaho,ID,16053,2003,,,0,19589,1376067,False
+KOOTENAI,Idaho,ID,16055,2003,,,0,117616,1376067,False
+LATAH,Idaho,ID,16057,2003,,,0,35621,1376067,False
+LEMHI,Idaho,ID,16059,2003,,,0,7840,1376067,False
+LEWIS,Idaho,ID,16061,2003,,,0,3768,1376067,False
+LINCOLN,Idaho,ID,16063,2003,,,0,4398,1376067,False
+MADISON,Idaho,ID,16065,2003,,,0,30509,1376067,False
+MINIDOKA,Idaho,ID,16067,2003,,,0,20125,1376067,False
+NEZ PERCE,Idaho,ID,16069,2003,,,0,37973,1376067,False
+ONEIDA,Idaho,ID,16071,2003,,,0,4173,1376067,False
+OWYHEE,Idaho,ID,16073,2003,,,0,10908,1376067,False
+PAYETTE,Idaho,ID,16075,2003,,,0,21196,1376067,False
+POWER,Idaho,ID,16077,2003,,,0,7626,1376067,False
+SHOSHONE,Idaho,ID,16079,2003,,,0,13475,1376067,False
+TETON,Idaho,ID,16081,2003,,,0,7254,1376067,False
+TWIN FALLS,Idaho,ID,16083,2003,,,0,68168,1376067,False
+VALLEY,Idaho,ID,16085,2003,,,0,8303,1376067,False
+WASHINGTON,Idaho,ID,16087,2003,,,0,10049,1376067,False
+ADA,Idaho,ID,16001,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,21,337521,1403437,False
+ADAMS,Idaho,ID,16003,2004,,,0,3683,1403437,False
+BANNOCK,Idaho,ID,16005,2004,,,0,78474,1403437,False
+BEAR LAKE,Idaho,ID,16007,2004,,,0,6246,1403437,False
+BENEWAH,Idaho,ID,16009,2004,,,0,9213,1403437,False
+BINGHAM,Idaho,ID,16011,2004,,,0,43285,1403437,False
+BLAINE,Idaho,ID,16013,2004,,,0,19946,1403437,False
+BOISE,Idaho,ID,16015,2004,,,0,6796,1403437,False
+BONNER,Idaho,ID,16017,2004,,,0,38437,1403437,False
+BONNEVILLE,Idaho,ID,16019,2004,,,0,91245,1403437,False
+BOUNDARY,Idaho,ID,16021,2004,,,0,10316,1403437,False
+BUTTE,Idaho,ID,16023,2004,,,0,2897,1403437,False
+CAMAS,Idaho,ID,16025,2004,,,0,1037,1403437,False
+CANYON,Idaho,ID,16027,2004,,,0,154440,1403437,False
+CARIBOU,Idaho,ID,16029,2004,,,0,7164,1403437,False
+CASSIA,Idaho,ID,16031,2004,,,0,22023,1403437,False
+CLARK,Idaho,ID,16033,2004,,,0,1006,1403437,False
+CLEARWATER,Idaho,ID,16035,2004,,,0,8860,1403437,False
+CUSTER,Idaho,ID,16037,2004,,,0,4352,1403437,False
+ELMORE,Idaho,ID,16039,2004,,,0,28284,1403437,False
+FRANKLIN,Idaho,ID,16041,2004,,,0,11913,1403437,False
+FREMONT,Idaho,ID,16043,2004,,,0,12381,1403437,False
+GEM,Idaho,ID,16045,2004,,,0,15795,1403437,False
+GOODING,Idaho,ID,16047,2004,,,0,14678,1403437,False
+IDAHO,Idaho,ID,16049,2004,,,0,15810,1403437,False
+JEFFERSON,Idaho,ID,16051,2004,,,0,21925,1403437,False
+JEROME,Idaho,ID,16053,2004,,,0,19985,1403437,False
+KOOTENAI,Idaho,ID,16055,2004,,,0,120594,1403437,False
+LATAH,Idaho,ID,16057,2004,,,0,35853,1403437,False
+LEMHI,Idaho,ID,16059,2004,,,0,7854,1403437,False
+LEWIS,Idaho,ID,16061,2004,,,0,3776,1403437,False
+LINCOLN,Idaho,ID,16063,2004,,,0,4514,1403437,False
+MADISON,Idaho,ID,16065,2004,,,0,31515,1403437,False
+MINIDOKA,Idaho,ID,16067,2004,,,0,20115,1403437,False
+NEZ PERCE,Idaho,ID,16069,2004,,,0,38158,1403437,False
+ONEIDA,Idaho,ID,16071,2004,,,0,4189,1403437,False
+OWYHEE,Idaho,ID,16073,2004,,,0,10996,1403437,False
+PAYETTE,Idaho,ID,16075,2004,,,0,21400,1403437,False
+POWER,Idaho,ID,16077,2004,,,0,7654,1403437,False
+SHOSHONE,Idaho,ID,16079,2004,,,0,13379,1403437,False
+TETON,Idaho,ID,16081,2004,,,0,7670,1403437,False
+TWIN FALLS,Idaho,ID,16083,2004,,,0,69462,1403437,False
+VALLEY,Idaho,ID,16085,2004,,,0,8525,1403437,False
+WASHINGTON,Idaho,ID,16087,2004,,,0,10071,1403437,False
+ADA,Idaho,ID,16001,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,346663,1430807,False
+ADAMS,Idaho,ID,16003,2005,,,0,3733,1430807,False
+BANNOCK,Idaho,ID,16005,2005,,,0,79202,1430807,False
+BEAR LAKE,Idaho,ID,16007,2005,,,0,6203,1430807,False
+BENEWAH,Idaho,ID,16009,2005,,,0,9224,1430807,False
+BINGHAM,Idaho,ID,16011,2005,,,0,43672,1430807,False
+BLAINE,Idaho,ID,16013,2005,,,0,20184,1430807,False
+BOISE,Idaho,ID,16015,2005,,,0,6834,1430807,False
+BONNER,Idaho,ID,16017,2005,,,0,38844,1430807,False
+BONNEVILLE,Idaho,ID,16019,2005,,,0,93420,1430807,False
+BOUNDARY,Idaho,ID,16021,2005,,,0,10425,1430807,False
+BUTTE,Idaho,ID,16023,2005,,,0,2897,1430807,False
+CAMAS,Idaho,ID,16025,2005,,,0,1051,1430807,False
+CANYON,Idaho,ID,16027,2005,,,0,160187,1430807,False
+CARIBOU,Idaho,ID,16029,2005,,,0,7131,1430807,False
+CASSIA,Idaho,ID,16031,2005,,,0,22179,1430807,False
+CLARK,Idaho,ID,16033,2005,,,0,1002,1430807,False
+CLEARWATER,Idaho,ID,16035,2005,,,0,8843,1430807,False
+CUSTER,Idaho,ID,16037,2005,,,0,4355,1430807,False
+ELMORE,Idaho,ID,16039,2005,,,0,28076,1430807,False
+FRANKLIN,Idaho,ID,16041,2005,,,0,12058,1430807,False
+FREMONT,Idaho,ID,16043,2005,,,0,12523,1430807,False
+GEM,Idaho,ID,16045,2005,,,0,15949,1430807,False
+GOODING,Idaho,ID,16047,2005,,,0,14810,1430807,False
+IDAHO,Idaho,ID,16049,2005,,,0,15886,1430807,False
+JEFFERSON,Idaho,ID,16051,2005,,,0,22627,1430807,False
+JEROME,Idaho,ID,16053,2005,,,0,20381,1430807,False
+KOOTENAI,Idaho,ID,16055,2005,,,0,123572,1430807,False
+LATAH,Idaho,ID,16057,2005,,,0,36085,1430807,False
+LEMHI,Idaho,ID,16059,2005,,,0,7868,1430807,False
+LEWIS,Idaho,ID,16061,2005,,,0,3784,1430807,False
+LINCOLN,Idaho,ID,16063,2005,,,0,4630,1430807,False
+MADISON,Idaho,ID,16065,2005,,,0,32521,1430807,False
+MINIDOKA,Idaho,ID,16067,2005,,,0,20105,1430807,False
+NEZ PERCE,Idaho,ID,16069,2005,,,0,38343,1430807,False
+ONEIDA,Idaho,ID,16071,2005,,,0,4205,1430807,False
+OWYHEE,Idaho,ID,16073,2005,,,0,11084,1430807,False
+PAYETTE,Idaho,ID,16075,2005,,,0,21604,1430807,False
+POWER,Idaho,ID,16077,2005,,,0,7682,1430807,False
+SHOSHONE,Idaho,ID,16079,2005,,,0,13283,1430807,False
+TETON,Idaho,ID,16081,2005,,,0,8086,1430807,False
+TWIN FALLS,Idaho,ID,16083,2005,,,0,70756,1430807,False
+VALLEY,Idaho,ID,16085,2005,,,0,8747,1430807,False
+WASHINGTON,Idaho,ID,16087,2005,,,0,10093,1430807,False
+ADA,Idaho,ID,16001,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,32,355805,1458177,False
+ADAMS,Idaho,ID,16003,2006,,,0,3783,1458177,False
+BANNOCK,Idaho,ID,16005,2006,,,0,79930,1458177,False
+BEAR LAKE,Idaho,ID,16007,2006,,,0,6160,1458177,False
+BENEWAH,Idaho,ID,16009,2006,,,0,9235,1458177,False
+BINGHAM,Idaho,ID,16011,2006,,,0,44059,1458177,False
+BLAINE,Idaho,ID,16013,2006,,,0,20422,1458177,False
+BOISE,Idaho,ID,16015,2006,,,0,6872,1458177,False
+BONNER,Idaho,ID,16017,2006,,,0,39251,1458177,False
+BONNEVILLE,Idaho,ID,16019,2006,,,0,95595,1458177,False
+BOUNDARY,Idaho,ID,16021,2006,,,0,10534,1458177,False
+BUTTE,Idaho,ID,16023,2006,,,0,2897,1458177,False
+CAMAS,Idaho,ID,16025,2006,,,0,1065,1458177,False
+CANYON,Idaho,ID,16027,2006,,,0,165934,1458177,False
+CARIBOU,Idaho,ID,16029,2006,,,0,7098,1458177,False
+CASSIA,Idaho,ID,16031,2006,,,0,22335,1458177,False
+CLARK,Idaho,ID,16033,2006,,,0,998,1458177,False
+CLEARWATER,Idaho,ID,16035,2006,,,0,8826,1458177,False
+CUSTER,Idaho,ID,16037,2006,,,0,4358,1458177,False
+ELMORE,Idaho,ID,16039,2006,,,0,27868,1458177,False
+FRANKLIN,Idaho,ID,16041,2006,,,0,12203,1458177,False
+FREMONT,Idaho,ID,16043,2006,,,0,12665,1458177,False
+GEM,Idaho,ID,16045,2006,,,0,16103,1458177,False
+GOODING,Idaho,ID,16047,2006,,,0,14942,1458177,False
+IDAHO,Idaho,ID,16049,2006,,,0,15962,1458177,False
+JEFFERSON,Idaho,ID,16051,2006,,,0,23329,1458177,False
+JEROME,Idaho,ID,16053,2006,,,0,20777,1458177,False
+KOOTENAI,Idaho,ID,16055,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,126550,1458177,False
+LATAH,Idaho,ID,16057,2006,,,0,36317,1458177,False
+LEMHI,Idaho,ID,16059,2006,,,0,7882,1458177,False
+LEWIS,Idaho,ID,16061,2006,,,0,3792,1458177,False
+LINCOLN,Idaho,ID,16063,2006,,,0,4746,1458177,False
+MADISON,Idaho,ID,16065,2006,,,0,33527,1458177,False
+MINIDOKA,Idaho,ID,16067,2006,,,0,20095,1458177,False
+NEZ PERCE,Idaho,ID,16069,2006,,,0,38528,1458177,False
+ONEIDA,Idaho,ID,16071,2006,,,0,4221,1458177,False
+OWYHEE,Idaho,ID,16073,2006,,,0,11172,1458177,False
+PAYETTE,Idaho,ID,16075,2006,,,0,21808,1458177,False
+POWER,Idaho,ID,16077,2006,,,0,7710,1458177,False
+SHOSHONE,Idaho,ID,16079,2006,,,0,13187,1458177,False
+TETON,Idaho,ID,16081,2006,,,0,8502,1458177,False
+TWIN FALLS,Idaho,ID,16083,2006,,,0,72050,1458177,False
+VALLEY,Idaho,ID,16085,2006,,,0,8969,1458177,False
+WASHINGTON,Idaho,ID,16087,2006,,,0,10115,1458177,False
+ADA,Idaho,ID,16001,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,32,364947,1485547,False
+ADAMS,Idaho,ID,16003,2007,,,0,3833,1485547,False
+BANNOCK,Idaho,ID,16005,2007,,,0,80658,1485547,False
+BEAR LAKE,Idaho,ID,16007,2007,,,0,6117,1485547,False
+BENEWAH,Idaho,ID,16009,2007,,,0,9246,1485547,False
+BINGHAM,Idaho,ID,16011,2007,,,0,44446,1485547,False
+BLAINE,Idaho,ID,16013,2007,,,0,20660,1485547,False
+BOISE,Idaho,ID,16015,2007,,,0,6910,1485547,False
+BONNER,Idaho,ID,16017,2007,,,0,39658,1485547,False
+BONNEVILLE,Idaho,ID,16019,2007,,,0,97770,1485547,False
+BOUNDARY,Idaho,ID,16021,2007,,,0,10643,1485547,False
+BUTTE,Idaho,ID,16023,2007,,,0,2897,1485547,False
+CAMAS,Idaho,ID,16025,2007,,,0,1079,1485547,False
+CANYON,Idaho,ID,16027,2007,,,0,171681,1485547,False
+CARIBOU,Idaho,ID,16029,2007,,,0,7065,1485547,False
+CASSIA,Idaho,ID,16031,2007,,,0,22491,1485547,False
+CLARK,Idaho,ID,16033,2007,,,0,994,1485547,False
+CLEARWATER,Idaho,ID,16035,2007,,,0,8809,1485547,False
+CUSTER,Idaho,ID,16037,2007,,,0,4361,1485547,False
+ELMORE,Idaho,ID,16039,2007,,,0,27660,1485547,False
+FRANKLIN,Idaho,ID,16041,2007,,,0,12348,1485547,False
+FREMONT,Idaho,ID,16043,2007,,,0,12807,1485547,False
+GEM,Idaho,ID,16045,2007,,,0,16257,1485547,False
+GOODING,Idaho,ID,16047,2007,,,0,15074,1485547,False
+IDAHO,Idaho,ID,16049,2007,,,0,16038,1485547,False
+JEFFERSON,Idaho,ID,16051,2007,,,0,24031,1485547,False
+JEROME,Idaho,ID,16053,2007,,,0,21173,1485547,False
+KOOTENAI,Idaho,ID,16055,2007,,,0,129528,1485547,False
+LATAH,Idaho,ID,16057,2007,,,0,36549,1485547,False
+LEMHI,Idaho,ID,16059,2007,,,0,7896,1485547,False
+LEWIS,Idaho,ID,16061,2007,,,0,3800,1485547,False
+LINCOLN,Idaho,ID,16063,2007,,,0,4862,1485547,False
+MADISON,Idaho,ID,16065,2007,,,0,34533,1485547,False
+MINIDOKA,Idaho,ID,16067,2007,,,0,20085,1485547,False
+NEZ PERCE,Idaho,ID,16069,2007,,,0,38713,1485547,False
+ONEIDA,Idaho,ID,16071,2007,,,0,4237,1485547,False
+OWYHEE,Idaho,ID,16073,2007,,,0,11260,1485547,False
+PAYETTE,Idaho,ID,16075,2007,,,0,22012,1485547,False
+POWER,Idaho,ID,16077,2007,,,0,7738,1485547,False
+SHOSHONE,Idaho,ID,16079,2007,,,0,13091,1485547,False
+TETON,Idaho,ID,16081,2007,,,0,8918,1485547,False
+TWIN FALLS,Idaho,ID,16083,2007,,,0,73344,1485547,False
+VALLEY,Idaho,ID,16085,2007,,,0,9191,1485547,False
+WASHINGTON,Idaho,ID,16087,2007,,,0,10137,1485547,False
+ADA,Idaho,ID,16001,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,26,374089,1512917,False
+ADA,Idaho,ID,16001,2008,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,11,374089,1512917,False
+ADAMS,Idaho,ID,16003,2008,,,0,3883,1512917,False
+BANNOCK,Idaho,ID,16005,2008,,,0,81386,1512917,False
+BEAR LAKE,Idaho,ID,16007,2008,,,0,6074,1512917,False
+BENEWAH,Idaho,ID,16009,2008,,,0,9257,1512917,False
+BINGHAM,Idaho,ID,16011,2008,,,0,44833,1512917,False
+BLAINE,Idaho,ID,16013,2008,,,0,20898,1512917,False
+BOISE,Idaho,ID,16015,2008,,,0,6948,1512917,False
+BONNER,Idaho,ID,16017,2008,,,0,40065,1512917,False
+BONNEVILLE,Idaho,ID,16019,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,99945,1512917,False
+BOUNDARY,Idaho,ID,16021,2008,,,0,10752,1512917,False
+BUTTE,Idaho,ID,16023,2008,,,0,2897,1512917,False
+CAMAS,Idaho,ID,16025,2008,,,0,1093,1512917,False
+CANYON,Idaho,ID,16027,2008,,,0,177428,1512917,False
+CARIBOU,Idaho,ID,16029,2008,,,0,7032,1512917,False
+CASSIA,Idaho,ID,16031,2008,,,0,22647,1512917,False
+CLARK,Idaho,ID,16033,2008,,,0,990,1512917,False
+CLEARWATER,Idaho,ID,16035,2008,,,0,8792,1512917,False
+CUSTER,Idaho,ID,16037,2008,,,0,4364,1512917,False
+ELMORE,Idaho,ID,16039,2008,,,0,27452,1512917,False
+FRANKLIN,Idaho,ID,16041,2008,,,0,12493,1512917,False
+FREMONT,Idaho,ID,16043,2008,,,0,12949,1512917,False
+GEM,Idaho,ID,16045,2008,,,0,16411,1512917,False
+GOODING,Idaho,ID,16047,2008,,,0,15206,1512917,False
+IDAHO,Idaho,ID,16049,2008,,,0,16114,1512917,False
+JEFFERSON,Idaho,ID,16051,2008,,,0,24733,1512917,False
+JEROME,Idaho,ID,16053,2008,,,0,21569,1512917,False
+KOOTENAI,Idaho,ID,16055,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,132506,1512917,False
+LATAH,Idaho,ID,16057,2008,,,0,36781,1512917,False
+LEMHI,Idaho,ID,16059,2008,,,0,7910,1512917,False
+LEWIS,Idaho,ID,16061,2008,,,0,3808,1512917,False
+LINCOLN,Idaho,ID,16063,2008,,,0,4978,1512917,False
+MADISON,Idaho,ID,16065,2008,,,0,35539,1512917,False
+MINIDOKA,Idaho,ID,16067,2008,,,0,20075,1512917,False
+NEZ PERCE,Idaho,ID,16069,2008,,,0,38898,1512917,False
+ONEIDA,Idaho,ID,16071,2008,,,0,4253,1512917,False
+OWYHEE,Idaho,ID,16073,2008,,,0,11348,1512917,False
+PAYETTE,Idaho,ID,16075,2008,,,0,22216,1512917,False
+POWER,Idaho,ID,16077,2008,,,0,7766,1512917,False
+SHOSHONE,Idaho,ID,16079,2008,,,0,12995,1512917,False
+TETON,Idaho,ID,16081,2008,,,0,9334,1512917,False
+TWIN FALLS,Idaho,ID,16083,2008,,,0,74638,1512917,False
+VALLEY,Idaho,ID,16085,2008,,,0,9413,1512917,False
+WASHINGTON,Idaho,ID,16087,2008,,,0,10159,1512917,False
+ADA,Idaho,ID,16001,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,34,383231,1540287,False
+ADA,Idaho,ID,16001,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,10,383231,1540287,False
+ADAMS,Idaho,ID,16003,2009,,,0,3933,1540287,False
+BANNOCK,Idaho,ID,16005,2009,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,11,82114,1540287,False
+BEAR LAKE,Idaho,ID,16007,2009,,,0,6031,1540287,False
+BENEWAH,Idaho,ID,16009,2009,,,0,9268,1540287,False
+BINGHAM,Idaho,ID,16011,2009,,,0,45220,1540287,False
+BLAINE,Idaho,ID,16013,2009,,,0,21136,1540287,False
+BOISE,Idaho,ID,16015,2009,,,0,6986,1540287,False
+BONNER,Idaho,ID,16017,2009,,,0,40472,1540287,False
+BONNEVILLE,Idaho,ID,16019,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,102120,1540287,False
+BOUNDARY,Idaho,ID,16021,2009,,,0,10861,1540287,False
+BUTTE,Idaho,ID,16023,2009,,,0,2897,1540287,False
+CAMAS,Idaho,ID,16025,2009,,,0,1107,1540287,False
+CANYON,Idaho,ID,16027,2009,,,0,183175,1540287,False
+CARIBOU,Idaho,ID,16029,2009,,,0,6999,1540287,False
+CASSIA,Idaho,ID,16031,2009,,,0,22803,1540287,False
+CLARK,Idaho,ID,16033,2009,,,0,986,1540287,False
+CLEARWATER,Idaho,ID,16035,2009,,,0,8775,1540287,False
+CUSTER,Idaho,ID,16037,2009,,,0,4367,1540287,False
+ELMORE,Idaho,ID,16039,2009,,,0,27244,1540287,False
+FRANKLIN,Idaho,ID,16041,2009,,,0,12638,1540287,False
+FREMONT,Idaho,ID,16043,2009,,,0,13091,1540287,False
+GEM,Idaho,ID,16045,2009,,,0,16565,1540287,False
+GOODING,Idaho,ID,16047,2009,,,0,15338,1540287,False
+IDAHO,Idaho,ID,16049,2009,,,0,16190,1540287,False
+JEFFERSON,Idaho,ID,16051,2009,,,0,25435,1540287,False
+JEROME,Idaho,ID,16053,2009,,,0,21965,1540287,False
+KOOTENAI,Idaho,ID,16055,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,135484,1540287,False
+LATAH,Idaho,ID,16057,2009,,,0,37013,1540287,False
+LEMHI,Idaho,ID,16059,2009,,,0,7924,1540287,False
+LEWIS,Idaho,ID,16061,2009,,,0,3816,1540287,False
+LINCOLN,Idaho,ID,16063,2009,,,0,5094,1540287,False
+MADISON,Idaho,ID,16065,2009,,,0,36545,1540287,False
+MINIDOKA,Idaho,ID,16067,2009,,,0,20065,1540287,False
+NEZ PERCE,Idaho,ID,16069,2009,,,0,39083,1540287,False
+ONEIDA,Idaho,ID,16071,2009,,,0,4269,1540287,False
+OWYHEE,Idaho,ID,16073,2009,,,0,11436,1540287,False
+PAYETTE,Idaho,ID,16075,2009,,,0,22420,1540287,False
+POWER,Idaho,ID,16077,2009,,,0,7794,1540287,False
+SHOSHONE,Idaho,ID,16079,2009,,,0,12899,1540287,False
+TETON,Idaho,ID,16081,2009,,,0,9750,1540287,False
+TWIN FALLS,Idaho,ID,16083,2009,,,0,75932,1540287,False
+VALLEY,Idaho,ID,16085,2009,,,0,9635,1540287,False
+WASHINGTON,Idaho,ID,16087,2009,,,0,10181,1540287,False
+ADA,Idaho,ID,16001,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,35,392371,1567657,False
+ADAMS,Idaho,ID,16003,2010,,,0,3978,1567657,False
+BANNOCK,Idaho,ID,16005,2010,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,11,82842,1567657,False
+BEAR LAKE,Idaho,ID,16007,2010,,,0,5986,1567657,False
+BENEWAH,Idaho,ID,16009,2010,,,0,9283,1567657,False
+BINGHAM,Idaho,ID,16011,2010,,,0,45605,1567657,False
+BLAINE,Idaho,ID,16013,2010,,,0,21377,1567657,False
+BOISE,Idaho,ID,16015,2010,,,0,7028,1567657,False
+BONNER,Idaho,ID,16017,2010,,,0,40877,1567657,False
+BONNEVILLE,Idaho,ID,16019,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,104294,1567657,False
+BOUNDARY,Idaho,ID,16021,2010,,,0,10972,1567657,False
+BUTTE,Idaho,ID,16023,2010,,,0,2893,1567657,False
+CAMAS,Idaho,ID,16025,2010,,,0,1117,1567657,False
+CANYON,Idaho,ID,16027,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,188922,1567657,False
+CARIBOU,Idaho,ID,16029,2010,,,0,6963,1567657,False
+CASSIA,Idaho,ID,16031,2010,,,0,22964,1567657,False
+CLARK,Idaho,ID,16033,2010,,,0,982,1567657,False
+CLEARWATER,Idaho,ID,16035,2010,,,0,8761,1567657,False
+CUSTER,Idaho,ID,16037,2010,,,0,4366,1567657,False
+ELMORE,Idaho,ID,16039,2010,,,0,27040,1567657,False
+FRANKLIN,Idaho,ID,16041,2010,,,0,12786,1567657,False
+FREMONT,Idaho,ID,16043,2010,,,0,13236,1567657,False
+GEM,Idaho,ID,16045,2010,,,0,16719,1567657,False
+GOODING,Idaho,ID,16047,2010,,,0,15472,1567657,False
+IDAHO,Idaho,ID,16049,2010,,,0,16267,1567657,False
+JEFFERSON,Idaho,ID,16051,2010,,,0,26142,1567657,False
+JEROME,Idaho,ID,16053,2010,,,0,22366,1567657,False
+KOOTENAI,Idaho,ID,16055,2010,,,0,138466,1567657,False
+LATAH,Idaho,ID,16057,2010,,,0,37243,1567657,False
+LEMHI,Idaho,ID,16059,2010,,,0,7936,1567657,False
+LEWIS,Idaho,ID,16061,2010,,,0,3821,1567657,False
+LINCOLN,Idaho,ID,16063,2010,,,0,5206,1567657,False
+MADISON,Idaho,ID,16065,2010,,,0,37551,1567657,False
+MINIDOKA,Idaho,ID,16067,2010,,,0,20055,1567657,False
+NEZ PERCE,Idaho,ID,16069,2010,,,0,39270,1567657,False
+ONEIDA,Idaho,ID,16071,2010,,,0,4286,1567657,False
+OWYHEE,Idaho,ID,16073,2010,,,0,11526,1567657,False
+PAYETTE,Idaho,ID,16075,2010,,,0,22622,1567657,False
+POWER,Idaho,ID,16077,2010,,,0,7819,1567657,False
+SHOSHONE,Idaho,ID,16079,2010,,,0,12800,1567657,False
+TETON,Idaho,ID,16081,2010,,,0,10165,1567657,False
+TWIN FALLS,Idaho,ID,16083,2010,,,0,77230,1567657,False
+VALLEY,Idaho,ID,16085,2010,,,0,9854,1567657,False
+WASHINGTON,Idaho,ID,16087,2010,,,0,10198,1567657,False
+ADA,Idaho,ID,16001,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,32,402070,1590976,False
+ADA,Idaho,ID,16001,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,13,402070,1590976,False
+ADAMS,Idaho,ID,16003,2011,,,0,4012,1590976,False
+BANNOCK,Idaho,ID,16005,2011,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,11,83379,1590976,False
+BEAR LAKE,Idaho,ID,16007,2011,,,0,5994,1590976,False
+BENEWAH,Idaho,ID,16009,2011,,,0,9276,1590976,False
+BINGHAM,Idaho,ID,16011,2011,,,0,45684,1590976,False
+BLAINE,Idaho,ID,16013,2011,,,0,21530,1590976,False
+BOISE,Idaho,ID,16015,2011,,,0,7104,1590976,False
+BONNER,Idaho,ID,16017,2011,,,0,41358,1590976,False
+BONNEVILLE,Idaho,ID,16019,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,105864,1590976,False
+BOUNDARY,Idaho,ID,16021,2011,,,0,11094,1590976,False
+BUTTE,Idaho,ID,16023,2011,,,0,2858,1590976,False
+CAMAS,Idaho,ID,16025,2011,,,0,1118,1590976,False
+CANYON,Idaho,ID,16027,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,193244,1590976,False
+CARIBOU,Idaho,ID,16029,2011,,,0,6975,1590976,False
+CASSIA,Idaho,ID,16031,2011,,,0,23076,1590976,False
+CLARK,Idaho,ID,16033,2011,,,0,966,1590976,False
+CLEARWATER,Idaho,ID,16035,2011,,,0,8761,1590976,False
+CUSTER,Idaho,ID,16037,2011,,,0,4355,1590976,False
+ELMORE,Idaho,ID,16039,2011,,,0,27067,1590976,False
+FRANKLIN,Idaho,ID,16041,2011,,,0,12904,1590976,False
+FREMONT,Idaho,ID,16043,2011,,,0,13228,1590976,False
+GEM,Idaho,ID,16045,2011,,,0,16833,1590976,False
+GOODING,Idaho,ID,16047,2011,,,0,15438,1590976,False
+IDAHO,Idaho,ID,16049,2011,,,0,16298,1590976,False
+JEFFERSON,Idaho,ID,16051,2011,,,0,26554,1590976,False
+JEROME,Idaho,ID,16053,2011,,,0,22572,1590976,False
+KOOTENAI,Idaho,ID,16055,2011,,,0,141346,1590976,False
+LATAH,Idaho,ID,16057,2011,,,0,37604,1590976,False
+LEMHI,Idaho,ID,16059,2011,,,0,7939,1590976,False
+LEWIS,Idaho,ID,16061,2011,,,0,3826,1590976,False
+LINCOLN,Idaho,ID,16063,2011,,,0,5225,1590976,False
+MADISON,Idaho,ID,16065,2011,,,0,37770,1590976,False
+MINIDOKA,Idaho,ID,16067,2011,,,0,20151,1590976,False
+NEZ PERCE,Idaho,ID,16069,2011,,,0,39412,1590976,False
+ONEIDA,Idaho,ID,16071,2011,,,0,4311,1590976,False
+OWYHEE,Idaho,ID,16073,2011,,,0,11547,1590976,False
+PAYETTE,Idaho,ID,16075,2011,,,0,22738,1590976,False
+POWER,Idaho,ID,16077,2011,,,0,7813,1590976,False
+SHOSHONE,Idaho,ID,16079,2011,,,0,12800,1590976,False
+TETON,Idaho,ID,16081,2011,,,0,10349,1590976,False
+TWIN FALLS,Idaho,ID,16083,2011,,,0,78336,1590976,False
+VALLEY,Idaho,ID,16085,2011,,,0,10002,1590976,False
+WASHINGTON,Idaho,ID,16087,2011,,,0,10193,1590976,False
+ADA,Idaho,ID,16001,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,28,411769,1614295,False
+ADAMS,Idaho,ID,16003,2012,,,0,4046,1614295,False
+BANNOCK,Idaho,ID,16005,2012,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,13,83916,1614295,False
+BEAR LAKE,Idaho,ID,16007,2012,,,0,6002,1614295,False
+BENEWAH,Idaho,ID,16009,2012,,,0,9269,1614295,False
+BINGHAM,Idaho,ID,16011,2012,,,0,45763,1614295,False
+BLAINE,Idaho,ID,16013,2012,,,0,21683,1614295,False
+BOISE,Idaho,ID,16015,2012,,,0,7180,1614295,False
+BONNER,Idaho,ID,16017,2012,,,0,41839,1614295,False
+BONNEVILLE,Idaho,ID,16019,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,107434,1614295,False
+BOUNDARY,Idaho,ID,16021,2012,,,0,11216,1614295,False
+BUTTE,Idaho,ID,16023,2012,,,0,2823,1614295,False
+CAMAS,Idaho,ID,16025,2012,,,0,1119,1614295,False
+CANYON,Idaho,ID,16027,2012,,,0,197566,1614295,False
+CARIBOU,Idaho,ID,16029,2012,,,0,6987,1614295,False
+CASSIA,Idaho,ID,16031,2012,,,0,23188,1614295,False
+CLARK,Idaho,ID,16033,2012,,,0,950,1614295,False
+CLEARWATER,Idaho,ID,16035,2012,,,0,8761,1614295,False
+CUSTER,Idaho,ID,16037,2012,,,0,4344,1614295,False
+ELMORE,Idaho,ID,16039,2012,,,0,27094,1614295,False
+FRANKLIN,Idaho,ID,16041,2012,,,0,13022,1614295,False
+FREMONT,Idaho,ID,16043,2012,,,0,13220,1614295,False
+GEM,Idaho,ID,16045,2012,,,0,16947,1614295,False
+GOODING,Idaho,ID,16047,2012,,,0,15404,1614295,False
+IDAHO,Idaho,ID,16049,2012,,,0,16329,1614295,False
+JEFFERSON,Idaho,ID,16051,2012,,,0,26966,1614295,False
+JEROME,Idaho,ID,16053,2012,,,0,22778,1614295,False
+KOOTENAI,Idaho,ID,16055,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,144226,1614295,False
+LATAH,Idaho,ID,16057,2012,,,0,37965,1614295,False
+LEMHI,Idaho,ID,16059,2012,,,0,7942,1614295,False
+LEWIS,Idaho,ID,16061,2012,,,0,3831,1614295,False
+LINCOLN,Idaho,ID,16063,2012,,,0,5244,1614295,False
+MADISON,Idaho,ID,16065,2012,,,0,37989,1614295,False
+MINIDOKA,Idaho,ID,16067,2012,,,0,20247,1614295,False
+NEZ PERCE,Idaho,ID,16069,2012,,,0,39554,1614295,False
+ONEIDA,Idaho,ID,16071,2012,,,0,4336,1614295,False
+OWYHEE,Idaho,ID,16073,2012,,,0,11568,1614295,False
+PAYETTE,Idaho,ID,16075,2012,,,0,22854,1614295,False
+POWER,Idaho,ID,16077,2012,,,0,7807,1614295,False
+SHOSHONE,Idaho,ID,16079,2012,,,0,12800,1614295,False
+TETON,Idaho,ID,16081,2012,,,0,10533,1614295,False
+TWIN FALLS,Idaho,ID,16083,2012,,,0,79442,1614295,False
+VALLEY,Idaho,ID,16085,2012,,,0,10150,1614295,False
+WASHINGTON,Idaho,ID,16087,2012,,,0,10188,1614295,False
+ADA,Idaho,ID,16001,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,43,421468,1637614,False
+ADA,Idaho,ID,16001,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,12,421468,1637614,False
+ADAMS,Idaho,ID,16003,2013,,,0,4080,1637614,False
+BANNOCK,Idaho,ID,16005,2013,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,11,84453,1637614,False
+BEAR LAKE,Idaho,ID,16007,2013,,,0,6010,1637614,False
+BENEWAH,Idaho,ID,16009,2013,,,0,9262,1637614,False
+BINGHAM,Idaho,ID,16011,2013,,,0,45842,1637614,False
+BLAINE,Idaho,ID,16013,2013,,,0,21836,1637614,False
+BOISE,Idaho,ID,16015,2013,,,0,7256,1637614,False
+BONNER,Idaho,ID,16017,2013,,,0,42320,1637614,False
+BONNEVILLE,Idaho,ID,16019,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,33,109004,1637614,False
+BOUNDARY,Idaho,ID,16021,2013,,,0,11338,1637614,False
+BUTTE,Idaho,ID,16023,2013,,,0,2788,1637614,False
+CAMAS,Idaho,ID,16025,2013,,,0,1120,1637614,False
+CANYON,Idaho,ID,16027,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,201888,1637614,False
+CARIBOU,Idaho,ID,16029,2013,,,0,6999,1637614,False
+CASSIA,Idaho,ID,16031,2013,,,0,23300,1637614,False
+CLARK,Idaho,ID,16033,2013,,,0,934,1637614,False
+CLEARWATER,Idaho,ID,16035,2013,,,0,8761,1637614,False
+CUSTER,Idaho,ID,16037,2013,,,0,4333,1637614,False
+ELMORE,Idaho,ID,16039,2013,,,0,27121,1637614,False
+FRANKLIN,Idaho,ID,16041,2013,,,0,13140,1637614,False
+FREMONT,Idaho,ID,16043,2013,,,0,13212,1637614,False
+GEM,Idaho,ID,16045,2013,,,0,17061,1637614,False
+GOODING,Idaho,ID,16047,2013,,,0,15370,1637614,False
+IDAHO,Idaho,ID,16049,2013,,,0,16360,1637614,False
+JEFFERSON,Idaho,ID,16051,2013,,,0,27378,1637614,False
+JEROME,Idaho,ID,16053,2013,,,0,22984,1637614,False
+KOOTENAI,Idaho,ID,16055,2013,,,0,147106,1637614,False
+LATAH,Idaho,ID,16057,2013,,,0,38326,1637614,False
+LEMHI,Idaho,ID,16059,2013,,,0,7945,1637614,False
+LEWIS,Idaho,ID,16061,2013,,,0,3836,1637614,False
+LINCOLN,Idaho,ID,16063,2013,,,0,5263,1637614,False
+MADISON,Idaho,ID,16065,2013,,,0,38208,1637614,False
+MINIDOKA,Idaho,ID,16067,2013,,,0,20343,1637614,False
+NEZ PERCE,Idaho,ID,16069,2013,,,0,39696,1637614,False
+ONEIDA,Idaho,ID,16071,2013,,,0,4361,1637614,False
+OWYHEE,Idaho,ID,16073,2013,,,0,11589,1637614,False
+PAYETTE,Idaho,ID,16075,2013,,,0,22970,1637614,False
+POWER,Idaho,ID,16077,2013,,,0,7801,1637614,False
+SHOSHONE,Idaho,ID,16079,2013,,,0,12800,1637614,False
+TETON,Idaho,ID,16081,2013,,,0,10717,1637614,False
+TWIN FALLS,Idaho,ID,16083,2013,,,0,80548,1637614,False
+VALLEY,Idaho,ID,16085,2013,,,0,10298,1637614,False
+WASHINGTON,Idaho,ID,16087,2013,,,0,10183,1637614,False
+ADA,Idaho,ID,16001,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,50,431167,1660933,False
+ADA,Idaho,ID,16001,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,15,431167,1660933,False
+ADAMS,Idaho,ID,16003,2014,,,0,4114,1660933,False
+BANNOCK,Idaho,ID,16005,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,84990,1660933,False
+BANNOCK,Idaho,ID,16005,2014,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,12,84990,1660933,False
+BEAR LAKE,Idaho,ID,16007,2014,,,0,6018,1660933,False
+BENEWAH,Idaho,ID,16009,2014,,,0,9255,1660933,False
+BINGHAM,Idaho,ID,16011,2014,,,0,45921,1660933,False
+BLAINE,Idaho,ID,16013,2014,,,0,21989,1660933,False
+BOISE,Idaho,ID,16015,2014,,,0,7332,1660933,False
+BONNER,Idaho,ID,16017,2014,,,0,42801,1660933,False
+BONNEVILLE,Idaho,ID,16019,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,19,110574,1660933,False
+BOUNDARY,Idaho,ID,16021,2014,,,0,11460,1660933,False
+BUTTE,Idaho,ID,16023,2014,,,0,2753,1660933,False
+CAMAS,Idaho,ID,16025,2014,,,0,1121,1660933,False
+CANYON,Idaho,ID,16027,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,206210,1660933,False
+CARIBOU,Idaho,ID,16029,2014,,,0,7011,1660933,False
+CASSIA,Idaho,ID,16031,2014,,,0,23412,1660933,False
+CLARK,Idaho,ID,16033,2014,,,0,918,1660933,False
+CLEARWATER,Idaho,ID,16035,2014,,,0,8761,1660933,False
+CUSTER,Idaho,ID,16037,2014,,,0,4322,1660933,False
+ELMORE,Idaho,ID,16039,2014,,,0,27148,1660933,False
+FRANKLIN,Idaho,ID,16041,2014,,,0,13258,1660933,False
+FREMONT,Idaho,ID,16043,2014,,,0,13204,1660933,False
+GEM,Idaho,ID,16045,2014,,,0,17175,1660933,False
+GOODING,Idaho,ID,16047,2014,,,0,15336,1660933,False
+IDAHO,Idaho,ID,16049,2014,,,0,16391,1660933,False
+JEFFERSON,Idaho,ID,16051,2014,,,0,27790,1660933,False
+JEROME,Idaho,ID,16053,2014,,,0,23190,1660933,False
+KOOTENAI,Idaho,ID,16055,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,149986,1660933,False
+LATAH,Idaho,ID,16057,2014,,,0,38687,1660933,False
+LEMHI,Idaho,ID,16059,2014,,,0,7948,1660933,False
+LEWIS,Idaho,ID,16061,2014,,,0,3841,1660933,False
+LINCOLN,Idaho,ID,16063,2014,,,0,5282,1660933,False
+MADISON,Idaho,ID,16065,2014,,,0,38427,1660933,False
+MINIDOKA,Idaho,ID,16067,2014,,,0,20439,1660933,False
+NEZ PERCE,Idaho,ID,16069,2014,,,0,39838,1660933,False
+ONEIDA,Idaho,ID,16071,2014,,,0,4386,1660933,False
+OWYHEE,Idaho,ID,16073,2014,,,0,11610,1660933,False
+PAYETTE,Idaho,ID,16075,2014,,,0,23086,1660933,False
+POWER,Idaho,ID,16077,2014,,,0,7795,1660933,False
+SHOSHONE,Idaho,ID,16079,2014,,,0,12800,1660933,False
+TETON,Idaho,ID,16081,2014,,,0,10901,1660933,False
+TWIN FALLS,Idaho,ID,16083,2014,,,0,81654,1660933,False
+VALLEY,Idaho,ID,16085,2014,,,0,10446,1660933,False
+WASHINGTON,Idaho,ID,16087,2014,,,0,10178,1660933,False
+ADA,Idaho,ID,16001,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,30,440866,1684252,False
+ADA,Idaho,ID,16001,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,14,440866,1684252,False
+ADAMS,Idaho,ID,16003,2015,,,0,4148,1684252,False
+BANNOCK,Idaho,ID,16005,2015,,,0,85527,1684252,False
+BEAR LAKE,Idaho,ID,16007,2015,,,0,6026,1684252,False
+BENEWAH,Idaho,ID,16009,2015,,,0,9248,1684252,False
+BINGHAM,Idaho,ID,16011,2015,,,0,46000,1684252,False
+BLAINE,Idaho,ID,16013,2015,,,0,22142,1684252,False
+BOISE,Idaho,ID,16015,2015,,,0,7408,1684252,False
+BONNER,Idaho,ID,16017,2015,,,0,43282,1684252,False
+BONNEVILLE,Idaho,ID,16019,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,27,112144,1684252,False
+BOUNDARY,Idaho,ID,16021,2015,,,0,11582,1684252,False
+BUTTE,Idaho,ID,16023,2015,,,0,2718,1684252,False
+CAMAS,Idaho,ID,16025,2015,,,0,1122,1684252,False
+CANYON,Idaho,ID,16027,2015,,,0,210532,1684252,False
+CARIBOU,Idaho,ID,16029,2015,,,0,7023,1684252,False
+CASSIA,Idaho,ID,16031,2015,,,0,23524,1684252,False
+CLARK,Idaho,ID,16033,2015,,,0,902,1684252,False
+CLEARWATER,Idaho,ID,16035,2015,,,0,8761,1684252,False
+CUSTER,Idaho,ID,16037,2015,,,0,4311,1684252,False
+ELMORE,Idaho,ID,16039,2015,,,0,27175,1684252,False
+FRANKLIN,Idaho,ID,16041,2015,,,0,13376,1684252,False
+FREMONT,Idaho,ID,16043,2015,,,0,13196,1684252,False
+GEM,Idaho,ID,16045,2015,,,0,17289,1684252,False
+GOODING,Idaho,ID,16047,2015,,,0,15302,1684252,False
+IDAHO,Idaho,ID,16049,2015,,,0,16422,1684252,False
+JEFFERSON,Idaho,ID,16051,2015,,,0,28202,1684252,False
+JEROME,Idaho,ID,16053,2015,,,0,23396,1684252,False
+KOOTENAI,Idaho,ID,16055,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,152866,1684252,False
+LATAH,Idaho,ID,16057,2015,,,0,39048,1684252,False
+LEMHI,Idaho,ID,16059,2015,,,0,7951,1684252,False
+LEWIS,Idaho,ID,16061,2015,,,0,3846,1684252,False
+LINCOLN,Idaho,ID,16063,2015,,,0,5301,1684252,False
+MADISON,Idaho,ID,16065,2015,,,0,38646,1684252,False
+MINIDOKA,Idaho,ID,16067,2015,,,0,20535,1684252,False
+NEZ PERCE,Idaho,ID,16069,2015,,,0,39980,1684252,False
+ONEIDA,Idaho,ID,16071,2015,,,0,4411,1684252,False
+OWYHEE,Idaho,ID,16073,2015,,,0,11631,1684252,False
+PAYETTE,Idaho,ID,16075,2015,,,0,23202,1684252,False
+POWER,Idaho,ID,16077,2015,,,0,7789,1684252,False
+SHOSHONE,Idaho,ID,16079,2015,,,0,12800,1684252,False
+TETON,Idaho,ID,16081,2015,,,0,11085,1684252,False
+TWIN FALLS,Idaho,ID,16083,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,82760,1684252,False
+VALLEY,Idaho,ID,16085,2015,,,0,10594,1684252,False
+WASHINGTON,Idaho,ID,16087,2015,,,0,10173,1684252,False
+BEAVERHEAD,Montana,MT,30001,2003,,,0,9207,928363,False
+BIG HORN,Montana,MT,30003,2003,,,0,12733,928363,False
+BLAINE,Montana,MT,30005,2003,,,0,6853,928363,False
+BROADWATER,Montana,MT,30007,2003,,,0,4749,928363,False
+CARBON,Montana,MT,30009,2003,,,0,9704,928363,False
+CARTER,Montana,MT,30011,2003,,,0,1298,928363,False
+CASCADE,Montana,MT,30013,2003,,,0,80647,928363,False
+CHOUTEAU,Montana,MT,30015,2003,,,0,5917,928363,False
+CUSTER,Montana,MT,30017,2003,,,0,11694,928363,False
+DANIELS,Montana,MT,30019,2003,,,0,1936,928363,False
+DAWSON,Montana,MT,30021,2003,,,0,9029,928363,False
+DEER LODGE,Montana,MT,30023,2003,,,0,9380,928363,False
+FALLON,Montana,MT,30025,2003,,,0,2853,928363,False
+FERGUS,Montana,MT,30027,2003,,,0,11812,928363,False
+FLATHEAD,Montana,MT,30029,2003,,,0,79433,928363,False
+GALLATIN,Montana,MT,30031,2003,,,0,74341,928363,False
+GARFIELD,Montana,MT,30033,2003,,,0,1258,928363,False
+GLACIER,Montana,MT,30035,2003,,,0,13288,928363,False
+GOLDEN VALLEY,Montana,MT,30037,2003,,,0,992,928363,False
+GRANITE,Montana,MT,30039,2003,,,0,2913,928363,False
+HILL,Montana,MT,30041,2003,,,0,16497,928363,False
+JEFFERSON,Montana,MT,30043,2003,,,0,10445,928363,False
+JUDITH BASIN,Montana,MT,30045,2003,,,0,2251,928363,False
+LAKE,Montana,MT,30047,2003,,,0,27160,928363,False
+LEWIS AND CLARK,Montana,MT,30049,2003,,,0,58020,928363,False
+LIBERTY,Montana,MT,30051,2003,,,0,2212,928363,False
+LINCOLN,Montana,MT,30053,2003,,,0,19078,928363,False
+MCCONE,Montana,MT,30055,2003,,,0,1899,928363,False
+MADISON,Montana,MT,30057,2003,,,0,7100,928363,False
+MEAGHER,Montana,MT,30059,2003,,,0,1916,928363,False
+MINERAL,Montana,MT,30061,2003,,,0,3979,928363,False
+MISSOULA,Montana,MT,30063,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,99850,928363,False
+MUSSELSHELL,Montana,MT,30065,2003,,,0,4507,928363,False
+PARK,Montana,MT,30067,2003,,,0,15676,928363,False
+PETROLEUM,Montana,MT,30069,2003,,,0,493,928363,False
+PHILLIPS,Montana,MT,30071,2003,,,0,4496,928363,False
+PONDERA,Montana,MT,30073,2003,,,0,6344,928363,False
+POWDER RIVER,Montana,MT,30075,2003,,,0,1822,928363,False
+POWELL,Montana,MT,30077,2003,,,0,7140,928363,False
+PRAIRIE,Montana,MT,30079,2003,,,0,1193,928363,False
+RAVALLI,Montana,MT,30081,2003,,,0,37329,928363,False
+RICHLAND,Montana,MT,30083,2003,,,0,9690,928363,False
+ROOSEVELT,Montana,MT,30085,2003,,,0,10569,928363,False
+ROSEBUD,Montana,MT,30087,2003,,,0,9344,928363,False
+SANDERS,Montana,MT,30089,2003,,,0,10592,928363,False
+SHERIDAN,Montana,MT,30091,2003,,,0,3889,928363,False
+SILVER BOW,Montana,MT,30093,2003,,,0,34499,928363,False
+STILLWATER,Montana,MT,30095,2003,,,0,8485,928363,False
+SWEET GRASS,Montana,MT,30097,2003,,,0,3616,928363,False
+TETON,Montana,MT,30099,2003,,,0,6335,928363,False
+TOOLE,Montana,MT,30101,2003,,,0,5276,928363,False
+TREASURE,Montana,MT,30103,2003,,,0,815,928363,False
+VALLEY,Montana,MT,30105,2003,,,0,7583,928363,False
+WHEATLAND,Montana,MT,30107,2003,,,0,2232,928363,False
+WIBAUX,Montana,MT,30109,2003,,,0,1052,928363,False
+YELLOWSTONE,Montana,MT,30111,2003,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,11,134939,928363,False
+BEAVERHEAD,Montana,MT,30001,2004,,,0,9212,937084,False
+BIG HORN,Montana,MT,30003,2004,,,0,12752,937084,False
+BLAINE,Montana,MT,30005,2004,,,0,6801,937084,False
+BROADWATER,Montana,MT,30007,2004,,,0,4872,937084,False
+CARBON,Montana,MT,30009,2004,,,0,9757,937084,False
+CARTER,Montana,MT,30011,2004,,,0,1278,937084,False
+CASCADE,Montana,MT,30013,2004,,,0,80744,937084,False
+CHOUTEAU,Montana,MT,30015,2004,,,0,5902,937084,False
+CUSTER,Montana,MT,30017,2004,,,0,11694,937084,False
+DANIELS,Montana,MT,30019,2004,,,0,1909,937084,False
+DAWSON,Montana,MT,30021,2004,,,0,9019,937084,False
+DEER LODGE,Montana,MT,30023,2004,,,0,9368,937084,False
+FALLON,Montana,MT,30025,2004,,,0,2859,937084,False
+FERGUS,Montana,MT,30027,2004,,,0,11781,937084,False
+FLATHEAD,Montana,MT,30029,2004,,,0,81075,937084,False
+GALLATIN,Montana,MT,30031,2004,,,0,76509,937084,False
+GARFIELD,Montana,MT,30033,2004,,,0,1251,937084,False
+GLACIER,Montana,MT,30035,2004,,,0,13304,937084,False
+GOLDEN VALLEY,Montana,MT,30037,2004,,,0,976,937084,False
+GRANITE,Montana,MT,30039,2004,,,0,2937,937084,False
+HILL,Montana,MT,30041,2004,,,0,16439,937084,False
+JEFFERSON,Montana,MT,30043,2004,,,0,10582,937084,False
+JUDITH BASIN,Montana,MT,30045,2004,,,0,2226,937084,False
+LAKE,Montana,MT,30047,2004,,,0,27386,937084,False
+LEWIS AND CLARK,Montana,MT,30049,2004,,,0,58788,937084,False
+LIBERTY,Montana,MT,30051,2004,,,0,2230,937084,False
+LINCOLN,Montana,MT,30053,2004,,,0,19164,937084,False
+MCCONE,Montana,MT,30055,2004,,,0,1875,937084,False
+MADISON,Montana,MT,30057,2004,,,0,7184,937084,False
+MEAGHER,Montana,MT,30059,2004,,,0,1912,937084,False
+MINERAL,Montana,MT,30061,2004,,,0,4015,937084,False
+MISSOULA,Montana,MT,30063,2004,,,0,101199,937084,False
+MUSSELSHELL,Montana,MT,30065,2004,,,0,4512,937084,False
+PARK,Montana,MT,30067,2004,,,0,15670,937084,False
+PETROLEUM,Montana,MT,30069,2004,,,0,493,937084,False
+PHILLIPS,Montana,MT,30071,2004,,,0,4461,937084,False
+PONDERA,Montana,MT,30073,2004,,,0,6317,937084,False
+POWDER RIVER,Montana,MT,30075,2004,,,0,1810,937084,False
+POWELL,Montana,MT,30077,2004,,,0,7125,937084,False
+PRAIRIE,Montana,MT,30079,2004,,,0,1191,937084,False
+RAVALLI,Montana,MT,30081,2004,,,0,37741,937084,False
+RICHLAND,Montana,MT,30083,2004,,,0,9698,937084,False
+ROOSEVELT,Montana,MT,30085,2004,,,0,10548,937084,False
+ROSEBUD,Montana,MT,30087,2004,,,0,9329,937084,False
+SANDERS,Montana,MT,30089,2004,,,0,10710,937084,False
+SHERIDAN,Montana,MT,30091,2004,,,0,3817,937084,False
+SILVER BOW,Montana,MT,30093,2004,,,0,34457,937084,False
+STILLWATER,Montana,MT,30095,2004,,,0,8573,937084,False
+SWEET GRASS,Montana,MT,30097,2004,,,0,3621,937084,False
+TETON,Montana,MT,30099,2004,,,0,6297,937084,False
+TOOLE,Montana,MT,30101,2004,,,0,5283,937084,False
+TREASURE,Montana,MT,30103,2004,,,0,801,937084,False
+VALLEY,Montana,MT,30105,2004,,,0,7553,937084,False
+WHEATLAND,Montana,MT,30107,2004,,,0,2223,937084,False
+WIBAUX,Montana,MT,30109,2004,,,0,1047,937084,False
+YELLOWSTONE,Montana,MT,30111,2004,,,0,136803,937084,False
+BEAVERHEAD,Montana,MT,30001,2005,,,0,9217,945805,False
+BIG HORN,Montana,MT,30003,2005,,,0,12771,945805,False
+BLAINE,Montana,MT,30005,2005,,,0,6749,945805,False
+BROADWATER,Montana,MT,30007,2005,,,0,4995,945805,False
+CARBON,Montana,MT,30009,2005,,,0,9810,945805,False
+CARTER,Montana,MT,30011,2005,,,0,1258,945805,False
+CASCADE,Montana,MT,30013,2005,,,0,80841,945805,False
+CHOUTEAU,Montana,MT,30015,2005,,,0,5887,945805,False
+CUSTER,Montana,MT,30017,2005,,,0,11694,945805,False
+DANIELS,Montana,MT,30019,2005,,,0,1882,945805,False
+DAWSON,Montana,MT,30021,2005,,,0,9009,945805,False
+DEER LODGE,Montana,MT,30023,2005,,,0,9356,945805,False
+FALLON,Montana,MT,30025,2005,,,0,2865,945805,False
+FERGUS,Montana,MT,30027,2005,,,0,11750,945805,False
+FLATHEAD,Montana,MT,30029,2005,,,0,82717,945805,False
+GALLATIN,Montana,MT,30031,2005,,,0,78677,945805,False
+GARFIELD,Montana,MT,30033,2005,,,0,1244,945805,False
+GLACIER,Montana,MT,30035,2005,,,0,13320,945805,False
+GOLDEN VALLEY,Montana,MT,30037,2005,,,0,960,945805,False
+GRANITE,Montana,MT,30039,2005,,,0,2961,945805,False
+HILL,Montana,MT,30041,2005,,,0,16381,945805,False
+JEFFERSON,Montana,MT,30043,2005,,,0,10719,945805,False
+JUDITH BASIN,Montana,MT,30045,2005,,,0,2201,945805,False
+LAKE,Montana,MT,30047,2005,,,0,27612,945805,False
+LEWIS AND CLARK,Montana,MT,30049,2005,,,0,59556,945805,False
+LIBERTY,Montana,MT,30051,2005,,,0,2248,945805,False
+LINCOLN,Montana,MT,30053,2005,,,0,19250,945805,False
+MCCONE,Montana,MT,30055,2005,,,0,1851,945805,False
+MADISON,Montana,MT,30057,2005,,,0,7268,945805,False
+MEAGHER,Montana,MT,30059,2005,,,0,1908,945805,False
+MINERAL,Montana,MT,30061,2005,,,0,4051,945805,False
+MISSOULA,Montana,MT,30063,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,102548,945805,False
+MUSSELSHELL,Montana,MT,30065,2005,,,0,4517,945805,False
+PARK,Montana,MT,30067,2005,,,0,15664,945805,False
+PETROLEUM,Montana,MT,30069,2005,,,0,493,945805,False
+PHILLIPS,Montana,MT,30071,2005,,,0,4426,945805,False
+PONDERA,Montana,MT,30073,2005,,,0,6290,945805,False
+POWDER RIVER,Montana,MT,30075,2005,,,0,1798,945805,False
+POWELL,Montana,MT,30077,2005,,,0,7110,945805,False
+PRAIRIE,Montana,MT,30079,2005,,,0,1189,945805,False
+RAVALLI,Montana,MT,30081,2005,,,0,38153,945805,False
+RICHLAND,Montana,MT,30083,2005,,,0,9706,945805,False
+ROOSEVELT,Montana,MT,30085,2005,,,0,10527,945805,False
+ROSEBUD,Montana,MT,30087,2005,,,0,9314,945805,False
+SANDERS,Montana,MT,30089,2005,,,0,10828,945805,False
+SHERIDAN,Montana,MT,30091,2005,,,0,3745,945805,False
+SILVER BOW,Montana,MT,30093,2005,,,0,34415,945805,False
+STILLWATER,Montana,MT,30095,2005,,,0,8661,945805,False
+SWEET GRASS,Montana,MT,30097,2005,,,0,3626,945805,False
+TETON,Montana,MT,30099,2005,,,0,6259,945805,False
+TOOLE,Montana,MT,30101,2005,,,0,5290,945805,False
+TREASURE,Montana,MT,30103,2005,,,0,787,945805,False
+VALLEY,Montana,MT,30105,2005,,,0,7523,945805,False
+WHEATLAND,Montana,MT,30107,2005,,,0,2214,945805,False
+WIBAUX,Montana,MT,30109,2005,,,0,1042,945805,False
+YELLOWSTONE,Montana,MT,30111,2005,,,0,138667,945805,False
+BEAVERHEAD,Montana,MT,30001,2006,,,0,9222,954526,False
+BIG HORN,Montana,MT,30003,2006,,,0,12790,954526,False
+BLAINE,Montana,MT,30005,2006,,,0,6697,954526,False
+BROADWATER,Montana,MT,30007,2006,,,0,5118,954526,False
+CARBON,Montana,MT,30009,2006,,,0,9863,954526,False
+CARTER,Montana,MT,30011,2006,,,0,1238,954526,False
+CASCADE,Montana,MT,30013,2006,,,0,80938,954526,False
+CHOUTEAU,Montana,MT,30015,2006,,,0,5872,954526,False
+CUSTER,Montana,MT,30017,2006,,,0,11694,954526,False
+DANIELS,Montana,MT,30019,2006,,,0,1855,954526,False
+DAWSON,Montana,MT,30021,2006,,,0,8999,954526,False
+DEER LODGE,Montana,MT,30023,2006,,,0,9344,954526,False
+FALLON,Montana,MT,30025,2006,,,0,2871,954526,False
+FERGUS,Montana,MT,30027,2006,,,0,11719,954526,False
+FLATHEAD,Montana,MT,30029,2006,,,0,84359,954526,False
+GALLATIN,Montana,MT,30031,2006,,,0,80845,954526,False
+GARFIELD,Montana,MT,30033,2006,,,0,1237,954526,False
+GLACIER,Montana,MT,30035,2006,,,0,13336,954526,False
+GOLDEN VALLEY,Montana,MT,30037,2006,,,0,944,954526,False
+GRANITE,Montana,MT,30039,2006,,,0,2985,954526,False
+HILL,Montana,MT,30041,2006,,,0,16323,954526,False
+JEFFERSON,Montana,MT,30043,2006,,,0,10856,954526,False
+JUDITH BASIN,Montana,MT,30045,2006,,,0,2176,954526,False
+LAKE,Montana,MT,30047,2006,,,0,27838,954526,False
+LEWIS AND CLARK,Montana,MT,30049,2006,,,0,60324,954526,False
+LIBERTY,Montana,MT,30051,2006,,,0,2266,954526,False
+LINCOLN,Montana,MT,30053,2006,,,0,19336,954526,False
+MCCONE,Montana,MT,30055,2006,,,0,1827,954526,False
+MADISON,Montana,MT,30057,2006,,,0,7352,954526,False
+MEAGHER,Montana,MT,30059,2006,,,0,1904,954526,False
+MINERAL,Montana,MT,30061,2006,,,0,4087,954526,False
+MISSOULA,Montana,MT,30063,2006,,,0,103897,954526,False
+MUSSELSHELL,Montana,MT,30065,2006,,,0,4522,954526,False
+PARK,Montana,MT,30067,2006,,,0,15658,954526,False
+PETROLEUM,Montana,MT,30069,2006,,,0,493,954526,False
+PHILLIPS,Montana,MT,30071,2006,,,0,4391,954526,False
+PONDERA,Montana,MT,30073,2006,,,0,6263,954526,False
+POWDER RIVER,Montana,MT,30075,2006,,,0,1786,954526,False
+POWELL,Montana,MT,30077,2006,,,0,7095,954526,False
+PRAIRIE,Montana,MT,30079,2006,,,0,1187,954526,False
+RAVALLI,Montana,MT,30081,2006,,,0,38565,954526,False
+RICHLAND,Montana,MT,30083,2006,,,0,9714,954526,False
+ROOSEVELT,Montana,MT,30085,2006,,,0,10506,954526,False
+ROSEBUD,Montana,MT,30087,2006,,,0,9299,954526,False
+SANDERS,Montana,MT,30089,2006,,,0,10946,954526,False
+SHERIDAN,Montana,MT,30091,2006,,,0,3673,954526,False
+SILVER BOW,Montana,MT,30093,2006,,,0,34373,954526,False
+STILLWATER,Montana,MT,30095,2006,,,0,8749,954526,False
+SWEET GRASS,Montana,MT,30097,2006,,,0,3631,954526,False
+TETON,Montana,MT,30099,2006,,,0,6221,954526,False
+TOOLE,Montana,MT,30101,2006,,,0,5297,954526,False
+TREASURE,Montana,MT,30103,2006,,,0,773,954526,False
+VALLEY,Montana,MT,30105,2006,,,0,7493,954526,False
+WHEATLAND,Montana,MT,30107,2006,,,0,2205,954526,False
+WIBAUX,Montana,MT,30109,2006,,,0,1037,954526,False
+YELLOWSTONE,Montana,MT,30111,2006,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,10,140531,954526,False
+BEAVERHEAD,Montana,MT,30001,2007,,,0,9227,963247,False
+BIG HORN,Montana,MT,30003,2007,,,0,12809,963247,False
+BLAINE,Montana,MT,30005,2007,,,0,6645,963247,False
+BROADWATER,Montana,MT,30007,2007,,,0,5241,963247,False
+CARBON,Montana,MT,30009,2007,,,0,9916,963247,False
+CARTER,Montana,MT,30011,2007,,,0,1218,963247,False
+CASCADE,Montana,MT,30013,2007,,,0,81035,963247,False
+CHOUTEAU,Montana,MT,30015,2007,,,0,5857,963247,False
+CUSTER,Montana,MT,30017,2007,,,0,11694,963247,False
+DANIELS,Montana,MT,30019,2007,,,0,1828,963247,False
+DAWSON,Montana,MT,30021,2007,,,0,8989,963247,False
+DEER LODGE,Montana,MT,30023,2007,,,0,9332,963247,False
+FALLON,Montana,MT,30025,2007,,,0,2877,963247,False
+FERGUS,Montana,MT,30027,2007,,,0,11688,963247,False
+FLATHEAD,Montana,MT,30029,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,86001,963247,False
+GALLATIN,Montana,MT,30031,2007,,,0,83013,963247,False
+GARFIELD,Montana,MT,30033,2007,,,0,1230,963247,False
+GLACIER,Montana,MT,30035,2007,,,0,13352,963247,False
+GOLDEN VALLEY,Montana,MT,30037,2007,,,0,928,963247,False
+GRANITE,Montana,MT,30039,2007,,,0,3009,963247,False
+HILL,Montana,MT,30041,2007,,,0,16265,963247,False
+JEFFERSON,Montana,MT,30043,2007,,,0,10993,963247,False
+JUDITH BASIN,Montana,MT,30045,2007,,,0,2151,963247,False
+LAKE,Montana,MT,30047,2007,,,0,28064,963247,False
+LEWIS AND CLARK,Montana,MT,30049,2007,,,0,61092,963247,False
+LIBERTY,Montana,MT,30051,2007,,,0,2284,963247,False
+LINCOLN,Montana,MT,30053,2007,,,0,19422,963247,False
+MCCONE,Montana,MT,30055,2007,,,0,1803,963247,False
+MADISON,Montana,MT,30057,2007,,,0,7436,963247,False
+MEAGHER,Montana,MT,30059,2007,,,0,1900,963247,False
+MINERAL,Montana,MT,30061,2007,,,0,4123,963247,False
+MISSOULA,Montana,MT,30063,2007,,,0,105246,963247,False
+MUSSELSHELL,Montana,MT,30065,2007,,,0,4527,963247,False
+PARK,Montana,MT,30067,2007,,,0,15652,963247,False
+PETROLEUM,Montana,MT,30069,2007,,,0,493,963247,False
+PHILLIPS,Montana,MT,30071,2007,,,0,4356,963247,False
+PONDERA,Montana,MT,30073,2007,,,0,6236,963247,False
+POWDER RIVER,Montana,MT,30075,2007,,,0,1774,963247,False
+POWELL,Montana,MT,30077,2007,,,0,7080,963247,False
+PRAIRIE,Montana,MT,30079,2007,,,0,1185,963247,False
+RAVALLI,Montana,MT,30081,2007,,,0,38977,963247,False
+RICHLAND,Montana,MT,30083,2007,,,0,9722,963247,False
+ROOSEVELT,Montana,MT,30085,2007,,,0,10485,963247,False
+ROSEBUD,Montana,MT,30087,2007,,,0,9284,963247,False
+SANDERS,Montana,MT,30089,2007,,,0,11064,963247,False
+SHERIDAN,Montana,MT,30091,2007,,,0,3601,963247,False
+SILVER BOW,Montana,MT,30093,2007,,,0,34331,963247,False
+STILLWATER,Montana,MT,30095,2007,,,0,8837,963247,False
+SWEET GRASS,Montana,MT,30097,2007,,,0,3636,963247,False
+TETON,Montana,MT,30099,2007,,,0,6183,963247,False
+TOOLE,Montana,MT,30101,2007,,,0,5304,963247,False
+TREASURE,Montana,MT,30103,2007,,,0,759,963247,False
+VALLEY,Montana,MT,30105,2007,,,0,7463,963247,False
+WHEATLAND,Montana,MT,30107,2007,,,0,2196,963247,False
+WIBAUX,Montana,MT,30109,2007,,,0,1032,963247,False
+YELLOWSTONE,Montana,MT,30111,2007,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,10,142395,963247,False
+BEAVERHEAD,Montana,MT,30001,2008,,,0,9232,971968,False
+BIG HORN,Montana,MT,30003,2008,,,0,12828,971968,False
+BLAINE,Montana,MT,30005,2008,,,0,6593,971968,False
+BROADWATER,Montana,MT,30007,2008,,,0,5364,971968,False
+CARBON,Montana,MT,30009,2008,,,0,9969,971968,False
+CARTER,Montana,MT,30011,2008,,,0,1198,971968,False
+CASCADE,Montana,MT,30013,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,81132,971968,False
+CHOUTEAU,Montana,MT,30015,2008,,,0,5842,971968,False
+CUSTER,Montana,MT,30017,2008,,,0,11694,971968,False
+DANIELS,Montana,MT,30019,2008,,,0,1801,971968,False
+DAWSON,Montana,MT,30021,2008,,,0,8979,971968,False
+DEER LODGE,Montana,MT,30023,2008,,,0,9320,971968,False
+FALLON,Montana,MT,30025,2008,,,0,2883,971968,False
+FERGUS,Montana,MT,30027,2008,,,0,11657,971968,False
+FLATHEAD,Montana,MT,30029,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,87643,971968,False
+GALLATIN,Montana,MT,30031,2008,,,0,85181,971968,False
+GARFIELD,Montana,MT,30033,2008,,,0,1223,971968,False
+GLACIER,Montana,MT,30035,2008,,,0,13368,971968,False
+GOLDEN VALLEY,Montana,MT,30037,2008,,,0,912,971968,False
+GRANITE,Montana,MT,30039,2008,,,0,3033,971968,False
+HILL,Montana,MT,30041,2008,,,0,16207,971968,False
+JEFFERSON,Montana,MT,30043,2008,,,0,11130,971968,False
+JUDITH BASIN,Montana,MT,30045,2008,,,0,2126,971968,False
+LAKE,Montana,MT,30047,2008,,,0,28290,971968,False
+LEWIS AND CLARK,Montana,MT,30049,2008,,,0,61860,971968,False
+LIBERTY,Montana,MT,30051,2008,,,0,2302,971968,False
+LINCOLN,Montana,MT,30053,2008,,,0,19508,971968,False
+MCCONE,Montana,MT,30055,2008,,,0,1779,971968,False
+MADISON,Montana,MT,30057,2008,,,0,7520,971968,False
+MEAGHER,Montana,MT,30059,2008,,,0,1896,971968,False
+MINERAL,Montana,MT,30061,2008,,,0,4159,971968,False
+MISSOULA,Montana,MT,30063,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,106595,971968,False
+MUSSELSHELL,Montana,MT,30065,2008,,,0,4532,971968,False
+PARK,Montana,MT,30067,2008,,,0,15646,971968,False
+PETROLEUM,Montana,MT,30069,2008,,,0,493,971968,False
+PHILLIPS,Montana,MT,30071,2008,,,0,4321,971968,False
+PONDERA,Montana,MT,30073,2008,,,0,6209,971968,False
+POWDER RIVER,Montana,MT,30075,2008,,,0,1762,971968,False
+POWELL,Montana,MT,30077,2008,,,0,7065,971968,False
+PRAIRIE,Montana,MT,30079,2008,,,0,1183,971968,False
+RAVALLI,Montana,MT,30081,2008,,,0,39389,971968,False
+RICHLAND,Montana,MT,30083,2008,,,0,9730,971968,False
+ROOSEVELT,Montana,MT,30085,2008,,,0,10464,971968,False
+ROSEBUD,Montana,MT,30087,2008,,,0,9269,971968,False
+SANDERS,Montana,MT,30089,2008,,,0,11182,971968,False
+SHERIDAN,Montana,MT,30091,2008,,,0,3529,971968,False
+SILVER BOW,Montana,MT,30093,2008,,,0,34289,971968,False
+STILLWATER,Montana,MT,30095,2008,,,0,8925,971968,False
+SWEET GRASS,Montana,MT,30097,2008,,,0,3641,971968,False
+TETON,Montana,MT,30099,2008,,,0,6145,971968,False
+TOOLE,Montana,MT,30101,2008,,,0,5311,971968,False
+TREASURE,Montana,MT,30103,2008,,,0,745,971968,False
+VALLEY,Montana,MT,30105,2008,,,0,7433,971968,False
+WHEATLAND,Montana,MT,30107,2008,,,0,2187,971968,False
+WIBAUX,Montana,MT,30109,2008,,,0,1027,971968,False
+YELLOWSTONE,Montana,MT,30111,2008,,,0,144259,971968,False
+BEAVERHEAD,Montana,MT,30001,2009,,,0,9237,980689,False
+BIG HORN,Montana,MT,30003,2009,,,0,12847,980689,False
+BLAINE,Montana,MT,30005,2009,,,0,6541,980689,False
+BROADWATER,Montana,MT,30007,2009,,,0,5487,980689,False
+CARBON,Montana,MT,30009,2009,,,0,10022,980689,False
+CARTER,Montana,MT,30011,2009,,,0,1178,980689,False
+CASCADE,Montana,MT,30013,2009,,,0,81229,980689,False
+CHOUTEAU,Montana,MT,30015,2009,,,0,5827,980689,False
+CUSTER,Montana,MT,30017,2009,,,0,11694,980689,False
+DANIELS,Montana,MT,30019,2009,,,0,1774,980689,False
+DAWSON,Montana,MT,30021,2009,,,0,8969,980689,False
+DEER LODGE,Montana,MT,30023,2009,,,0,9308,980689,False
+FALLON,Montana,MT,30025,2009,,,0,2889,980689,False
+FERGUS,Montana,MT,30027,2009,,,0,11626,980689,False
+FLATHEAD,Montana,MT,30029,2009,,,0,89285,980689,False
+GALLATIN,Montana,MT,30031,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,87349,980689,False
+GARFIELD,Montana,MT,30033,2009,,,0,1216,980689,False
+GLACIER,Montana,MT,30035,2009,,,0,13384,980689,False
+GOLDEN VALLEY,Montana,MT,30037,2009,,,0,896,980689,False
+GRANITE,Montana,MT,30039,2009,,,0,3057,980689,False
+HILL,Montana,MT,30041,2009,,,0,16149,980689,False
+JEFFERSON,Montana,MT,30043,2009,,,0,11267,980689,False
+JUDITH BASIN,Montana,MT,30045,2009,,,0,2101,980689,False
+LAKE,Montana,MT,30047,2009,,,0,28516,980689,False
+LEWIS AND CLARK,Montana,MT,30049,2009,,,0,62628,980689,False
+LIBERTY,Montana,MT,30051,2009,,,0,2320,980689,False
+LINCOLN,Montana,MT,30053,2009,,,0,19594,980689,False
+MCCONE,Montana,MT,30055,2009,,,0,1755,980689,False
+MADISON,Montana,MT,30057,2009,,,0,7604,980689,False
+MEAGHER,Montana,MT,30059,2009,,,0,1892,980689,False
+MINERAL,Montana,MT,30061,2009,,,0,4195,980689,False
+MISSOULA,Montana,MT,30063,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,107944,980689,False
+MUSSELSHELL,Montana,MT,30065,2009,,,0,4537,980689,False
+PARK,Montana,MT,30067,2009,,,0,15640,980689,False
+PETROLEUM,Montana,MT,30069,2009,,,0,493,980689,False
+PHILLIPS,Montana,MT,30071,2009,,,0,4286,980689,False
+PONDERA,Montana,MT,30073,2009,,,0,6182,980689,False
+POWDER RIVER,Montana,MT,30075,2009,,,0,1750,980689,False
+POWELL,Montana,MT,30077,2009,,,0,7050,980689,False
+PRAIRIE,Montana,MT,30079,2009,,,0,1181,980689,False
+RAVALLI,Montana,MT,30081,2009,,,0,39801,980689,False
+RICHLAND,Montana,MT,30083,2009,,,0,9738,980689,False
+ROOSEVELT,Montana,MT,30085,2009,,,0,10443,980689,False
+ROSEBUD,Montana,MT,30087,2009,,,0,9254,980689,False
+SANDERS,Montana,MT,30089,2009,,,0,11300,980689,False
+SHERIDAN,Montana,MT,30091,2009,,,0,3457,980689,False
+SILVER BOW,Montana,MT,30093,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,34247,980689,False
+STILLWATER,Montana,MT,30095,2009,,,0,9013,980689,False
+SWEET GRASS,Montana,MT,30097,2009,,,0,3646,980689,False
+TETON,Montana,MT,30099,2009,,,0,6107,980689,False
+TOOLE,Montana,MT,30101,2009,,,0,5318,980689,False
+TREASURE,Montana,MT,30103,2009,,,0,731,980689,False
+VALLEY,Montana,MT,30105,2009,,,0,7403,980689,False
+WHEATLAND,Montana,MT,30107,2009,,,0,2178,980689,False
+WIBAUX,Montana,MT,30109,2009,,,0,1022,980689,False
+YELLOWSTONE,Montana,MT,30111,2009,,,0,146123,980689,False
+BEAVERHEAD,Montana,MT,30001,2010,,,0,9246,989409,False
+BIG HORN,Montana,MT,30003,2010,,,0,12865,989409,False
+BLAINE,Montana,MT,30005,2010,,,0,6491,989409,False
+BROADWATER,Montana,MT,30007,2010,,,0,5607,989409,False
+CARBON,Montana,MT,30009,2010,,,0,10078,989409,False
+CARTER,Montana,MT,30011,2010,,,0,1160,989409,False
+CASCADE,Montana,MT,30013,2010,,,0,81323,989409,False
+CHOUTEAU,Montana,MT,30015,2010,,,0,5813,989409,False
+CUSTER,Montana,MT,30017,2010,,,0,11699,989409,False
+DANIELS,Montana,MT,30019,2010,,,0,1751,989409,False
+DAWSON,Montana,MT,30021,2010,,,0,8963,989409,False
+DEER LODGE,Montana,MT,30023,2010,,,0,9292,989409,False
+FALLON,Montana,MT,30025,2010,,,0,2890,989409,False
+FERGUS,Montana,MT,30027,2010,,,0,11593,989409,False
+FLATHEAD,Montana,MT,30029,2010,,,0,90927,989409,False
+GALLATIN,Montana,MT,30031,2010,,,0,89513,989409,False
+GARFIELD,Montana,MT,30033,2010,,,0,1209,989409,False
+GLACIER,Montana,MT,30035,2010,,,0,13399,989409,False
+GOLDEN VALLEY,Montana,MT,30037,2010,,,0,884,989409,False
+GRANITE,Montana,MT,30039,2010,,,0,3079,989409,False
+HILL,Montana,MT,30041,2010,,,0,16096,989409,False
+JEFFERSON,Montana,MT,30043,2010,,,0,11403,989409,False
+JUDITH BASIN,Montana,MT,30045,2010,,,0,2072,989409,False
+LAKE,Montana,MT,30047,2010,,,0,28746,989409,False
+LEWIS AND CLARK,Montana,MT,30049,2010,,,0,63395,989409,False
+LIBERTY,Montana,MT,30051,2010,,,0,2339,989409,False
+LINCOLN,Montana,MT,30053,2010,,,0,19683,989409,False
+MCCONE,Montana,MT,30055,2010,,,0,1734,989409,False
+MADISON,Montana,MT,30057,2010,,,0,7691,989409,False
+MEAGHER,Montana,MT,30059,2010,,,0,1891,989409,False
+MINERAL,Montana,MT,30061,2010,,,0,4226,989409,False
+MISSOULA,Montana,MT,30063,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,109296,989409,False
+MUSSELSHELL,Montana,MT,30065,2010,,,0,4538,989409,False
+PARK,Montana,MT,30067,2010,,,0,15636,989409,False
+PETROLEUM,Montana,MT,30069,2010,,,0,488,989409,False
+PHILLIPS,Montana,MT,30071,2010,,,0,4252,989409,False
+PONDERA,Montana,MT,30073,2010,,,0,6155,989409,False
+POWDER RIVER,Montana,MT,30075,2010,,,0,1743,989409,False
+POWELL,Montana,MT,30077,2010,,,0,7034,989409,False
+PRAIRIE,Montana,MT,30079,2010,,,0,1179,989409,False
+RAVALLI,Montana,MT,30081,2010,,,0,40212,989409,False
+RICHLAND,Montana,MT,30083,2010,,,0,9746,989409,False
+ROOSEVELT,Montana,MT,30085,2010,,,0,10425,989409,False
+ROSEBUD,Montana,MT,30087,2010,,,0,9235,989409,False
+SANDERS,Montana,MT,30089,2010,,,0,11413,989409,False
+SHERIDAN,Montana,MT,30091,2010,,,0,3384,989409,False
+SILVER BOW,Montana,MT,30093,2010,,,0,34209,989409,False
+STILLWATER,Montana,MT,30095,2010,,,0,9105,989409,False
+SWEET GRASS,Montana,MT,30097,2010,,,0,3652,989409,False
+TETON,Montana,MT,30099,2010,,,0,6071,989409,False
+TOOLE,Montana,MT,30101,2010,,,0,5324,989409,False
+TREASURE,Montana,MT,30103,2010,,,0,718,989409,False
+VALLEY,Montana,MT,30105,2010,,,0,7369,989409,False
+WHEATLAND,Montana,MT,30107,2010,,,0,2168,989409,False
+WIBAUX,Montana,MT,30109,2010,,,0,1017,989409,False
+YELLOWSTONE,Montana,MT,30111,2010,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,14,147982,989409,False
+BEAVERHEAD,Montana,MT,30001,2011,,,0,9266,998521,False
+BIG HORN,Montana,MT,30003,2011,,,0,12924,998521,False
+BLAINE,Montana,MT,30005,2011,,,0,6531,998521,False
+BROADWATER,Montana,MT,30007,2011,,,0,5667,998521,False
+CARBON,Montana,MT,30009,2011,,,0,10158,998521,False
+CARTER,Montana,MT,30011,2011,,,0,1170,998521,False
+CASCADE,Montana,MT,30013,2011,,,0,81363,998521,False
+CHOUTEAU,Montana,MT,30015,2011,,,0,5805,998521,False
+CUSTER,Montana,MT,30017,2011,,,0,11685,998521,False
+DANIELS,Montana,MT,30019,2011,,,0,1751,998521,False
+DAWSON,Montana,MT,30021,2011,,,0,8928,998521,False
+DEER LODGE,Montana,MT,30023,2011,,,0,9272,998521,False
+FALLON,Montana,MT,30025,2011,,,0,2894,998521,False
+FERGUS,Montana,MT,30027,2011,,,0,11533,998521,False
+FLATHEAD,Montana,MT,30029,2011,,,0,92324,998521,False
+GALLATIN,Montana,MT,30031,2011,,,0,92308,998521,False
+GARFIELD,Montana,MT,30033,2011,,,0,1216,998521,False
+GLACIER,Montana,MT,30035,2011,,,0,13443,998521,False
+GOLDEN VALLEY,Montana,MT,30037,2011,,,0,877,998521,False
+GRANITE,Montana,MT,30039,2011,,,0,3116,998521,False
+HILL,Montana,MT,30041,2011,,,0,16127,998521,False
+JEFFERSON,Montana,MT,30043,2011,,,0,11490,998521,False
+JUDITH BASIN,Montana,MT,30045,2011,,,0,2057,998521,False
+LAKE,Montana,MT,30047,2011,,,0,28934,998521,False
+LEWIS AND CLARK,Montana,MT,30049,2011,,,0,64058,998521,False
+LIBERTY,Montana,MT,30051,2011,,,0,2350,998521,False
+LINCOLN,Montana,MT,30053,2011,,,0,19697,998521,False
+MCCONE,Montana,MT,30055,2011,,,0,1727,998521,False
+MADISON,Montana,MT,30057,2011,,,0,7826,998521,False
+MEAGHER,Montana,MT,30059,2011,,,0,1888,998521,False
+MINERAL,Montana,MT,30061,2011,,,0,4237,998521,False
+MISSOULA,Montana,MT,30063,2011,,,0,110483,998521,False
+MUSSELSHELL,Montana,MT,30065,2011,,,0,4552,998521,False
+PARK,Montana,MT,30067,2011,,,0,15774,998521,False
+PETROLEUM,Montana,MT,30069,2011,,,0,491,998521,False
+PHILLIPS,Montana,MT,30071,2011,,,0,4230,998521,False
+PONDERA,Montana,MT,30073,2011,,,0,6132,998521,False
+POWDER RIVER,Montana,MT,30075,2011,,,0,1740,998521,False
+POWELL,Montana,MT,30077,2011,,,0,7026,998521,False
+PRAIRIE,Montana,MT,30079,2011,,,0,1167,998521,False
+RAVALLI,Montana,MT,30081,2011,,,0,40582,998521,False
+RICHLAND,Montana,MT,30083,2011,,,0,9892,998521,False
+ROOSEVELT,Montana,MT,30085,2011,,,0,10504,998521,False
+ROSEBUD,Montana,MT,30087,2011,,,0,9213,998521,False
+SANDERS,Montana,MT,30089,2011,,,0,11467,998521,False
+SHERIDAN,Montana,MT,30091,2011,,,0,3389,998521,False
+SILVER BOW,Montana,MT,30093,2011,,,0,34307,998521,False
+STILLWATER,Montana,MT,30095,2011,,,0,9159,998521,False
+SWEET GRASS,Montana,MT,30097,2011,,,0,3659,998521,False
+TETON,Montana,MT,30099,2011,,,0,6082,998521,False
+TOOLE,Montana,MT,30101,2011,,,0,5265,998521,False
+TREASURE,Montana,MT,30103,2011,,,0,713,998521,False
+VALLEY,Montana,MT,30105,2011,,,0,7377,998521,False
+WHEATLAND,Montana,MT,30107,2011,,,0,2176,998521,False
+WIBAUX,Montana,MT,30109,2011,,,0,1019,998521,False
+YELLOWSTONE,Montana,MT,30111,2011,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,15,149501,998521,False
+BEAVERHEAD,Montana,MT,30001,2012,,,0,9286,1007633,False
+BIG HORN,Montana,MT,30003,2012,,,0,12983,1007633,False
+BLAINE,Montana,MT,30005,2012,,,0,6571,1007633,False
+BROADWATER,Montana,MT,30007,2012,,,0,5727,1007633,False
+CARBON,Montana,MT,30009,2012,,,0,10238,1007633,False
+CARTER,Montana,MT,30011,2012,,,0,1180,1007633,False
+CASCADE,Montana,MT,30013,2012,,,0,81403,1007633,False
+CHOUTEAU,Montana,MT,30015,2012,,,0,5797,1007633,False
+CUSTER,Montana,MT,30017,2012,,,0,11671,1007633,False
+DANIELS,Montana,MT,30019,2012,,,0,1751,1007633,False
+DAWSON,Montana,MT,30021,2012,,,0,8893,1007633,False
+DEER LODGE,Montana,MT,30023,2012,,,0,9252,1007633,False
+FALLON,Montana,MT,30025,2012,,,0,2898,1007633,False
+FERGUS,Montana,MT,30027,2012,,,0,11473,1007633,False
+FLATHEAD,Montana,MT,30029,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,93721,1007633,False
+GALLATIN,Montana,MT,30031,2012,,,0,95103,1007633,False
+GARFIELD,Montana,MT,30033,2012,,,0,1223,1007633,False
+GLACIER,Montana,MT,30035,2012,,,0,13487,1007633,False
+GOLDEN VALLEY,Montana,MT,30037,2012,,,0,870,1007633,False
+GRANITE,Montana,MT,30039,2012,,,0,3153,1007633,False
+HILL,Montana,MT,30041,2012,,,0,16158,1007633,False
+JEFFERSON,Montana,MT,30043,2012,,,0,11577,1007633,False
+JUDITH BASIN,Montana,MT,30045,2012,,,0,2042,1007633,False
+LAKE,Montana,MT,30047,2012,,,0,29122,1007633,False
+LEWIS AND CLARK,Montana,MT,30049,2012,,,0,64721,1007633,False
+LIBERTY,Montana,MT,30051,2012,,,0,2361,1007633,False
+LINCOLN,Montana,MT,30053,2012,,,0,19711,1007633,False
+MCCONE,Montana,MT,30055,2012,,,0,1720,1007633,False
+MADISON,Montana,MT,30057,2012,,,0,7961,1007633,False
+MEAGHER,Montana,MT,30059,2012,,,0,1885,1007633,False
+MINERAL,Montana,MT,30061,2012,,,0,4248,1007633,False
+MISSOULA,Montana,MT,30063,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,111670,1007633,False
+MUSSELSHELL,Montana,MT,30065,2012,,,0,4566,1007633,False
+PARK,Montana,MT,30067,2012,,,0,15912,1007633,False
+PETROLEUM,Montana,MT,30069,2012,,,0,494,1007633,False
+PHILLIPS,Montana,MT,30071,2012,,,0,4208,1007633,False
+PONDERA,Montana,MT,30073,2012,,,0,6109,1007633,False
+POWDER RIVER,Montana,MT,30075,2012,,,0,1737,1007633,False
+POWELL,Montana,MT,30077,2012,,,0,7018,1007633,False
+PRAIRIE,Montana,MT,30079,2012,,,0,1155,1007633,False
+RAVALLI,Montana,MT,30081,2012,,,0,40952,1007633,False
+RICHLAND,Montana,MT,30083,2012,,,0,10038,1007633,False
+ROOSEVELT,Montana,MT,30085,2012,,,0,10583,1007633,False
+ROSEBUD,Montana,MT,30087,2012,,,0,9191,1007633,False
+SANDERS,Montana,MT,30089,2012,,,0,11521,1007633,False
+SHERIDAN,Montana,MT,30091,2012,,,0,3394,1007633,False
+SILVER BOW,Montana,MT,30093,2012,,,0,34405,1007633,False
+STILLWATER,Montana,MT,30095,2012,,,0,9213,1007633,False
+SWEET GRASS,Montana,MT,30097,2012,,,0,3666,1007633,False
+TETON,Montana,MT,30099,2012,,,0,6093,1007633,False
+TOOLE,Montana,MT,30101,2012,,,0,5206,1007633,False
+TREASURE,Montana,MT,30103,2012,,,0,708,1007633,False
+VALLEY,Montana,MT,30105,2012,,,0,7385,1007633,False
+WHEATLAND,Montana,MT,30107,2012,,,0,2184,1007633,False
+WIBAUX,Montana,MT,30109,2012,,,0,1021,1007633,False
+YELLOWSTONE,Montana,MT,30111,2012,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,10,151020,1007633,False
+BEAVERHEAD,Montana,MT,30001,2013,,,0,9306,1016745,False
+BIG HORN,Montana,MT,30003,2013,,,0,13042,1016745,False
+BLAINE,Montana,MT,30005,2013,,,0,6611,1016745,False
+BROADWATER,Montana,MT,30007,2013,,,0,5787,1016745,False
+CARBON,Montana,MT,30009,2013,,,0,10318,1016745,False
+CARTER,Montana,MT,30011,2013,,,0,1190,1016745,False
+CASCADE,Montana,MT,30013,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,81443,1016745,False
+CHOUTEAU,Montana,MT,30015,2013,,,0,5789,1016745,False
+CUSTER,Montana,MT,30017,2013,,,0,11657,1016745,False
+DANIELS,Montana,MT,30019,2013,,,0,1751,1016745,False
+DAWSON,Montana,MT,30021,2013,,,0,8858,1016745,False
+DEER LODGE,Montana,MT,30023,2013,,,0,9232,1016745,False
+FALLON,Montana,MT,30025,2013,,,0,2902,1016745,False
+FERGUS,Montana,MT,30027,2013,,,0,11413,1016745,False
+FLATHEAD,Montana,MT,30029,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,95118,1016745,False
+GALLATIN,Montana,MT,30031,2013,,,0,97898,1016745,False
+GARFIELD,Montana,MT,30033,2013,,,0,1230,1016745,False
+GLACIER,Montana,MT,30035,2013,,,0,13531,1016745,False
+GOLDEN VALLEY,Montana,MT,30037,2013,,,0,863,1016745,False
+GRANITE,Montana,MT,30039,2013,,,0,3190,1016745,False
+HILL,Montana,MT,30041,2013,,,0,16189,1016745,False
+JEFFERSON,Montana,MT,30043,2013,,,0,11664,1016745,False
+JUDITH BASIN,Montana,MT,30045,2013,,,0,2027,1016745,False
+LAKE,Montana,MT,30047,2013,,,0,29310,1016745,False
+LEWIS AND CLARK,Montana,MT,30049,2013,,,0,65384,1016745,False
+LIBERTY,Montana,MT,30051,2013,,,0,2372,1016745,False
+LINCOLN,Montana,MT,30053,2013,,,0,19725,1016745,False
+MCCONE,Montana,MT,30055,2013,,,0,1713,1016745,False
+MADISON,Montana,MT,30057,2013,,,0,8096,1016745,False
+MEAGHER,Montana,MT,30059,2013,,,0,1882,1016745,False
+MINERAL,Montana,MT,30061,2013,,,0,4259,1016745,False
+MISSOULA,Montana,MT,30063,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,112857,1016745,False
+MUSSELSHELL,Montana,MT,30065,2013,,,0,4580,1016745,False
+PARK,Montana,MT,30067,2013,,,0,16050,1016745,False
+PETROLEUM,Montana,MT,30069,2013,,,0,497,1016745,False
+PHILLIPS,Montana,MT,30071,2013,,,0,4186,1016745,False
+PONDERA,Montana,MT,30073,2013,,,0,6086,1016745,False
+POWDER RIVER,Montana,MT,30075,2013,,,0,1734,1016745,False
+POWELL,Montana,MT,30077,2013,,,0,7010,1016745,False
+PRAIRIE,Montana,MT,30079,2013,,,0,1143,1016745,False
+RAVALLI,Montana,MT,30081,2013,,,0,41322,1016745,False
+RICHLAND,Montana,MT,30083,2013,,,0,10184,1016745,False
+ROOSEVELT,Montana,MT,30085,2013,,,0,10662,1016745,False
+ROSEBUD,Montana,MT,30087,2013,,,0,9169,1016745,False
+SANDERS,Montana,MT,30089,2013,,,0,11575,1016745,False
+SHERIDAN,Montana,MT,30091,2013,,,0,3399,1016745,False
+SILVER BOW,Montana,MT,30093,2013,,,0,34503,1016745,False
+STILLWATER,Montana,MT,30095,2013,,,0,9267,1016745,False
+SWEET GRASS,Montana,MT,30097,2013,,,0,3673,1016745,False
+TETON,Montana,MT,30099,2013,,,0,6104,1016745,False
+TOOLE,Montana,MT,30101,2013,,,0,5147,1016745,False
+TREASURE,Montana,MT,30103,2013,,,0,703,1016745,False
+VALLEY,Montana,MT,30105,2013,,,0,7393,1016745,False
+WHEATLAND,Montana,MT,30107,2013,,,0,2192,1016745,False
+WIBAUX,Montana,MT,30109,2013,,,0,1023,1016745,False
+YELLOWSTONE,Montana,MT,30111,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,10,152539,1016745,False
+YELLOWSTONE,Montana,MT,30111,2013,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,14,152539,1016745,False
+BEAVERHEAD,Montana,MT,30001,2014,,,0,9326,1025857,False
+BIG HORN,Montana,MT,30003,2014,,,0,13101,1025857,False
+BLAINE,Montana,MT,30005,2014,,,0,6651,1025857,False
+BROADWATER,Montana,MT,30007,2014,,,0,5847,1025857,False
+CARBON,Montana,MT,30009,2014,,,0,10398,1025857,False
+CARTER,Montana,MT,30011,2014,,,0,1200,1025857,False
+CASCADE,Montana,MT,30013,2014,,,0,81483,1025857,False
+CHOUTEAU,Montana,MT,30015,2014,,,0,5781,1025857,False
+CUSTER,Montana,MT,30017,2014,,,0,11643,1025857,False
+DANIELS,Montana,MT,30019,2014,,,0,1751,1025857,False
+DAWSON,Montana,MT,30021,2014,,,0,8823,1025857,False
+DEER LODGE,Montana,MT,30023,2014,,,0,9212,1025857,False
+FALLON,Montana,MT,30025,2014,,,0,2906,1025857,False
+FERGUS,Montana,MT,30027,2014,,,0,11353,1025857,False
+FLATHEAD,Montana,MT,30029,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,96515,1025857,False
+GALLATIN,Montana,MT,30031,2014,,,0,100693,1025857,False
+GARFIELD,Montana,MT,30033,2014,,,0,1237,1025857,False
+GLACIER,Montana,MT,30035,2014,,,0,13575,1025857,False
+GOLDEN VALLEY,Montana,MT,30037,2014,,,0,856,1025857,False
+GRANITE,Montana,MT,30039,2014,,,0,3227,1025857,False
+HILL,Montana,MT,30041,2014,,,0,16220,1025857,False
+JEFFERSON,Montana,MT,30043,2014,,,0,11751,1025857,False
+JUDITH BASIN,Montana,MT,30045,2014,,,0,2012,1025857,False
+LAKE,Montana,MT,30047,2014,,,0,29498,1025857,False
+LEWIS AND CLARK,Montana,MT,30049,2014,,,0,66047,1025857,False
+LIBERTY,Montana,MT,30051,2014,,,0,2383,1025857,False
+LINCOLN,Montana,MT,30053,2014,,,0,19739,1025857,False
+MCCONE,Montana,MT,30055,2014,,,0,1706,1025857,False
+MADISON,Montana,MT,30057,2014,,,0,8231,1025857,False
+MEAGHER,Montana,MT,30059,2014,,,0,1879,1025857,False
+MINERAL,Montana,MT,30061,2014,,,0,4270,1025857,False
+MISSOULA,Montana,MT,30063,2014,,,0,114044,1025857,False
+MUSSELSHELL,Montana,MT,30065,2014,,,0,4594,1025857,False
+PARK,Montana,MT,30067,2014,,,0,16188,1025857,False
+PETROLEUM,Montana,MT,30069,2014,,,0,500,1025857,False
+PHILLIPS,Montana,MT,30071,2014,,,0,4164,1025857,False
+PONDERA,Montana,MT,30073,2014,,,0,6063,1025857,False
+POWDER RIVER,Montana,MT,30075,2014,,,0,1731,1025857,False
+POWELL,Montana,MT,30077,2014,,,0,7002,1025857,False
+PRAIRIE,Montana,MT,30079,2014,,,0,1131,1025857,False
+RAVALLI,Montana,MT,30081,2014,,,0,41692,1025857,False
+RICHLAND,Montana,MT,30083,2014,,,0,10330,1025857,False
+ROOSEVELT,Montana,MT,30085,2014,,,0,10741,1025857,False
+ROSEBUD,Montana,MT,30087,2014,,,0,9147,1025857,False
+SANDERS,Montana,MT,30089,2014,,,0,11629,1025857,False
+SHERIDAN,Montana,MT,30091,2014,,,0,3404,1025857,False
+SILVER BOW,Montana,MT,30093,2014,,,0,34601,1025857,False
+STILLWATER,Montana,MT,30095,2014,,,0,9321,1025857,False
+SWEET GRASS,Montana,MT,30097,2014,,,0,3680,1025857,False
+TETON,Montana,MT,30099,2014,,,0,6115,1025857,False
+TOOLE,Montana,MT,30101,2014,,,0,5088,1025857,False
+TREASURE,Montana,MT,30103,2014,,,0,698,1025857,False
+VALLEY,Montana,MT,30105,2014,,,0,7401,1025857,False
+WHEATLAND,Montana,MT,30107,2014,,,0,2200,1025857,False
+WIBAUX,Montana,MT,30109,2014,,,0,1025,1025857,False
+YELLOWSTONE,Montana,MT,30111,2014,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,14,154058,1025857,False
+BEAVERHEAD,Montana,MT,30001,2015,,,0,9346,1034969,False
+BIG HORN,Montana,MT,30003,2015,,,0,13160,1034969,False
+BLAINE,Montana,MT,30005,2015,,,0,6691,1034969,False
+BROADWATER,Montana,MT,30007,2015,,,0,5907,1034969,False
+CARBON,Montana,MT,30009,2015,,,0,10478,1034969,False
+CARTER,Montana,MT,30011,2015,,,0,1210,1034969,False
+CASCADE,Montana,MT,30013,2015,,,0,81523,1034969,False
+CHOUTEAU,Montana,MT,30015,2015,,,0,5773,1034969,False
+CUSTER,Montana,MT,30017,2015,,,0,11629,1034969,False
+DANIELS,Montana,MT,30019,2015,,,0,1751,1034969,False
+DAWSON,Montana,MT,30021,2015,,,0,8788,1034969,False
+DEER LODGE,Montana,MT,30023,2015,,,0,9192,1034969,False
+FALLON,Montana,MT,30025,2015,,,0,2910,1034969,False
+FERGUS,Montana,MT,30027,2015,,,0,11293,1034969,False
+FLATHEAD,Montana,MT,30029,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,97912,1034969,False
+GALLATIN,Montana,MT,30031,2015,,,0,103488,1034969,False
+GARFIELD,Montana,MT,30033,2015,,,0,1244,1034969,False
+GLACIER,Montana,MT,30035,2015,,,0,13619,1034969,False
+GOLDEN VALLEY,Montana,MT,30037,2015,,,0,849,1034969,False
+GRANITE,Montana,MT,30039,2015,,,0,3264,1034969,False
+HILL,Montana,MT,30041,2015,,,0,16251,1034969,False
+JEFFERSON,Montana,MT,30043,2015,,,0,11838,1034969,False
+JUDITH BASIN,Montana,MT,30045,2015,,,0,1997,1034969,False
+LAKE,Montana,MT,30047,2015,,,0,29686,1034969,False
+LEWIS AND CLARK,Montana,MT,30049,2015,,,0,66710,1034969,False
+LIBERTY,Montana,MT,30051,2015,,,0,2394,1034969,False
+LINCOLN,Montana,MT,30053,2015,,,0,19753,1034969,False
+MCCONE,Montana,MT,30055,2015,,,0,1699,1034969,False
+MADISON,Montana,MT,30057,2015,,,0,8366,1034969,False
+MEAGHER,Montana,MT,30059,2015,,,0,1876,1034969,False
+MINERAL,Montana,MT,30061,2015,,,0,4281,1034969,False
+MISSOULA,Montana,MT,30063,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,115231,1034969,False
+MUSSELSHELL,Montana,MT,30065,2015,,,0,4608,1034969,False
+PARK,Montana,MT,30067,2015,,,0,16326,1034969,False
+PETROLEUM,Montana,MT,30069,2015,,,0,503,1034969,False
+PHILLIPS,Montana,MT,30071,2015,,,0,4142,1034969,False
+PONDERA,Montana,MT,30073,2015,,,0,6040,1034969,False
+POWDER RIVER,Montana,MT,30075,2015,,,0,1728,1034969,False
+POWELL,Montana,MT,30077,2015,,,0,6994,1034969,False
+PRAIRIE,Montana,MT,30079,2015,,,0,1119,1034969,False
+RAVALLI,Montana,MT,30081,2015,,,0,42062,1034969,False
+RICHLAND,Montana,MT,30083,2015,,,0,10476,1034969,False
+ROOSEVELT,Montana,MT,30085,2015,,,0,10820,1034969,False
+ROSEBUD,Montana,MT,30087,2015,,,0,9125,1034969,False
+SANDERS,Montana,MT,30089,2015,,,0,11683,1034969,False
+SHERIDAN,Montana,MT,30091,2015,,,0,3409,1034969,False
+SILVER BOW,Montana,MT,30093,2015,,,0,34699,1034969,False
+STILLWATER,Montana,MT,30095,2015,,,0,9375,1034969,False
+SWEET GRASS,Montana,MT,30097,2015,,,0,3687,1034969,False
+TETON,Montana,MT,30099,2015,,,0,6126,1034969,False
+TOOLE,Montana,MT,30101,2015,,,0,5029,1034969,False
+TREASURE,Montana,MT,30103,2015,,,0,693,1034969,False
+VALLEY,Montana,MT,30105,2015,,,0,7409,1034969,False
+WHEATLAND,Montana,MT,30107,2015,,,0,2208,1034969,False
+WIBAUX,Montana,MT,30109,2015,,,0,1027,1034969,False
+YELLOWSTONE,Montana,MT,30111,2015,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,20,155577,1034969,False
+CHURCHILL,Nevada,NV,32001,2003,,,0,24251,2208979,False
+CLARK,Nevada,NV,32003,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,206,1548400,2208979,False
+CLARK,Nevada,NV,32003,2003,Drug poisonings (overdose) Suicide (X60-X64),D2,41,1548400,2208979,False
+DOUGLAS,Nevada,NV,32005,2003,,,0,42970,2208979,False
+ELKO,Nevada,NV,32007,2003,,,0,46385,2208979,False
+ESMERALDA,Nevada,NV,32009,2003,,,0,914,2208979,False
+EUREKA,Nevada,NV,32011,2003,,,0,1753,2208979,False
+HUMBOLDT,Nevada,NV,32013,2003,,,0,16213,2208979,False
+LANDER,Nevada,NV,32015,2003,,,0,5784,2208979,False
+LINCOLN,Nevada,NV,32017,2003,,,0,4516,2208979,False
+LYON,Nevada,NV,32019,2003,,,0,39747,2208979,False
+MINERAL,Nevada,NV,32021,2003,,,0,4980,2208979,False
+NYE,Nevada,NV,32023,2003,,,0,35948,2208979,False
+PERSHING,Nevada,NV,32027,2003,,,0,6723,2208979,False
+STOREY,Nevada,NV,32029,2003,,,0,3591,2208979,False
+WASHOE,Nevada,NV,32031,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,36,364058,2208979,False
+WASHOE,Nevada,NV,32031,2003,Drug poisonings (overdose) Suicide (X60-X64),D2,13,364058,2208979,False
+WASHOE,Nevada,NV,32031,2003,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,10,364058,2208979,False
+WHITE PINE,Nevada,NV,32033,2003,,,0,9429,2208979,False
+CARSON CITY,Nevada,NV,32510,2003,,,0,53317,2208979,False
+CHURCHILL,Nevada,NV,32001,2004,,,0,24340,2279222,False
+CLARK,Nevada,NV,32003,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,239,1605953,2279222,False
+CLARK,Nevada,NV,32003,2004,Drug poisonings (overdose) Suicide (X60-X64),D2,41,1605953,2279222,False
+DOUGLAS,Nevada,NV,32005,2004,,,0,43545,2279222,False
+ELKO,Nevada,NV,32007,2004,,,0,46751,2279222,False
+ESMERALDA,Nevada,NV,32009,2004,,,0,895,2279222,False
+EUREKA,Nevada,NV,32011,2004,,,0,1787,2279222,False
+HUMBOLDT,Nevada,NV,32013,2004,,,0,16257,2279222,False
+LANDER,Nevada,NV,32015,2004,,,0,5782,2279222,False
+LINCOLN,Nevada,NV,32017,2004,,,0,4633,2279222,False
+LYON,Nevada,NV,32019,2004,,,0,41495,2279222,False
+MINERAL,Nevada,NV,32021,2004,,,0,4950,2279222,False
+NYE,Nevada,NV,32023,2004,,,0,37090,2279222,False
+PERSHING,Nevada,NV,32027,2004,,,0,6727,2279222,False
+STOREY,Nevada,NV,32029,2004,,,0,3652,2279222,False
+WASHOE,Nevada,NV,32031,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,35,372253,2279222,False
+WASHOE,Nevada,NV,32031,2004,Drug poisonings (overdose) Suicide (X60-X64),D2,10,372253,2279222,False
+WHITE PINE,Nevada,NV,32033,2004,,,0,9515,2279222,False
+CARSON CITY,Nevada,NV,32510,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,53597,2279222,False
+CHURCHILL,Nevada,NV,32001,2005,,,0,24429,2349465,False
+CLARK,Nevada,NV,32003,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,276,1663506,2349465,False
+CLARK,Nevada,NV,32003,2005,Drug poisonings (overdose) Suicide (X60-X64),D2,60,1663506,2349465,False
+DOUGLAS,Nevada,NV,32005,2005,,,0,44120,2349465,False
+ELKO,Nevada,NV,32007,2005,,,0,47117,2349465,False
+ESMERALDA,Nevada,NV,32009,2005,,,0,876,2349465,False
+EUREKA,Nevada,NV,32011,2005,,,0,1821,2349465,False
+HUMBOLDT,Nevada,NV,32013,2005,,,0,16301,2349465,False
+LANDER,Nevada,NV,32015,2005,,,0,5780,2349465,False
+LINCOLN,Nevada,NV,32017,2005,,,0,4750,2349465,False
+LYON,Nevada,NV,32019,2005,,,0,43243,2349465,False
+MINERAL,Nevada,NV,32021,2005,,,0,4920,2349465,False
+NYE,Nevada,NV,32023,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,38232,2349465,False
+PERSHING,Nevada,NV,32027,2005,,,0,6731,2349465,False
+STOREY,Nevada,NV,32029,2005,,,0,3713,2349465,False
+WASHOE,Nevada,NV,32031,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,37,380448,2349465,False
+WASHOE,Nevada,NV,32031,2005,Drug poisonings (overdose) Suicide (X60-X64),D2,22,380448,2349465,False
+WASHOE,Nevada,NV,32031,2005,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,10,380448,2349465,False
+WHITE PINE,Nevada,NV,32033,2005,,,0,9601,2349465,False
+CARSON CITY,Nevada,NV,32510,2005,,,0,53877,2349465,False
+CHURCHILL,Nevada,NV,32001,2006,,,0,24518,2419708,False
+CLARK,Nevada,NV,32003,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,285,1721059,2419708,False
+CLARK,Nevada,NV,32003,2006,Drug poisonings (overdose) Suicide (X60-X64),D2,51,1721059,2419708,False
+DOUGLAS,Nevada,NV,32005,2006,,,0,44695,2419708,False
+ELKO,Nevada,NV,32007,2006,,,0,47483,2419708,False
+ESMERALDA,Nevada,NV,32009,2006,,,0,857,2419708,False
+EUREKA,Nevada,NV,32011,2006,,,0,1855,2419708,False
+HUMBOLDT,Nevada,NV,32013,2006,,,0,16345,2419708,False
+LANDER,Nevada,NV,32015,2006,,,0,5778,2419708,False
+LINCOLN,Nevada,NV,32017,2006,,,0,4867,2419708,False
+LYON,Nevada,NV,32019,2006,,,0,44991,2419708,False
+MINERAL,Nevada,NV,32021,2006,,,0,4890,2419708,False
+NYE,Nevada,NV,32023,2006,,,0,39374,2419708,False
+PERSHING,Nevada,NV,32027,2006,,,0,6735,2419708,False
+STOREY,Nevada,NV,32029,2006,,,0,3774,2419708,False
+WASHOE,Nevada,NV,32031,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,36,388643,2419708,False
+WASHOE,Nevada,NV,32031,2006,Drug poisonings (overdose) Suicide (X60-X64),D2,20,388643,2419708,False
+WHITE PINE,Nevada,NV,32033,2006,,,0,9687,2419708,False
+CARSON CITY,Nevada,NV,32510,2006,,,0,54157,2419708,False
+CHURCHILL,Nevada,NV,32001,2007,,,0,24607,2489951,False
+CLARK,Nevada,NV,32003,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,306,1778612,2489951,False
+CLARK,Nevada,NV,32003,2007,Drug poisonings (overdose) Suicide (X60-X64),D2,68,1778612,2489951,False
+DOUGLAS,Nevada,NV,32005,2007,,,0,45270,2489951,False
+ELKO,Nevada,NV,32007,2007,,,0,47849,2489951,False
+ESMERALDA,Nevada,NV,32009,2007,,,0,838,2489951,False
+EUREKA,Nevada,NV,32011,2007,,,0,1889,2489951,False
+HUMBOLDT,Nevada,NV,32013,2007,,,0,16389,2489951,False
+LANDER,Nevada,NV,32015,2007,,,0,5776,2489951,False
+LINCOLN,Nevada,NV,32017,2007,,,0,4984,2489951,False
+LYON,Nevada,NV,32019,2007,,,0,46739,2489951,False
+MINERAL,Nevada,NV,32021,2007,,,0,4860,2489951,False
+NYE,Nevada,NV,32023,2007,,,0,40516,2489951,False
+PERSHING,Nevada,NV,32027,2007,,,0,6739,2489951,False
+STOREY,Nevada,NV,32029,2007,,,0,3835,2489951,False
+WASHOE,Nevada,NV,32031,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,63,396838,2489951,False
+WASHOE,Nevada,NV,32031,2007,Drug poisonings (overdose) Suicide (X60-X64),D2,13,396838,2489951,False
+WHITE PINE,Nevada,NV,32033,2007,,,0,9773,2489951,False
+CARSON CITY,Nevada,NV,32510,2007,,,0,54437,2489951,False
+CHURCHILL,Nevada,NV,32001,2008,,,0,24696,2560194,False
+CLARK,Nevada,NV,32003,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,289,1836165,2560194,False
+CLARK,Nevada,NV,32003,2008,Drug poisonings (overdose) Suicide (X60-X64),D2,70,1836165,2560194,False
+DOUGLAS,Nevada,NV,32005,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,45845,2560194,False
+ELKO,Nevada,NV,32007,2008,,,0,48215,2560194,False
+ESMERALDA,Nevada,NV,32009,2008,,,0,819,2560194,False
+EUREKA,Nevada,NV,32011,2008,,,0,1923,2560194,False
+HUMBOLDT,Nevada,NV,32013,2008,,,0,16433,2560194,False
+LANDER,Nevada,NV,32015,2008,,,0,5774,2560194,False
+LINCOLN,Nevada,NV,32017,2008,,,0,5101,2560194,False
+LYON,Nevada,NV,32019,2008,,,0,48487,2560194,False
+MINERAL,Nevada,NV,32021,2008,,,0,4830,2560194,False
+NYE,Nevada,NV,32023,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,41658,2560194,False
+PERSHING,Nevada,NV,32027,2008,,,0,6743,2560194,False
+STOREY,Nevada,NV,32029,2008,,,0,3896,2560194,False
+WASHOE,Nevada,NV,32031,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,78,405033,2560194,False
+WASHOE,Nevada,NV,32031,2008,Drug poisonings (overdose) Suicide (X60-X64),D2,11,405033,2560194,False
+WHITE PINE,Nevada,NV,32033,2008,,,0,9859,2560194,False
+CARSON CITY,Nevada,NV,32510,2008,,,0,54717,2560194,False
+CHURCHILL,Nevada,NV,32001,2009,,,0,24785,2630437,False
+CLARK,Nevada,NV,32003,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,329,1893718,2630437,False
+CLARK,Nevada,NV,32003,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,60,1893718,2630437,False
+DOUGLAS,Nevada,NV,32005,2009,,,0,46420,2630437,False
+ELKO,Nevada,NV,32007,2009,,,0,48581,2630437,False
+ESMERALDA,Nevada,NV,32009,2009,,,0,800,2630437,False
+EUREKA,Nevada,NV,32011,2009,,,0,1957,2630437,False
+HUMBOLDT,Nevada,NV,32013,2009,,,0,16477,2630437,False
+LANDER,Nevada,NV,32015,2009,,,0,5772,2630437,False
+LINCOLN,Nevada,NV,32017,2009,,,0,5218,2630437,False
+LYON,Nevada,NV,32019,2009,,,0,50235,2630437,False
+MINERAL,Nevada,NV,32021,2009,,,0,4800,2630437,False
+NYE,Nevada,NV,32023,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,42800,2630437,False
+PERSHING,Nevada,NV,32027,2009,,,0,6747,2630437,False
+STOREY,Nevada,NV,32029,2009,,,0,3957,2630437,False
+WASHOE,Nevada,NV,32031,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,70,413228,2630437,False
+WASHOE,Nevada,NV,32031,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,12,413228,2630437,False
+WHITE PINE,Nevada,NV,32033,2009,,,0,9945,2630437,False
+CARSON CITY,Nevada,NV,32510,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,54997,2630437,False
+CHURCHILL,Nevada,NV,32001,2010,,,0,24877,2700679,False
+CLARK,Nevada,NV,32003,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,320,1951271,2700679,False
+CLARK,Nevada,NV,32003,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,67,1951271,2700679,False
+DOUGLAS,Nevada,NV,32005,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,46997,2700679,False
+ELKO,Nevada,NV,32007,2010,,,0,48942,2700679,False
+ESMERALDA,Nevada,NV,32009,2010,,,0,784,2700679,False
+EUREKA,Nevada,NV,32011,2010,,,0,1987,2700679,False
+HUMBOLDT,Nevada,NV,32013,2010,,,0,16521,2700679,False
+LANDER,Nevada,NV,32015,2010,,,0,5775,2700679,False
+LINCOLN,Nevada,NV,32017,2010,,,0,5339,2700679,False
+LYON,Nevada,NV,32019,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,51980,2700679,False
+MINERAL,Nevada,NV,32021,2010,,,0,4770,2700679,False
+NYE,Nevada,NV,32023,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,43945,2700679,False
+PERSHING,Nevada,NV,32027,2010,,,0,6752,2700679,False
+STOREY,Nevada,NV,32029,2010,,,0,4014,2700679,False
+WASHOE,Nevada,NV,32031,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,86,421425,2700679,False
+WASHOE,Nevada,NV,32031,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,12,421425,2700679,False
+WHITE PINE,Nevada,NV,32033,2010,,,0,10026,2700679,False
+CARSON CITY,Nevada,NV,32510,2010,,,0,55274,2700679,False
+CHURCHILL,Nevada,NV,32001,2011,,,0,24822,2742393,False
+CLARK,Nevada,NV,32003,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,379,1986318,2742393,False
+CLARK,Nevada,NV,32003,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,70,1986318,2742393,False
+DOUGLAS,Nevada,NV,32005,2011,,,0,47181,2742393,False
+ELKO,Nevada,NV,32007,2011,,,0,49382,2742393,False
+ESMERALDA,Nevada,NV,32009,2011,,,0,789,2742393,False
+EUREKA,Nevada,NV,32011,2011,,,0,1989,2742393,False
+HUMBOLDT,Nevada,NV,32013,2011,,,0,16554,2742393,False
+LANDER,Nevada,NV,32015,2011,,,0,5750,2742393,False
+LINCOLN,Nevada,NV,32017,2011,,,0,5322,2742393,False
+LYON,Nevada,NV,32019,2011,,,0,52458,2742393,False
+MINERAL,Nevada,NV,32021,2011,,,0,4738,2742393,False
+NYE,Nevada,NV,32023,2011,,,0,44120,2742393,False
+PERSHING,Nevada,NV,32027,2011,,,0,6741,2742393,False
+STOREY,Nevada,NV,32029,2011,,,0,4016,2742393,False
+WASHOE,Nevada,NV,32031,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,94,426964,2742393,False
+WASHOE,Nevada,NV,32031,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,17,426964,2742393,False
+WHITE PINE,Nevada,NV,32033,2011,,,0,9957,2742393,False
+CARSON CITY,Nevada,NV,32510,2011,,,0,55292,2742393,False
+CHURCHILL,Nevada,NV,32001,2012,,,0,24767,2784107,False
+CLARK,Nevada,NV,32003,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,348,2021365,2784107,False
+CLARK,Nevada,NV,32003,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,71,2021365,2784107,False
+DOUGLAS,Nevada,NV,32005,2012,,,0,47365,2784107,False
+ELKO,Nevada,NV,32007,2012,,,0,49822,2784107,False
+ESMERALDA,Nevada,NV,32009,2012,,,0,794,2784107,False
+EUREKA,Nevada,NV,32011,2012,,,0,1991,2784107,False
+HUMBOLDT,Nevada,NV,32013,2012,,,0,16587,2784107,False
+LANDER,Nevada,NV,32015,2012,,,0,5725,2784107,False
+LINCOLN,Nevada,NV,32017,2012,,,0,5305,2784107,False
+LYON,Nevada,NV,32019,2012,,,0,52936,2784107,False
+MINERAL,Nevada,NV,32021,2012,,,0,4706,2784107,False
+NYE,Nevada,NV,32023,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,44295,2784107,False
+PERSHING,Nevada,NV,32027,2012,,,0,6730,2784107,False
+STOREY,Nevada,NV,32029,2012,,,0,4018,2784107,False
+WASHOE,Nevada,NV,32031,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,83,432503,2784107,False
+WASHOE,Nevada,NV,32031,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,18,432503,2784107,False
+WHITE PINE,Nevada,NV,32033,2012,,,0,9888,2784107,False
+CARSON CITY,Nevada,NV,32510,2012,,,0,55310,2784107,False
+CHURCHILL,Nevada,NV,32001,2013,,,0,24712,2825821,False
+CLARK,Nevada,NV,32003,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,351,2056412,2825821,False
+CLARK,Nevada,NV,32003,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,77,2056412,2825821,False
+CLARK,Nevada,NV,32003,2013,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,11,2056412,2825821,False
+DOUGLAS,Nevada,NV,32005,2013,,,0,47549,2825821,False
+ELKO,Nevada,NV,32007,2013,,,0,50262,2825821,False
+ESMERALDA,Nevada,NV,32009,2013,,,0,799,2825821,False
+EUREKA,Nevada,NV,32011,2013,,,0,1993,2825821,False
+HUMBOLDT,Nevada,NV,32013,2013,,,0,16620,2825821,False
+LANDER,Nevada,NV,32015,2013,,,0,5700,2825821,False
+LINCOLN,Nevada,NV,32017,2013,,,0,5288,2825821,False
+LYON,Nevada,NV,32019,2013,,,0,53414,2825821,False
+MINERAL,Nevada,NV,32021,2013,,,0,4674,2825821,False
+NYE,Nevada,NV,32023,2013,,,0,44470,2825821,False
+PERSHING,Nevada,NV,32027,2013,,,0,6719,2825821,False
+STOREY,Nevada,NV,32029,2013,,,0,4020,2825821,False
+WASHOE,Nevada,NV,32031,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,94,438042,2825821,False
+WASHOE,Nevada,NV,32031,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,16,438042,2825821,False
+WHITE PINE,Nevada,NV,32033,2013,,,0,9819,2825821,False
+CARSON CITY,Nevada,NV,32510,2013,,,0,55328,2825821,False
+CHURCHILL,Nevada,NV,32001,2014,,,0,24657,2867535,False
+CLARK,Nevada,NV,32003,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,331,2091459,2867535,False
+CLARK,Nevada,NV,32003,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,65,2091459,2867535,False
+DOUGLAS,Nevada,NV,32005,2014,,,0,47733,2867535,False
+ELKO,Nevada,NV,32007,2014,,,0,50702,2867535,False
+ESMERALDA,Nevada,NV,32009,2014,,,0,804,2867535,False
+EUREKA,Nevada,NV,32011,2014,,,0,1995,2867535,False
+HUMBOLDT,Nevada,NV,32013,2014,,,0,16653,2867535,False
+LANDER,Nevada,NV,32015,2014,,,0,5675,2867535,False
+LINCOLN,Nevada,NV,32017,2014,,,0,5271,2867535,False
+LYON,Nevada,NV,32019,2014,,,0,53892,2867535,False
+MINERAL,Nevada,NV,32021,2014,,,0,4642,2867535,False
+NYE,Nevada,NV,32023,2014,,,0,44645,2867535,False
+PERSHING,Nevada,NV,32027,2014,,,0,6708,2867535,False
+STOREY,Nevada,NV,32029,2014,,,0,4022,2867535,False
+WASHOE,Nevada,NV,32031,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,69,443581,2867535,False
+WHITE PINE,Nevada,NV,32033,2014,,,0,9750,2867535,False
+CARSON CITY,Nevada,NV,32510,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,55346,2867535,False
+CHURCHILL,Nevada,NV,32001,2015,,,0,24602,2909249,False
+CLARK,Nevada,NV,32003,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,371,2126506,2909249,False
+CLARK,Nevada,NV,32003,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,64,2126506,2909249,False
+DOUGLAS,Nevada,NV,32005,2015,,,0,47917,2909249,False
+ELKO,Nevada,NV,32007,2015,,,0,51142,2909249,False
+ESMERALDA,Nevada,NV,32009,2015,,,0,809,2909249,False
+EUREKA,Nevada,NV,32011,2015,,,0,1997,2909249,False
+HUMBOLDT,Nevada,NV,32013,2015,,,0,16686,2909249,False
+LANDER,Nevada,NV,32015,2015,,,0,5650,2909249,False
+LINCOLN,Nevada,NV,32017,2015,,,0,5254,2909249,False
+LYON,Nevada,NV,32019,2015,,,0,54370,2909249,False
+MINERAL,Nevada,NV,32021,2015,,,0,4610,2909249,False
+NYE,Nevada,NV,32023,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,44820,2909249,False
+PERSHING,Nevada,NV,32027,2015,,,0,6697,2909249,False
+STOREY,Nevada,NV,32029,2015,,,0,4024,2909249,False
+WASHOE,Nevada,NV,32031,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,70,449120,2909249,False
+WASHOE,Nevada,NV,32031,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,14,449120,2909249,False
+WHITE PINE,Nevada,NV,32033,2015,,,0,9681,2909249,False
+CARSON CITY,Nevada,NV,32510,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,24,55364,2909249,False
+BAKER,Oregon,OR,41001,2003,,,0,16559,3544389,False
+BENTON,Oregon,OR,41003,2003,,,0,80375,3544389,False
+CLACKAMAS,Oregon,OR,41005,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,18,349684,3544389,False
+CLATSOP,Oregon,OR,41007,2003,,,0,36051,3544389,False
+COLUMBIA,Oregon,OR,41009,2003,,,0,45293,3544389,False
+COOS,Oregon,OR,41011,2003,,,0,62873,3544389,False
+CROOK,Oregon,OR,41013,2003,,,0,19715,3544389,False
+CURRY,Oregon,OR,41015,2003,,,0,21513,3544389,False
+DESCHUTES,Oregon,OR,41017,2003,,,0,128080,3544389,False
+DOUGLAS,Oregon,OR,41019,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,102568,3544389,False
+GILLIAM,Oregon,OR,41021,2003,,,0,1898,3544389,False
+GRANT,Oregon,OR,41023,2003,,,0,7787,3544389,False
+HARNEY,Oregon,OR,41025,2003,,,0,7552,3544389,False
+HOOD RIVER,Oregon,OR,41027,2003,,,0,20989,3544389,False
+JACKSON,Oregon,OR,41029,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,187857,3544389,False
+JEFFERSON,Oregon,OR,41031,2003,,,0,19814,3544389,False
+JOSEPHINE,Oregon,OR,41033,2003,,,0,77826,3544389,False
+KLAMATH,Oregon,OR,41035,2003,,,0,64554,3544389,False
+LAKE,Oregon,OR,41037,2003,,,0,7559,3544389,False
+LANE,Oregon,OR,41039,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,18,331618,3544389,False
+LINCOLN,Oregon,OR,41041,2003,,,0,44946,3544389,False
+LINN,Oregon,OR,41043,2003,,,0,107159,3544389,False
+MALHEUR,Oregon,OR,41045,2003,,,0,31528,3544389,False
+MARION,Oregon,OR,41047,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,293994,3544389,False
+MORROW,Oregon,OR,41049,2003,,,0,11049,3544389,False
+MULTNOMAH,Oregon,OR,41051,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,70,682967,3544389,False
+MULTNOMAH,Oregon,OR,41051,2003,Drug poisonings (overdose) Suicide (X60-X64),D2,18,682967,3544389,False
+MULTNOMAH,Oregon,OR,41051,2003,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,11,682967,3544389,False
+POLK,Oregon,OR,41053,2003,,,0,66312,3544389,False
+SHERMAN,Oregon,OR,41055,2003,,,0,1883,3544389,False
+TILLAMOOK,Oregon,OR,41057,2003,,,0,24561,3544389,False
+UMATILLA,Oregon,OR,41059,2003,,,0,72155,3544389,False
+UNION,Oregon,OR,41061,2003,,,0,24888,3544389,False
+WALLOWA,Oregon,OR,41063,2003,,,0,7164,3544389,False
+WASCO,Oregon,OR,41065,2003,,,0,24220,3544389,False
+WASHINGTON,Oregon,OR,41067,2003,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,470636,3544389,False
+WHEELER,Oregon,OR,41069,2003,,,0,1518,3544389,False
+YAMHILL,Oregon,OR,41071,2003,,,0,89244,3544389,False
+BAKER,Oregon,OR,41001,2004,,,0,16498,3585344,False
+BENTON,Oregon,OR,41003,2004,,,0,81119,3585344,False
+CLACKAMAS,Oregon,OR,41005,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,16,353443,3585344,False
+CLATSOP,Oregon,OR,41007,2004,,,0,36190,3585344,False
+COLUMBIA,Oregon,OR,41009,2004,,,0,45873,3585344,False
+COOS,Oregon,OR,41011,2004,,,0,62899,3585344,False
+CROOK,Oregon,OR,41013,2004,,,0,19895,3585344,False
+CURRY,Oregon,OR,41015,2004,,,0,21635,3585344,False
+DESCHUTES,Oregon,OR,41017,2004,,,0,132316,3585344,False
+DOUGLAS,Oregon,OR,41019,2004,,,0,103299,3585344,False
+GILLIAM,Oregon,OR,41021,2004,,,0,1894,3585344,False
+GRANT,Oregon,OR,41023,2004,,,0,7738,3585344,False
+HARNEY,Oregon,OR,41025,2004,,,0,7534,3585344,False
+HOOD RIVER,Oregon,OR,41027,2004,,,0,21183,3585344,False
+JACKSON,Oregon,OR,41029,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,190049,3585344,False
+JACKSON,Oregon,OR,41029,2004,Drug poisonings (overdose) Suicide (X60-X64),D2,10,190049,3585344,False
+JEFFERSON,Oregon,OR,41031,2004,,,0,20087,3585344,False
+JOSEPHINE,Oregon,OR,41033,2004,,,0,78525,3585344,False
+KLAMATH,Oregon,OR,41035,2004,,,0,64815,3585344,False
+LAKE,Oregon,OR,41037,2004,,,0,7605,3585344,False
+LANE,Oregon,OR,41039,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,23,334487,3585344,False
+LANE,Oregon,OR,41039,2004,Drug poisonings (overdose) Suicide (X60-X64),D2,13,334487,3585344,False
+LINCOLN,Oregon,OR,41041,2004,,,0,45101,3585344,False
+LINN,Oregon,OR,41043,2004,,,0,108519,3585344,False
+MALHEUR,Oregon,OR,41045,2004,,,0,31498,3585344,False
+MARION,Oregon,OR,41047,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,297044,3585344,False
+MARION,Oregon,OR,41047,2004,Drug poisonings (overdose) Suicide (X60-X64),D2,12,297044,3585344,False
+MORROW,Oregon,OR,41049,2004,,,0,11067,3585344,False
+MULTNOMAH,Oregon,OR,41051,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,69,690422,3585344,False
+MULTNOMAH,Oregon,OR,41051,2004,Drug poisonings (overdose) Suicide (X60-X64),D2,17,690422,3585344,False
+MULTNOMAH,Oregon,OR,41051,2004,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,21,690422,3585344,False
+POLK,Oregon,OR,41053,2004,,,0,67612,3585344,False
+SHERMAN,Oregon,OR,41055,2004,,,0,1866,3585344,False
+TILLAMOOK,Oregon,OR,41057,2004,,,0,24660,3585344,False
+UMATILLA,Oregon,OR,41059,2004,,,0,72688,3585344,False
+UNION,Oregon,OR,41061,2004,,,0,25010,3585344,False
+WALLOWA,Oregon,OR,41063,2004,,,0,7142,3585344,False
+WASCO,Oregon,OR,41065,2004,,,0,24361,3585344,False
+WASHINGTON,Oregon,OR,41067,2004,Drug poisonings (overdose) Unintentional (X40-X44),D1,18,479096,3585344,False
+WHEELER,Oregon,OR,41069,2004,,,0,1507,3585344,False
+YAMHILL,Oregon,OR,41071,2004,,,0,90667,3585344,False
+BAKER,Oregon,OR,41001,2005,,,0,16437,3626299,False
+BENTON,Oregon,OR,41003,2005,,,0,81863,3626299,False
+CLACKAMAS,Oregon,OR,41005,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,23,357202,3626299,False
+CLATSOP,Oregon,OR,41007,2005,,,0,36329,3626299,False
+COLUMBIA,Oregon,OR,41009,2005,,,0,46453,3626299,False
+COOS,Oregon,OR,41011,2005,,,0,62925,3626299,False
+CROOK,Oregon,OR,41013,2005,,,0,20075,3626299,False
+CURRY,Oregon,OR,41015,2005,,,0,21757,3626299,False
+DESCHUTES,Oregon,OR,41017,2005,,,0,136552,3626299,False
+DOUGLAS,Oregon,OR,41019,2005,,,0,104030,3626299,False
+GILLIAM,Oregon,OR,41021,2005,,,0,1890,3626299,False
+GRANT,Oregon,OR,41023,2005,,,0,7689,3626299,False
+HARNEY,Oregon,OR,41025,2005,,,0,7516,3626299,False
+HOOD RIVER,Oregon,OR,41027,2005,,,0,21377,3626299,False
+JACKSON,Oregon,OR,41029,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,21,192241,3626299,False
+JEFFERSON,Oregon,OR,41031,2005,,,0,20360,3626299,False
+JOSEPHINE,Oregon,OR,41033,2005,,,0,79224,3626299,False
+KLAMATH,Oregon,OR,41035,2005,,,0,65076,3626299,False
+LAKE,Oregon,OR,41037,2005,,,0,7651,3626299,False
+LANE,Oregon,OR,41039,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,337356,3626299,False
+LANE,Oregon,OR,41039,2005,Drug poisonings (overdose) Suicide (X60-X64),D2,11,337356,3626299,False
+LINCOLN,Oregon,OR,41041,2005,,,0,45256,3626299,False
+LINN,Oregon,OR,41043,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,109879,3626299,False
+MALHEUR,Oregon,OR,41045,2005,,,0,31468,3626299,False
+MARION,Oregon,OR,41047,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,300094,3626299,False
+MORROW,Oregon,OR,41049,2005,,,0,11085,3626299,False
+MULTNOMAH,Oregon,OR,41051,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,75,697877,3626299,False
+MULTNOMAH,Oregon,OR,41051,2005,Drug poisonings (overdose) Suicide (X60-X64),D2,21,697877,3626299,False
+MULTNOMAH,Oregon,OR,41051,2005,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,12,697877,3626299,False
+POLK,Oregon,OR,41053,2005,,,0,68912,3626299,False
+SHERMAN,Oregon,OR,41055,2005,,,0,1849,3626299,False
+TILLAMOOK,Oregon,OR,41057,2005,,,0,24759,3626299,False
+UMATILLA,Oregon,OR,41059,2005,,,0,73221,3626299,False
+UNION,Oregon,OR,41061,2005,,,0,25132,3626299,False
+WALLOWA,Oregon,OR,41063,2005,,,0,7120,3626299,False
+WASCO,Oregon,OR,41065,2005,,,0,24502,3626299,False
+WASHINGTON,Oregon,OR,41067,2005,Drug poisonings (overdose) Unintentional (X40-X44),D1,21,487556,3626299,False
+WASHINGTON,Oregon,OR,41067,2005,Drug poisonings (overdose) Suicide (X60-X64),D2,12,487556,3626299,False
+WHEELER,Oregon,OR,41069,2005,,,0,1496,3626299,False
+YAMHILL,Oregon,OR,41071,2005,,,0,92090,3626299,False
+BAKER,Oregon,OR,41001,2006,,,0,16376,3667254,False
+BENTON,Oregon,OR,41003,2006,,,0,82607,3667254,False
+CLACKAMAS,Oregon,OR,41005,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,23,360961,3667254,False
+CLACKAMAS,Oregon,OR,41005,2006,Drug poisonings (overdose) Suicide (X60-X64),D2,11,360961,3667254,False
+CLATSOP,Oregon,OR,41007,2006,,,0,36468,3667254,False
+COLUMBIA,Oregon,OR,41009,2006,,,0,47033,3667254,False
+COOS,Oregon,OR,41011,2006,,,0,62951,3667254,False
+CROOK,Oregon,OR,41013,2006,,,0,20255,3667254,False
+CURRY,Oregon,OR,41015,2006,,,0,21879,3667254,False
+DESCHUTES,Oregon,OR,41017,2006,,,0,140788,3667254,False
+DOUGLAS,Oregon,OR,41019,2006,,,0,104761,3667254,False
+GILLIAM,Oregon,OR,41021,2006,,,0,1886,3667254,False
+GRANT,Oregon,OR,41023,2006,,,0,7640,3667254,False
+HARNEY,Oregon,OR,41025,2006,,,0,7498,3667254,False
+HOOD RIVER,Oregon,OR,41027,2006,,,0,21571,3667254,False
+JACKSON,Oregon,OR,41029,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,31,194433,3667254,False
+JACKSON,Oregon,OR,41029,2006,Drug poisonings (overdose) Suicide (X60-X64),D2,11,194433,3667254,False
+JEFFERSON,Oregon,OR,41031,2006,,,0,20633,3667254,False
+JOSEPHINE,Oregon,OR,41033,2006,,,0,79923,3667254,False
+KLAMATH,Oregon,OR,41035,2006,,,0,65337,3667254,False
+LAKE,Oregon,OR,41037,2006,,,0,7697,3667254,False
+LANE,Oregon,OR,41039,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,29,340225,3667254,False
+LANE,Oregon,OR,41039,2006,Drug poisonings (overdose) Suicide (X60-X64),D2,10,340225,3667254,False
+LANE,Oregon,OR,41039,2006,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,11,340225,3667254,False
+LINCOLN,Oregon,OR,41041,2006,,,0,45411,3667254,False
+LINN,Oregon,OR,41043,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,111239,3667254,False
+MALHEUR,Oregon,OR,41045,2006,,,0,31438,3667254,False
+MARION,Oregon,OR,41047,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,23,303144,3667254,False
+MORROW,Oregon,OR,41049,2006,,,0,11103,3667254,False
+MULTNOMAH,Oregon,OR,41051,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,86,705332,3667254,False
+MULTNOMAH,Oregon,OR,41051,2006,Drug poisonings (overdose) Suicide (X60-X64),D2,25,705332,3667254,False
+MULTNOMAH,Oregon,OR,41051,2006,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,19,705332,3667254,False
+POLK,Oregon,OR,41053,2006,,,0,70212,3667254,False
+SHERMAN,Oregon,OR,41055,2006,,,0,1832,3667254,False
+TILLAMOOK,Oregon,OR,41057,2006,,,0,24858,3667254,False
+UMATILLA,Oregon,OR,41059,2006,,,0,73754,3667254,False
+UNION,Oregon,OR,41061,2006,,,0,25254,3667254,False
+WALLOWA,Oregon,OR,41063,2006,,,0,7098,3667254,False
+WASCO,Oregon,OR,41065,2006,,,0,24643,3667254,False
+WASHINGTON,Oregon,OR,41067,2006,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,496016,3667254,False
+WASHINGTON,Oregon,OR,41067,2006,Drug poisonings (overdose) Suicide (X60-X64),D2,12,496016,3667254,False
+WHEELER,Oregon,OR,41069,2006,,,0,1485,3667254,False
+YAMHILL,Oregon,OR,41071,2006,,,0,93513,3667254,False
+BAKER,Oregon,OR,41001,2007,,,0,16315,3708209,False
+BENTON,Oregon,OR,41003,2007,,,0,83351,3708209,False
+CLACKAMAS,Oregon,OR,41005,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,32,364720,3708209,False
+CLATSOP,Oregon,OR,41007,2007,,,0,36607,3708209,False
+COLUMBIA,Oregon,OR,41009,2007,,,0,47613,3708209,False
+COOS,Oregon,OR,41011,2007,,,0,62977,3708209,False
+CROOK,Oregon,OR,41013,2007,,,0,20435,3708209,False
+CURRY,Oregon,OR,41015,2007,,,0,22001,3708209,False
+DESCHUTES,Oregon,OR,41017,2007,,,0,145024,3708209,False
+DOUGLAS,Oregon,OR,41019,2007,,,0,105492,3708209,False
+GILLIAM,Oregon,OR,41021,2007,,,0,1882,3708209,False
+GRANT,Oregon,OR,41023,2007,,,0,7591,3708209,False
+HARNEY,Oregon,OR,41025,2007,,,0,7480,3708209,False
+HOOD RIVER,Oregon,OR,41027,2007,,,0,21765,3708209,False
+JACKSON,Oregon,OR,41029,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,196625,3708209,False
+JEFFERSON,Oregon,OR,41031,2007,,,0,20906,3708209,False
+JOSEPHINE,Oregon,OR,41033,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,80622,3708209,False
+KLAMATH,Oregon,OR,41035,2007,,,0,65598,3708209,False
+LAKE,Oregon,OR,41037,2007,,,0,7743,3708209,False
+LANE,Oregon,OR,41039,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,35,343094,3708209,False
+LINCOLN,Oregon,OR,41041,2007,,,0,45566,3708209,False
+LINN,Oregon,OR,41043,2007,,,0,112599,3708209,False
+MALHEUR,Oregon,OR,41045,2007,,,0,31408,3708209,False
+MARION,Oregon,OR,41047,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,29,306194,3708209,False
+MORROW,Oregon,OR,41049,2007,,,0,11121,3708209,False
+MULTNOMAH,Oregon,OR,41051,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,129,712787,3708209,False
+MULTNOMAH,Oregon,OR,41051,2007,Drug poisonings (overdose) Suicide (X60-X64),D2,13,712787,3708209,False
+MULTNOMAH,Oregon,OR,41051,2007,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,21,712787,3708209,False
+POLK,Oregon,OR,41053,2007,,,0,71512,3708209,False
+SHERMAN,Oregon,OR,41055,2007,,,0,1815,3708209,False
+TILLAMOOK,Oregon,OR,41057,2007,,,0,24957,3708209,False
+UMATILLA,Oregon,OR,41059,2007,,,0,74287,3708209,False
+UNION,Oregon,OR,41061,2007,,,0,25376,3708209,False
+WALLOWA,Oregon,OR,41063,2007,,,0,7076,3708209,False
+WASCO,Oregon,OR,41065,2007,,,0,24784,3708209,False
+WASHINGTON,Oregon,OR,41067,2007,Drug poisonings (overdose) Unintentional (X40-X44),D1,27,504476,3708209,False
+WASHINGTON,Oregon,OR,41067,2007,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,10,504476,3708209,False
+WHEELER,Oregon,OR,41069,2007,,,0,1474,3708209,False
+YAMHILL,Oregon,OR,41071,2007,,,0,94936,3708209,False
+BAKER,Oregon,OR,41001,2008,,,0,16254,3749164,False
+BENTON,Oregon,OR,41003,2008,,,0,84095,3749164,False
+CLACKAMAS,Oregon,OR,41005,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,25,368479,3749164,False
+CLATSOP,Oregon,OR,41007,2008,,,0,36746,3749164,False
+COLUMBIA,Oregon,OR,41009,2008,,,0,48193,3749164,False
+COOS,Oregon,OR,41011,2008,,,0,63003,3749164,False
+CROOK,Oregon,OR,41013,2008,,,0,20615,3749164,False
+CURRY,Oregon,OR,41015,2008,,,0,22123,3749164,False
+DESCHUTES,Oregon,OR,41017,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,149260,3749164,False
+DOUGLAS,Oregon,OR,41019,2008,,,0,106223,3749164,False
+GILLIAM,Oregon,OR,41021,2008,,,0,1878,3749164,False
+GRANT,Oregon,OR,41023,2008,,,0,7542,3749164,False
+HARNEY,Oregon,OR,41025,2008,,,0,7462,3749164,False
+HOOD RIVER,Oregon,OR,41027,2008,,,0,21959,3749164,False
+JACKSON,Oregon,OR,41029,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,198817,3749164,False
+JEFFERSON,Oregon,OR,41031,2008,,,0,21179,3749164,False
+JOSEPHINE,Oregon,OR,41033,2008,,,0,81321,3749164,False
+KLAMATH,Oregon,OR,41035,2008,,,0,65859,3749164,False
+LAKE,Oregon,OR,41037,2008,,,0,7789,3749164,False
+LANE,Oregon,OR,41039,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,39,345963,3749164,False
+LINCOLN,Oregon,OR,41041,2008,,,0,45721,3749164,False
+LINN,Oregon,OR,41043,2008,,,0,113959,3749164,False
+MALHEUR,Oregon,OR,41045,2008,,,0,31378,3749164,False
+MARION,Oregon,OR,41047,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,19,309244,3749164,False
+MORROW,Oregon,OR,41049,2008,,,0,11139,3749164,False
+MULTNOMAH,Oregon,OR,41051,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,108,720242,3749164,False
+MULTNOMAH,Oregon,OR,41051,2008,Drug poisonings (overdose) Suicide (X60-X64),D2,15,720242,3749164,False
+MULTNOMAH,Oregon,OR,41051,2008,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,12,720242,3749164,False
+POLK,Oregon,OR,41053,2008,,,0,72812,3749164,False
+SHERMAN,Oregon,OR,41055,2008,,,0,1798,3749164,False
+TILLAMOOK,Oregon,OR,41057,2008,,,0,25056,3749164,False
+UMATILLA,Oregon,OR,41059,2008,,,0,74820,3749164,False
+UNION,Oregon,OR,41061,2008,,,0,25498,3749164,False
+WALLOWA,Oregon,OR,41063,2008,,,0,7054,3749164,False
+WASCO,Oregon,OR,41065,2008,,,0,24925,3749164,False
+WASHINGTON,Oregon,OR,41067,2008,Drug poisonings (overdose) Unintentional (X40-X44),D1,21,512936,3749164,False
+WASHINGTON,Oregon,OR,41067,2008,Drug poisonings (overdose) Suicide (X60-X64),D2,11,512936,3749164,False
+WHEELER,Oregon,OR,41069,2008,,,0,1463,3749164,False
+YAMHILL,Oregon,OR,41071,2008,,,0,96359,3749164,False
+BAKER,Oregon,OR,41001,2009,,,0,16193,3790119,False
+BENTON,Oregon,OR,41003,2009,,,0,84839,3790119,False
+CLACKAMAS,Oregon,OR,41005,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,32,372238,3790119,False
+CLATSOP,Oregon,OR,41007,2009,,,0,36885,3790119,False
+COLUMBIA,Oregon,OR,41009,2009,,,0,48773,3790119,False
+COOS,Oregon,OR,41011,2009,,,0,63029,3790119,False
+CROOK,Oregon,OR,41013,2009,,,0,20795,3790119,False
+CURRY,Oregon,OR,41015,2009,,,0,22245,3790119,False
+DESCHUTES,Oregon,OR,41017,2009,,,0,153496,3790119,False
+DOUGLAS,Oregon,OR,41019,2009,,,0,106954,3790119,False
+GILLIAM,Oregon,OR,41021,2009,,,0,1874,3790119,False
+GRANT,Oregon,OR,41023,2009,,,0,7493,3790119,False
+HARNEY,Oregon,OR,41025,2009,,,0,7444,3790119,False
+HOOD RIVER,Oregon,OR,41027,2009,,,0,22153,3790119,False
+JACKSON,Oregon,OR,41029,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,201009,3790119,False
+JEFFERSON,Oregon,OR,41031,2009,,,0,21452,3790119,False
+JOSEPHINE,Oregon,OR,41033,2009,,,0,82020,3790119,False
+KLAMATH,Oregon,OR,41035,2009,,,0,66120,3790119,False
+LAKE,Oregon,OR,41037,2009,,,0,7835,3790119,False
+LANE,Oregon,OR,41039,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,59,348832,3790119,False
+LANE,Oregon,OR,41039,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,16,348832,3790119,False
+LINCOLN,Oregon,OR,41041,2009,,,0,45876,3790119,False
+LINN,Oregon,OR,41043,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,115319,3790119,False
+MALHEUR,Oregon,OR,41045,2009,,,0,31348,3790119,False
+MARION,Oregon,OR,41047,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,29,312294,3790119,False
+MORROW,Oregon,OR,41049,2009,,,0,11157,3790119,False
+MULTNOMAH,Oregon,OR,41051,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,102,727697,3790119,False
+MULTNOMAH,Oregon,OR,41051,2009,Drug poisonings (overdose) Suicide (X60-X64),D2,13,727697,3790119,False
+MULTNOMAH,Oregon,OR,41051,2009,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,13,727697,3790119,False
+POLK,Oregon,OR,41053,2009,,,0,74112,3790119,False
+SHERMAN,Oregon,OR,41055,2009,,,0,1781,3790119,False
+TILLAMOOK,Oregon,OR,41057,2009,,,0,25155,3790119,False
+UMATILLA,Oregon,OR,41059,2009,,,0,75353,3790119,False
+UNION,Oregon,OR,41061,2009,,,0,25620,3790119,False
+WALLOWA,Oregon,OR,41063,2009,,,0,7032,3790119,False
+WASCO,Oregon,OR,41065,2009,,,0,25066,3790119,False
+WASHINGTON,Oregon,OR,41067,2009,Drug poisonings (overdose) Unintentional (X40-X44),D1,32,521396,3790119,False
+WHEELER,Oregon,OR,41069,2009,,,0,1452,3790119,False
+YAMHILL,Oregon,OR,41071,2009,,,0,97782,3790119,False
+BAKER,Oregon,OR,41001,2010,,,0,16131,3831075,False
+BENTON,Oregon,OR,41003,2010,,,0,85582,3831075,False
+CLACKAMAS,Oregon,OR,41005,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,32,375996,3831075,False
+CLACKAMAS,Oregon,OR,41005,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,11,375996,3831075,False
+CLATSOP,Oregon,OR,41007,2010,,,0,37026,3831075,False
+COLUMBIA,Oregon,OR,41009,2010,,,0,49353,3831075,False
+COOS,Oregon,OR,41011,2010,,,0,63054,3831075,False
+CROOK,Oregon,OR,41013,2010,,,0,20978,3831075,False
+CURRY,Oregon,OR,41015,2010,,,0,22365,3831075,False
+DESCHUTES,Oregon,OR,41017,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,157730,3831075,False
+DOUGLAS,Oregon,OR,41019,2010,,,0,107684,3831075,False
+GILLIAM,Oregon,OR,41021,2010,,,0,1873,3831075,False
+GRANT,Oregon,OR,41023,2010,,,0,7444,3831075,False
+HARNEY,Oregon,OR,41025,2010,,,0,7422,3831075,False
+HOOD RIVER,Oregon,OR,41027,2010,,,0,22346,3831075,False
+JACKSON,Oregon,OR,41029,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,203205,3831075,False
+JEFFERSON,Oregon,OR,41031,2010,,,0,21723,3831075,False
+JOSEPHINE,Oregon,OR,41033,2010,,,0,82718,3831075,False
+KLAMATH,Oregon,OR,41035,2010,,,0,66380,3831075,False
+LAKE,Oregon,OR,41037,2010,,,0,7885,3831075,False
+LANE,Oregon,OR,41039,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,29,351704,3831075,False
+LANE,Oregon,OR,41039,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,21,351704,3831075,False
+LINCOLN,Oregon,OR,41041,2010,,,0,46033,3831075,False
+LINN,Oregon,OR,41043,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,116676,3831075,False
+MALHEUR,Oregon,OR,41045,2010,,,0,31316,3831075,False
+MARION,Oregon,OR,41047,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,32,315343,3831075,False
+MARION,Oregon,OR,41047,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,10,315343,3831075,False
+MORROW,Oregon,OR,41049,2010,,,0,11177,3831075,False
+MULTNOMAH,Oregon,OR,41051,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,87,735148,3831075,False
+MULTNOMAH,Oregon,OR,41051,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,17,735148,3831075,False
+MULTNOMAH,Oregon,OR,41051,2010,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,17,735148,3831075,False
+POLK,Oregon,OR,41053,2010,,,0,75407,3831075,False
+SHERMAN,Oregon,OR,41055,2010,,,0,1766,3831075,False
+TILLAMOOK,Oregon,OR,41057,2010,,,0,25254,3831075,False
+UMATILLA,Oregon,OR,41059,2010,,,0,75885,3831075,False
+UNION,Oregon,OR,41061,2010,,,0,25744,3831075,False
+WALLOWA,Oregon,OR,41063,2010,,,0,7008,3831075,False
+WASCO,Oregon,OR,41065,2010,,,0,25211,3831075,False
+WASHINGTON,Oregon,OR,41067,2010,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,529860,3831075,False
+WASHINGTON,Oregon,OR,41067,2010,Drug poisonings (overdose) Suicide (X60-X64),D2,13,529860,3831075,False
+WHEELER,Oregon,OR,41069,2010,,,0,1439,3831075,False
+YAMHILL,Oregon,OR,41071,2010,,,0,99209,3831075,False
+BAKER,Oregon,OR,41001,2011,,,0,16115,3876030,False
+BENTON,Oregon,OR,41003,2011,,,0,86397,3876030,False
+CLACKAMAS,Oregon,OR,41005,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,34,381006,3876030,False
+CLATSOP,Oregon,OR,41007,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,37368,3876030,False
+COLUMBIA,Oregon,OR,41009,2011,,,0,49731,3876030,False
+COOS,Oregon,OR,41011,2011,,,0,63221,3876030,False
+CROOK,Oregon,OR,41013,2011,,,0,21339,3876030,False
+CURRY,Oregon,OR,41015,2011,,,0,22421,3876030,False
+DESCHUTES,Oregon,OR,41017,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,15,162013,3876030,False
+DOUGLAS,Oregon,OR,41019,2011,,,0,108009,3876030,False
+GILLIAM,Oregon,OR,41021,2011,,,0,1876,3876030,False
+GRANT,Oregon,OR,41023,2011,,,0,7410,3876030,False
+HARNEY,Oregon,OR,41025,2011,,,0,7410,3876030,False
+HOOD RIVER,Oregon,OR,41027,2011,,,0,22481,3876030,False
+JACKSON,Oregon,OR,41029,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,22,205250,3876030,False
+JEFFERSON,Oregon,OR,41031,2011,,,0,22032,3876030,False
+JOSEPHINE,Oregon,OR,41033,2011,,,0,83302,3876030,False
+KLAMATH,Oregon,OR,41035,2011,,,0,66539,3876030,False
+LAKE,Oregon,OR,41037,2011,,,0,7884,3876030,False
+LANE,Oregon,OR,41039,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,38,355192,3876030,False
+LANE,Oregon,OR,41039,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,10,355192,3876030,False
+LINCOLN,Oregon,OR,41041,2011,,,0,46452,3876030,False
+LINN,Oregon,OR,41043,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,17,118008,3876030,False
+MALHEUR,Oregon,OR,41045,2011,,,0,31242,3876030,False
+MARION,Oregon,OR,41047,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,24,319284,3876030,False
+MORROW,Oregon,OR,41049,2011,,,0,11201,3876030,False
+MULTNOMAH,Oregon,OR,41051,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,123,744740,3876030,False
+MULTNOMAH,Oregon,OR,41051,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,18,744740,3876030,False
+POLK,Oregon,OR,41053,2011,,,0,76635,3876030,False
+SHERMAN,Oregon,OR,41055,2011,,,0,1759,3876030,False
+TILLAMOOK,Oregon,OR,41057,2011,,,0,25446,3876030,False
+UMATILLA,Oregon,OR,41059,2011,,,0,76089,3876030,False
+UNION,Oregon,OR,41061,2011,,,0,25834,3876030,False
+WALLOWA,Oregon,OR,41063,2011,,,0,7017,3876030,False
+WASCO,Oregon,OR,41065,2011,,,0,25373,3876030,False
+WASHINGTON,Oregon,OR,41067,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,31,538339,3876030,False
+WASHINGTON,Oregon,OR,41067,2011,Drug poisonings (overdose) Suicide (X60-X64),D2,14,538339,3876030,False
+WHEELER,Oregon,OR,41069,2011,,,0,1430,3876030,False
+YAMHILL,Oregon,OR,41071,2011,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,100183,3876030,False
+BAKER,Oregon,OR,41001,2012,,,0,16099,3920985,False
+BENTON,Oregon,OR,41003,2012,,,0,87212,3920985,False
+CLACKAMAS,Oregon,OR,41005,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,22,386016,3920985,False
+CLATSOP,Oregon,OR,41007,2012,,,0,37710,3920985,False
+COLUMBIA,Oregon,OR,41009,2012,,,0,50109,3920985,False
+COOS,Oregon,OR,41011,2012,,,0,63388,3920985,False
+CROOK,Oregon,OR,41013,2012,,,0,21700,3920985,False
+CURRY,Oregon,OR,41015,2012,,,0,22477,3920985,False
+DESCHUTES,Oregon,OR,41017,2012,,,0,166296,3920985,False
+DOUGLAS,Oregon,OR,41019,2012,,,0,108334,3920985,False
+GILLIAM,Oregon,OR,41021,2012,,,0,1879,3920985,False
+GRANT,Oregon,OR,41023,2012,,,0,7376,3920985,False
+HARNEY,Oregon,OR,41025,2012,,,0,7398,3920985,False
+HOOD RIVER,Oregon,OR,41027,2012,,,0,22616,3920985,False
+JACKSON,Oregon,OR,41029,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,30,207295,3920985,False
+JACKSON,Oregon,OR,41029,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,11,207295,3920985,False
+JEFFERSON,Oregon,OR,41031,2012,,,0,22341,3920985,False
+JOSEPHINE,Oregon,OR,41033,2012,,,0,83886,3920985,False
+KLAMATH,Oregon,OR,41035,2012,,,0,66698,3920985,False
+LAKE,Oregon,OR,41037,2012,,,0,7883,3920985,False
+LANE,Oregon,OR,41039,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,34,358680,3920985,False
+LINCOLN,Oregon,OR,41041,2012,,,0,46871,3920985,False
+LINN,Oregon,OR,41043,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,119340,3920985,False
+MALHEUR,Oregon,OR,41045,2012,,,0,31168,3920985,False
+MARION,Oregon,OR,41047,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,30,323225,3920985,False
+MARION,Oregon,OR,41047,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,11,323225,3920985,False
+MORROW,Oregon,OR,41049,2012,,,0,11225,3920985,False
+MULTNOMAH,Oregon,OR,41051,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,101,754332,3920985,False
+MULTNOMAH,Oregon,OR,41051,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,20,754332,3920985,False
+POLK,Oregon,OR,41053,2012,,,0,77863,3920985,False
+SHERMAN,Oregon,OR,41055,2012,,,0,1752,3920985,False
+TILLAMOOK,Oregon,OR,41057,2012,,,0,25638,3920985,False
+UMATILLA,Oregon,OR,41059,2012,,,0,76293,3920985,False
+UNION,Oregon,OR,41061,2012,,,0,25924,3920985,False
+WALLOWA,Oregon,OR,41063,2012,,,0,7026,3920985,False
+WASCO,Oregon,OR,41065,2012,,,0,25535,3920985,False
+WASHINGTON,Oregon,OR,41067,2012,Drug poisonings (overdose) Unintentional (X40-X44),D1,27,546818,3920985,False
+WASHINGTON,Oregon,OR,41067,2012,Drug poisonings (overdose) Suicide (X60-X64),D2,22,546818,3920985,False
+WHEELER,Oregon,OR,41069,2012,,,0,1421,3920985,False
+YAMHILL,Oregon,OR,41071,2012,,,0,101157,3920985,False
+BAKER,Oregon,OR,41001,2013,,,0,16083,3965940,False
+BENTON,Oregon,OR,41003,2013,,,0,88027,3965940,False
+CLACKAMAS,Oregon,OR,41005,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,38,391026,3965940,False
+CLATSOP,Oregon,OR,41007,2013,,,0,38052,3965940,False
+COLUMBIA,Oregon,OR,41009,2013,,,0,50487,3965940,False
+COOS,Oregon,OR,41011,2013,,,0,63555,3965940,False
+CROOK,Oregon,OR,41013,2013,,,0,22061,3965940,False
+CURRY,Oregon,OR,41015,2013,,,0,22533,3965940,False
+DESCHUTES,Oregon,OR,41017,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,13,170579,3965940,False
+DOUGLAS,Oregon,OR,41019,2013,,,0,108659,3965940,False
+GILLIAM,Oregon,OR,41021,2013,,,0,1882,3965940,False
+GRANT,Oregon,OR,41023,2013,,,0,7342,3965940,False
+HARNEY,Oregon,OR,41025,2013,,,0,7386,3965940,False
+HOOD RIVER,Oregon,OR,41027,2013,,,0,22751,3965940,False
+JACKSON,Oregon,OR,41029,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,20,209340,3965940,False
+JEFFERSON,Oregon,OR,41031,2013,,,0,22650,3965940,False
+JOSEPHINE,Oregon,OR,41033,2013,,,0,84470,3965940,False
+KLAMATH,Oregon,OR,41035,2013,,,0,66857,3965940,False
+LAKE,Oregon,OR,41037,2013,,,0,7882,3965940,False
+LANE,Oregon,OR,41039,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,41,362168,3965940,False
+LINCOLN,Oregon,OR,41041,2013,,,0,47290,3965940,False
+LINN,Oregon,OR,41043,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,14,120672,3965940,False
+MALHEUR,Oregon,OR,41045,2013,,,0,31094,3965940,False
+MARION,Oregon,OR,41047,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,327166,3965940,False
+MORROW,Oregon,OR,41049,2013,,,0,11249,3965940,False
+MULTNOMAH,Oregon,OR,41051,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,101,763924,3965940,False
+MULTNOMAH,Oregon,OR,41051,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,23,763924,3965940,False
+POLK,Oregon,OR,41053,2013,,,0,79091,3965940,False
+SHERMAN,Oregon,OR,41055,2013,,,0,1745,3965940,False
+TILLAMOOK,Oregon,OR,41057,2013,,,0,25830,3965940,False
+UMATILLA,Oregon,OR,41059,2013,,,0,76497,3965940,False
+UNION,Oregon,OR,41061,2013,,,0,26014,3965940,False
+WALLOWA,Oregon,OR,41063,2013,,,0,7035,3965940,False
+WASCO,Oregon,OR,41065,2013,,,0,25697,3965940,False
+WASHINGTON,Oregon,OR,41067,2013,Drug poisonings (overdose) Unintentional (X40-X44),D1,32,555297,3965940,False
+WASHINGTON,Oregon,OR,41067,2013,Drug poisonings (overdose) Suicide (X60-X64),D2,11,555297,3965940,False
+WHEELER,Oregon,OR,41069,2013,,,0,1412,3965940,False
+YAMHILL,Oregon,OR,41071,2013,,,0,102131,3965940,False
+BAKER,Oregon,OR,41001,2014,,,0,16067,4010895,False
+BENTON,Oregon,OR,41003,2014,,,0,88842,4010895,False
+CLACKAMAS,Oregon,OR,41005,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,34,396036,4010895,False
+CLACKAMAS,Oregon,OR,41005,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,12,396036,4010895,False
+CLATSOP,Oregon,OR,41007,2014,,,0,38394,4010895,False
+COLUMBIA,Oregon,OR,41009,2014,,,0,50865,4010895,False
+COOS,Oregon,OR,41011,2014,,,0,63722,4010895,False
+CROOK,Oregon,OR,41013,2014,,,0,22422,4010895,False
+CURRY,Oregon,OR,41015,2014,,,0,22589,4010895,False
+DESCHUTES,Oregon,OR,41017,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,174862,4010895,False
+DOUGLAS,Oregon,OR,41019,2014,,,0,108984,4010895,False
+GILLIAM,Oregon,OR,41021,2014,,,0,1885,4010895,False
+GRANT,Oregon,OR,41023,2014,,,0,7308,4010895,False
+HARNEY,Oregon,OR,41025,2014,,,0,7374,4010895,False
+HOOD RIVER,Oregon,OR,41027,2014,,,0,22886,4010895,False
+JACKSON,Oregon,OR,41029,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,22,211385,4010895,False
+JEFFERSON,Oregon,OR,41031,2014,,,0,22959,4010895,False
+JOSEPHINE,Oregon,OR,41033,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,85054,4010895,False
+KLAMATH,Oregon,OR,41035,2014,,,0,67016,4010895,False
+LAKE,Oregon,OR,41037,2014,,,0,7881,4010895,False
+LANE,Oregon,OR,41039,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,48,365656,4010895,False
+LANE,Oregon,OR,41039,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,10,365656,4010895,False
+LINCOLN,Oregon,OR,41041,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,12,47709,4010895,False
+LINN,Oregon,OR,41043,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,23,122004,4010895,False
+MALHEUR,Oregon,OR,41045,2014,,,0,31020,4010895,False
+MARION,Oregon,OR,41047,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,331107,4010895,False
+MORROW,Oregon,OR,41049,2014,,,0,11273,4010895,False
+MULTNOMAH,Oregon,OR,41051,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,96,773516,4010895,False
+MULTNOMAH,Oregon,OR,41051,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,13,773516,4010895,False
+MULTNOMAH,Oregon,OR,41051,2014,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,12,773516,4010895,False
+POLK,Oregon,OR,41053,2014,,,0,80319,4010895,False
+SHERMAN,Oregon,OR,41055,2014,,,0,1738,4010895,False
+TILLAMOOK,Oregon,OR,41057,2014,,,0,26022,4010895,False
+UMATILLA,Oregon,OR,41059,2014,,,0,76701,4010895,False
+UNION,Oregon,OR,41061,2014,,,0,26104,4010895,False
+WALLOWA,Oregon,OR,41063,2014,,,0,7044,4010895,False
+WASCO,Oregon,OR,41065,2014,,,0,25859,4010895,False
+WASHINGTON,Oregon,OR,41067,2014,Drug poisonings (overdose) Unintentional (X40-X44),D1,31,563776,4010895,False
+WASHINGTON,Oregon,OR,41067,2014,Drug poisonings (overdose) Suicide (X60-X64),D2,14,563776,4010895,False
+WHEELER,Oregon,OR,41069,2014,,,0,1403,4010895,False
+YAMHILL,Oregon,OR,41071,2014,,,0,103105,4010895,False
+BAKER,Oregon,OR,41001,2015,,,0,16051,4055850,False
+BENTON,Oregon,OR,41003,2015,,,0,89657,4055850,False
+CLACKAMAS,Oregon,OR,41005,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,26,401046,4055850,False
+CLATSOP,Oregon,OR,41007,2015,,,0,38736,4055850,False
+COLUMBIA,Oregon,OR,41009,2015,,,0,51243,4055850,False
+COOS,Oregon,OR,41011,2015,,,0,63889,4055850,False
+CROOK,Oregon,OR,41013,2015,,,0,22783,4055850,False
+CURRY,Oregon,OR,41015,2015,,,0,22645,4055850,False
+DESCHUTES,Oregon,OR,41017,2015,,,0,179145,4055850,False
+DOUGLAS,Oregon,OR,41019,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,109309,4055850,False
+GILLIAM,Oregon,OR,41021,2015,,,0,1888,4055850,False
+GRANT,Oregon,OR,41023,2015,,,0,7274,4055850,False
+HARNEY,Oregon,OR,41025,2015,,,0,7362,4055850,False
+HOOD RIVER,Oregon,OR,41027,2015,,,0,23021,4055850,False
+JACKSON,Oregon,OR,41029,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,21,213430,4055850,False
+JACKSON,Oregon,OR,41029,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,11,213430,4055850,False
+JEFFERSON,Oregon,OR,41031,2015,,,0,23268,4055850,False
+JOSEPHINE,Oregon,OR,41033,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,11,85638,4055850,False
+KLAMATH,Oregon,OR,41035,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,67175,4055850,False
+LAKE,Oregon,OR,41037,2015,,,0,7880,4055850,False
+LANE,Oregon,OR,41039,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,52,369144,4055850,False
+LINCOLN,Oregon,OR,41041,2015,,,0,48128,4055850,False
+LINN,Oregon,OR,41043,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,123336,4055850,False
+MALHEUR,Oregon,OR,41045,2015,,,0,30946,4055850,False
+MARION,Oregon,OR,41047,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,26,335048,4055850,False
+MORROW,Oregon,OR,41049,2015,,,0,11297,4055850,False
+MULTNOMAH,Oregon,OR,41051,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,91,783108,4055850,False
+MULTNOMAH,Oregon,OR,41051,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,19,783108,4055850,False
+MULTNOMAH,Oregon,OR,41051,2015,Drug poisonings (overdose) Undetermined (Y10-Y14),D4,14,783108,4055850,False
+POLK,Oregon,OR,41053,2015,,,0,81547,4055850,False
+SHERMAN,Oregon,OR,41055,2015,,,0,1731,4055850,False
+TILLAMOOK,Oregon,OR,41057,2015,,,0,26214,4055850,False
+UMATILLA,Oregon,OR,41059,2015,,,0,76905,4055850,False
+UNION,Oregon,OR,41061,2015,,,0,26194,4055850,False
+WALLOWA,Oregon,OR,41063,2015,,,0,7053,4055850,False
+WASCO,Oregon,OR,41065,2015,,,0,26021,4055850,False
+WASHINGTON,Oregon,OR,41067,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,29,572255,4055850,False
+WASHINGTON,Oregon,OR,41067,2015,Drug poisonings (overdose) Suicide (X60-X64),D2,12,572255,4055850,False
+WHEELER,Oregon,OR,41069,2015,,,0,1394,4055850,False
+YAMHILL,Oregon,OR,41071,2015,Drug poisonings (overdose) Unintentional (X40-X44),D1,10,104079,4055850,False
