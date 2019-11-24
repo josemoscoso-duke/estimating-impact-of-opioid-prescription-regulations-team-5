@@ -1,0 +1,55 @@
+import pandas as pd
+import numpy as np
+import glob
+import os
+
+# Set working directory
+os.chdir('E:\Jose_Moscoso\Duke\IDS 690 Tools for DS\Team Project\EDA WP\Comparison States\Texas')
+path = os.getcwd()
+print(path)
+
+#Extract only relevant columns from the consolidated file BUYER_COUNTY, BUYER_STATE, CALC_BASE_WT_IN_GM, MME_Conversion_Factor, TRANSACTION_DATE
+EDA_comparison = pd.read_csv('EDA_comp_TX.csv', usecols=['BUYER_COUNTY','BUYER_STATE','CALC_BASE_WT_IN_GM','MME_Conversion_Factor','TRANSACTION_DATE'])
+
+#EDA_comparison = pd.read_parquet('E:\\Jose_Moscoso\\Duke\\IDS 690 Tools for DS\\Team Project\\EDA_comparison_states.parquet', engine='fastparquet')
+
+#Create empty columns for DAY, MONTH AND YEAR.
+
+EDA_comparison['DAY'] = 0
+EDA_comparison['MONTH'] = 0
+EDA_comparison['YEAR'] = 0
+
+#Convert TRANSACTION_DATE into string so we can split it into multiple columns : DAY, MONTH AND YEAR.
+EDA_comparison['TRANSACTION_DATE'] = EDA_comparison['TRANSACTION_DATE'].astype(str)
+
+EDA_comparison['TRANSACTION_YEAR'] = [i[-4:] for i in EDA_comparison['TRANSACTION_DATE']]
+EDA_comparison['TRANSACTION_DAY'] = [i[-6:-4] for i in EDA_comparison['TRANSACTION_DATE']]
+EDA_comparison['TRANSACTION_MONTH'] = [i[:-6] for i in EDA_comparison['TRANSACTION_DATE']]
+
+#Convert the data in columns : DAY, MONTH AND YEAR again into integers.
+EDA_comparison['TRANSACTION_YEAR'] = EDA_comparison['TRANSACTION_YEAR'].astype(int)
+EDA_comparison['TRANSACTION_DAY'] = EDA_comparison['TRANSACTION_DAY'].astype(int)
+EDA_comparison['TRANSACTION_MONTH'] = EDA_comparison['TRANSACTION_MONTH'].astype(int)
+
+#Generate the standardized unit of measure for morphine milligram equivalent
+
+EDA_comparison['BUYER_MME'] = EDA_comparison['CALC_BASE_WT_IN_GM']*EDA_comparison['MME_Conversion_Factor']
+EDA_comparison.head()
+
+#Prepare data for reshaping extracting only relevant columns before reshaping.
+
+EDA_comparison_merge = EDA_comparison[['TRANSACTION_DAY','TRANSACTION_MONTH', 'TRANSACTION_YEAR', 'BUYER_STATE', 'BUYER_COUNTY', 'BUYER_MME']]
+
+#Reshaping with Group by on TRANSACTION_DAY and adding BUYER_MME
+
+EDA_comparison_merge = EDA_comparison_merge.groupby(['TRANSACTION_MONTH', 'TRANSACTION_YEAR', 'BUYER_STATE', 'BUYER_COUNTY'], as_index=False).sum()
+
+#Export data frame into a csv and parquet files to merge.
+
+#EDA_comparison_merge.to_csv('E:\\Jose_Moscoso\\Duke\\IDS 690 Tools for DS\\Team Project\\EDA_comp_merge.csv')
+
+EDA_comparison_merge.to_parquet('E:\\Jose_Moscoso\\Duke\\IDS 690 Tools for DS\\Team Project\\EDA_comp_TX.parquet', engine='pyarrow')
+
+#EDA1 = pd.read_parquet('E:\\Jose_Moscoso\\Duke\\IDS 690 Tools for DS\\Team Project\\EDA_comp_merge.parquet', engine='fastparquet')
+
+#EDA1

@@ -2,15 +2,16 @@ import pandas as pd
 import numpy as np
 import glob
 
+#Input state under testing
 
-florida = pd.read_csv('Team project\\arcos-fl-statewide-itemized.tsv.gz', sep='\t',nrows= 10000)
-florida.head()
+#alabama = pd.read_csv('E:\Jose_Moscoso\Duke\IDS 690 Tools for DS\Team Project\EDA WP\Comparison States\Florida', sep='\t',nrows= 10000)
+#alabama.head()
 
-#Extract data from folder, 3 files from EDA, one for each state (Washington, Texas and Florida) 
+#Extract data from folder, 3 files from EDA, one for each state (Washington, Texas and Florida)
 #We need to find 3 additional states to compare the effect of the policy before and after the policy implementation
 #Would be nice to consider states with similar size and population distributions.
 
-path = r'E:\Jose_Moscoso\Duke\IDS 690 Tools for DS\Anaconda\IDS 690\Team project' # path of .gz files
+path = r'E:\Jose_Moscoso\Duke\IDS 690 Tools for DS\Team Project\EDA WP\Comparison States\Texas' # path of .gz files
 all_files = glob.glob(path + "/*.gz")
 #EDA = list()
 chunksize=500000
@@ -24,5 +25,9 @@ for filename in all_files:
         keeping.append(d)
         pass
     pass
- 
+
 EDA_data=pd.concat(keeping)
+
+
+EDA_data.to_csv('E:\\Jose_Moscoso\\Duke\\IDS 690 Tools for DS\\Team Project\\EDA_comp_TX.csv')
+#EDA_data.to_parquet('E:\\Jose_Moscoso\\Duke\\IDS 690 Tools for DS\\Team Project\\EDA_comp_FL.parquet', engine='fastparquet')
