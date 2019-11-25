@@ -15,8 +15,8 @@ import os
 os.chdir("C:/Users/Varun/Documents/MIDS/Fall 2019/IDS 690 - Practical Data Science with Python/Midterm Project/estimating-impact-of-opioid-prescription-regulations-team-5")
 
 # Input state name and abbreivation
-state = 'Florida'
-state_abbrev = 'FL'
+state = 'Washington'
+state_abbrev = 'WA'
 
 # Function to clean population and mortality data and then merge the two dataframes
 def pop_mort_merge(st):
@@ -159,6 +159,8 @@ pop_mort_data
 # View a sample of the data to confirm
 pop_mort_data.sample(50)
 
+# Check that merged dataset has deaths will values of 0
+pop_mort_data[pop_mort_data['Deaths'] == 0]
 
 # Save population data to csv
 pop_mort_data.to_csv("20_intermediate_files/{}MortPopData.csv".format(state_abbrev), index = False)
