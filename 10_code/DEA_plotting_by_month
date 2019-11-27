@@ -1,0 +1,71 @@
+import pandas as pd
+import numpy as np
+import os
+from plotnine import *
+from datetime import date
+
+from mizani.breaks import date_breaks
+from mizani.formatters import date_format
+from matplotlib.dates import date2num
+
+os.chdir('/Users/ningjiehu/github/estimating-impact-of-opioid-prescription-regulations-team-5/20_intermediate_files')
+
+state = 'Washington'
+state_abbrev = 'WA'
+policy_year = 2012
+
+def county_level_plot(state, state_abbrev, policy_year):
+    #diff in diff
+    #control_state = pd.read_csv('{}DEAcombineddata.csv'.format(state_abbrev))
+    #pre-post
+    control_state = pd.read_csv('{}OpioidData.csv'.format(state_abbrev))
+    control_state['TRANSACTION_MONTH'].dtypes
+    control_state['Year'].value_counts()
+    control_state
+    control_state['Date'] = pd.to_datetime(control_state.Year*100 + control_state.TRANSACTION_MONTH*1, format="%Y%m")
+    control_state
+
+    ## Create a column representing drug per capita.
+    control_state['Drug_Per_Capita'] = control_state['BUYER_MME'] / control_state['County Population']
+    control_state
+    # To make trend more obvious, try multiply Drug_Per_Capita by 1000.
+    control_state['1000X_Drug_Per_Capita'] = control_state['Drug_Per_Capita'] * 1000
+    control_state
+    # Define x-axis
+    start = control_state['Date'].min()
+    start
+    end = control_state['Date'].max()
+    end
+    control_state['Date']
+    bef_policy = control_state.copy()
+    bef_policy = control_state[(control_state['Date'] > '2006-01-01') & (control_state['Date'] < '2011-01-01')]
+    bef_policy
+    aft_policy = control_state.copy()
+    aft_policy = control_state[(control_state['Date'] > '2012-01-01') & (control_state['Date'] < '2013-01-01')]
+    aft_policy
+
+    ## pre-post plotting
+    DEAshipment_plot = (ggplot() +
+        geom_smooth(bef_policy, aes(x = 'Date', y = '1000X_Drug_Per_Capita')) +
+        geom_smooth(aft_policy, aes(x = 'Date', y = '1000X_Drug_Per_Capita')) +
+        scale_x_datetime(breaks = date_breaks('1 years'),limits = [start, end], labels = date_format('%Y-%m'), minor_breaks = date_breaks('1 month')) +
+        ggtitle("DEA shipment in {}".format(state))
+        )
+
+    ## diff in diff plotting
+    #DEAshipment_plot = (ggplot() +
+    #    geom_smooth(bef_policy, aes(x = 'Date', y = '1000X_Drug_Per_Capita', color = 'Policy State')) +
+    #    geom_smooth(aft_policy, aes(x = 'Date', y = '1000X_Drug_Per_Capita', color = 'Policy State')) +
+    #    scale_x_datetime(breaks = date_breaks('1 years'),limits = [start, end], labels = date_format('%Y-%m'), minor_breaks = date_breaks('1 month')) +
+    #    ggtitle("DEA shipment in {}".format(state))
+    #    )
+        #geom_vline(xintercept = date2num(data.timestamp['2007-01-01 00:00:00']), colour="red"))
+
+    print(DEAshipment_plot)
+    #DEAshipment_plot.save("{}_DEAshipment.png".format(state_abbrev))
+    DEAshipment_plot.save("{}_DEAshipment_pre_post.png".format(state_abbrev))
+
+
+county_level_plot('Washington', 'WA', 2012)
+county_level_plot('Texas', 'TX', 2007)
+county_level_plot('Florida', 'FL', 2010)
