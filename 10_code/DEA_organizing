@@ -1,0 +1,40 @@
+# Import libraries
+import pandas as pd
+import numpy as np
+import os
+
+# This function will import previously merged Opioid shipment data and
+# concatenate the dataframes to make plotting death/shipment per capita
+
+# Set directory
+os.chdir('/Users/ningjiehu/github/estimating-impact-of-opioid-prescription-regulations-team-5/20_intermediate_files')
+
+# Input state abbreviations
+main_state = 'WA' # Change depending on FL, TX, or WA
+# Comparison state list
+#state_list = ['TX', 'AZ', 'LA', 'NM', 'OK']
+state_list = ['WA', 'ID', 'MT', 'NV', 'OR']
+
+# Function to read in data and concatenate dataframes
+def state_combo(st_list):
+    # Initialize dataframe
+    target_states = pd.read_csv("{}OpioidData.csv".format(main_state))
+
+    # Concatenate two dataset and loop the states
+    for state in state_list:
+        comparison_states = pd.read_csv("{}ComparisonOpioidData.csv".format(main_state))
+        comparison_states['State Abbreviation'].unique()
+        all_states = pd.concat([target_states,comparison_states],ignore_index=True)
+        all_states
+    return all_states
+
+# Return combined table
+combined_data = state_combo(state_list)
+combined_data.sample(50)
+
+# Add column that classifies states as either main policy state or comparison state
+combined_data['Policy State'] = np.where(combined_data['State Abbreviation'] == main_state, True, False)
+combined_data.sample(50)
+
+# Save concatenated dataframe to csv
+combined_data.to_csv("{}DEAcombineddata.csv".format(main_state), index = False)
